@@ -11,6 +11,7 @@ when it is built.
 ```
 gallery/files/<id>.jpg        a picture, named by its record's id (any image type)
 gallery/files/<id>/1.jpg …    a document of several pages, its pages in order
+inbox/                        new uploads, waiting for their records (inbox/README.md)
 ```
 
 ## Adding pictures
