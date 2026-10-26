@@ -1,0 +1,539 @@
+CITATIONS - Brown / Hatten / Allee records, batch 2 (FamilySearch, searched 26 Oct 2026)
+
+Folder: brown-hatten-allee-records-2026-10-26b
+18 files. All images are FamilySearch's own full-size originals (dist.jpg), except the two
+files marked SCREENSHOT OF INDEX ENTRY, where FamilySearch shows no image to ordinary users.
+Square brackets mark readings that are uncertain or are explanations added by the transcriber.
+"[ditto]" means the census taker wrote a ditto mark.
+
+The task items each file answers are given after the file name. A list of everything NOT
+found, with the collections, places and spellings tried, is at the end.
+
+KEY POINTS
+- Edith Allee is Albert and Lucinda Allee's daughter. In 1880 Thomas Hatton is entered as
+  Albert Allie's "son in law", living next door (census-1880-reynolds-hatten). Her 1912
+  Chicago death record names her father Albert Allee (death-certificate-hayes-1912). Bertha's
+  1913 licence names her mother "Edna Hatten whose maiden name was Edna Alley"
+  (marriage-record-timm-hatten-1913).
+- Edith/Edna Hayes died in Chicago on 15 Jan 1912, a widow, aged "50" (born 4 Dec 1858 per
+  the index; the censuses say about 1853).
+- Thomas J. Hatten was born about April-May 1850 in Ohio. He is a 1-month-old in Ralph and
+  Sarah Ann Hatten's household in 1850 (census-1850-jackson-hatten). He died in St Paul, MN, on
+  26 Dec 1924, aged 74. That death record names his parents Ralph and Sarah and his wife
+  Mrs Mary Hatton.
+- Benjamin Philbrick and Ruth Marvin married in Gallia Co., Ohio, on 3 May 1818.
+- Stephen K. Brown married Caroline Williamson in McHenry Co., IL, on 21 Mar 1857.
+- Ralph Hatten married Henrietta Browne in Seattle on 21 Feb 1912. This is where the Hatten
+  and Brown lines join; S. A. Browne was a witness.
+- In 1910 Samuel Hoopes's wife "Stina", aged 50 and born in Illinois, was living with her
+  sister Carrie Brown, aged 33. This identifies S. Rena Hoopes as Stena/Ella Brown.
+
+==========================================================================================
+
+census-1895-minnesota-brown.jpg          [item 2]
+  Collection: Minnesota, State Census, 1895
+  Records:   https://www.familysearch.org/ark:/61903/1:1:MQ8R-H6Y (Car[rie] Brown)
+             https://www.familysearch.org/ark:/61903/1:1:MQ8R-H61 (Henryeta)
+             https://www.familysearch.org/ark:/61903/1:1:MQ8R-H6B (Albert)
+             Index: page 9; microfilm 000565773
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-6529-RN4
+             image 135 of 822, DGS 004344708 ("Goodhue. Census 1895")
+  Held by:   Minnesota. Census Bureau (creator and custodian, per FamilySearch).
+             "Goodhue, Minnesota, United States records," images, FamilySearch, image 135 of 822;
+             Minnesota. Census Bureau. Image Group Number: 004344708
+  Header:    Page No. 9. County of Goodhue. Inhabitants in the Township of Burnside, State of
+             Minnesota, enumerated the 20 day of June 1895. [M. Henry?], P.O. Welch. Stamped 33.
+  Where:     lines 12-16, a little above the middle of the page.
+  Transcription (name | age | sex | color | birthplace | years in state | years in district |
+  occupation | months employed | father foreign born | mother foreign born):
+    12 Brown Carrie    | 39 | F | W | Sweden |   |   |          |   | Yes | Yes
+    13 Brown Albert    | 10 | M | W | Minn   |   |   |          |   | Yes | Yes
+    14 Brown Henryeta  |  9 | F | W | Minn   |   |   |          |   | Yes | Yes
+    15 Anderson Nils   | 27 | M | W | Sweden | 2 | 1 | Laborer  | 4 | Yes | Yes
+    16 Derman Axel     | 22 | M | W | Sweden | 1 | 1 | Laborer  | 6 | Yes | Yes
+  Context: lines 10-11 are Erick Shogren (70, farmer, Sweden) and Catharine (72). Line 17
+    begins Hans Johnson (52, Norway), "Supt. Poor [Farm?]", followed by a run of "Pauper"
+    entries (lines 24-40). The next household is the county poor farm.
+  Notes: Edward N. Brown is not with them and was not found anywhere in the 1895 index.
+    Carrie's birthplace is given as Sweden here.
+
+census-1860-kankakee-allee.jpg           [item 5]
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MXCC-NYK (indexed "Lucinda Allie")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9YBX-JRJ
+             image 171 of 404, DGS 005165763 (Illinois, 1860 federal census: population
+             schedules: Kankakee; NARA M653)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Census Office. 8th census, 1860.
+  Header:    Page No. 167. Free Inhabitants in Ganeer in the County of Kankakee, State of Ill,
+             enumerated 20th June 1860. Post Office Momence.
+  Where:     lines 27-31, about two-thirds of the way down the page.
+  Transcription (dwelling | family | name | age | sex | occupation | real estate | birthplace):
+    27  1306 | 1246 | Albert Allie | 3[3] | M | Blacksmith | 1200 | N.Y.
+    28              | Lucinda "    | 28   | F |            |      | Ind
+    29              | Sarah E "    | 7    | F |            |      | Ill   (attended school)
+    30              | Emery D "    | 5    | M |            |      | "
+    31              | Agnes E "    | 2    | F |            |      | "
+  Answer to item 5: yes. Sarah E., born about 1853 in Illinois, is their daughter.
+
+census-1870-long-prairie-allee.jpg       [item 5]
+  Collection: United States, Census, 1870
+  Records:   https://www.familysearch.org/ark:/61903/1:1:MDH6-DZ2 (Albert Allee)
+             https://www.familysearch.org/ark:/61903/1:1:MD4P-X5F (second indexing, other filming)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-XHLG-VT
+             image 20 of 52, DGS 004257586 (item 5 of 7, "Todd. Census Jul 23, 1870"; NARA M593)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Census Office. 9th census, 1870.
+  Header:    Page No. 5. Inhabitants in Long Prairie Township, County of Todd, State of
+             Minnesota, enumerated 19th August 1870. P.O. Long Prairie Minn. N. Richardson,
+             Ass't Marshal.
+  Where:     RIGHT-HAND page, lines 24-31, lower middle.
+  Transcription (dwelling | family | name | age | sex | color | occupation | real estate |
+  personal estate | birthplace):
+    24  32 | 31 | Allee Albert | 43 | M | W | Farming       | 500 | 150 | New York
+    25         | Lycinda      | 40 | F | W | Keeping house |     |     | Indiana
+    26         | Sarah E      | 17 | F | W | Working out   |     |     | Illinois
+    27         | Emery D      | 15 | M | W | At home       |     |     | Illinois (school)
+    28         | Agonice E    | 12 | F | W | At home       |     |     | Illinois (school)
+    29         | Emma J       |  7 | F | W |               |     |     | Illinois (school)
+    30         | Elsie M      |  5 | F | W |               |     |     | Illinois (school)
+    31         | Walter E     |  2 | M | W |               |     |     | Minnesota
+  Note: Sarah E. is still unmarried at home in Aug 1870. Ralph Hatten was born 6 Nov 1871,
+    so the Hatten-Allee marriage falls between Aug 1870 and early 1871.
+
+census-1880-reynolds-hatten.jpg          [items 5, 6, 9: extra find]
+  Collection: United States, Census, 1880
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ9R-PBG (Thomas Hatton)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9YB8-51B
+             image 635 of 871, DGS 005161065 (NARA T9 roll 635)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Bureau of the Census. 10th census, 1880.
+  Header:    Page No. 13. Supervisor's Dist. 3rd. Enumeration Dist. 135. Stamped 314 [sheet A].
+             Inhabitants in Reynolds, County of Todd, State of Minnesota, enumerated 21st June
+             1880, H. D. Corey.
+  Where:     lines 7-17, upper middle of the page.
+  Transcription (dwelling | family | name | color | sex | age | relationship | marital |
+  occupation | birthplace | father's birthplace | mother's birthplace):
+     7  92 | 100 | Allie, Albert | W | M | 53 |              |   | Stone Mason [11 months
+                   unemployed]   | New York  | New York | Conn
+     8          | Lucinda       | W | F | 50 | wife         |   | House keeping | Indianna  | Maryland | Conn
+     9          | Emma          | W | F | 17 | daughter     | single | works at home | Illinois
+    10          | Elsie         | W | F | 15 | daughter     |   | At home     | Illinois
+    11          | Walter        | W | M | 12 | son          |   | at school   | Minnesota
+    12          | Louis         | W | M |  9 | son          |   | at school   | Minnesota
+    13          | Ella B.       | W | F |  6 | daughter     |   | at school   | Minnesota
+    14     | 101 | Hatton, Thomas | W | M | 28 | son in law  | married | Laborer | Ohio | Ohio | Ohio
+    15          | Edithe        | W | F | 27 | wife (written over "daughter") | married |
+                                    House keeping | Illinois | New York | Conn
+    16          | Maud          | W | F |  7 | daughter     |   |             | Minnesota
+    17          | Bertha        | W | F |  5 | daughter     |   |             | Minnesota
+  Notes: this proves Edith is Albert's daughter. Edith's mother's birthplace "Conn" seems to be
+    copied from Albert's line. Ralph (8) is not here; he is in the next file.
+
+census-1880-new-york-mills-hatten.jpg    [items 6, 9: extra find]
+  Collection: United States, Census, 1880
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ9J-YD3 (Thomas Hatton)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9YB7-9XD
+             image 775 of 814, DGS 005161058 (NARA T9 roll 628)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Bureau of the Census. 10th census, 1880.
+  Header:    [Sheet B] Page No. 2. Supervisor's Dist. 3. Enumeration Dist. 171. Inhabitants in
+             New York Mills, County of Otter Tail, State of Minnesota, enumerated 1st & 2nd June
+             1880. Charles Russell, enumerator. (FamilySearch: Newton Township, sheet 181B.)
+  Where:     lines 45-49, bottom of the left-hand page.
+  Transcription (dwelling | family | name | color | sex | age | relationship | occupation |
+  birthplace | father's birthplace | mother's birthplace):
+    45  15 | 16 | Hatton, Thomas | W | M | 30 |          | [married]        | Ireland   | Ireland | Ireland
+    46          | Edith          | W | F | 27 | Wife     | help in house    | Illinois  | N.Y.    | Ontario [sic]
+    47          | Ralph          | W | M |  8 | Son      | At home          | Minnesota | Ireland | Ill
+    48          | Mandie         | W | F |  6 | Daughter | At home          | Minnesota | Ireland | Ill
+    49          | Bertha         | W | F |  5 | Daughter |                  | Minnesota | Ireland | Ill
+  Notes: the family was counted twice in 1880 (here on 1-2 June, and at Reynolds on 21 June).
+    "Ireland" for Thomas conflicts with Ohio everywhere else.
+
+census-1850-jackson-hatten.jpg           [item 14]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MXQF-L8N (Ralph Hatten)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-DHW4-WGB
+             image 299 of 323, DGS 004204486 (Ohio, 1850 federal census: population
+             schedules, Jackson County, NARA M432 roll 698)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Census Office. 7th census, 1850.
+  Header:    Schedule I. Free Inhabitants in Liberty Township in the County of Jackson, State
+             of Ohio, enumerated 5th Oct 1850. J. W. Laird [?], Ass't Marshal. Stamped 373.
+  Where:     lines 8-12, upper third of the page.
+  Transcription (dwelling | family | name | age | sex | occupation | real estate | birthplace):
+     8  349 | 360 | Ralph Hatten  | 35   | M | Farmer | 1500 | Va.
+     9            | Sarah Ann     | 19   | F |        |      | Ohio
+    10            | Lucretia      | 2    | F |        |      | Ohio
+    11            | Thomas J.     | 1/12 | M |        |      | Ohio
+    12            | Josiah Hatten | 13   | M |        |      | Ohio  (attended school)
+  Answer to item 14: yes. An infant Thomas J., one month old on the census day (1 June 1850),
+    is listed.
+
+census-1857-dakota-hatten.jpg            [item 14]
+  Collection: Minnesota, Territorial Census, 1857
+  Record:    https://www.familysearch.org/ark:/61903/1:1:38G9-2T2 (Thomas Hatton)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:939Z-YG9N-KP
+             image 532 of 741, DGS 004539665
+  Held by:   creator Minnesota. Census Bureau (no custodian named in FamilySearch's citation).
+  Header:    Census. Inhabitants of Town 113 Range 19 in the County of Dakota, Territory of
+             Minnesota, enumerated 6th October 1857. John J. McVay [?], Ass't Marshal.
+             [Town 113 Range 19 is the Waterford/Sciota area.]
+  Where:     LEFT-HAND page, lines 32-37, lower part (dwelling 7, family 7).
+  Transcription (name | age | sex | color | birthplace | occupation):
+    32  Ralp Hatton      | 43   | M | W | Virginia | Farmer
+    33  Sarah A. Hatton  | 25   | F | W | Ohio
+    34  Lucretia Hatton  | [blotted] | F | W | Ohio
+    35  Thomas Hatton    | 7    | M | W | Ohio
+    36  John W. Hatton   | 3    | M | W | Ohio
+    37  Josiah Hatton    | 1[9?] (indexed 29) | M | W | Ohio | Farmer
+  Also on the page: lines 27-31, William Hatton (33, Virginia, farmer), Catharine (23,
+    Ireland), Emerellis [?] (5, Virginia), Elizabeth (3, Virginia), Winona (1, Minn.).
+
+census-1875-northfield-hatten.jpg        [items 9, 14]
+  Collection: Minnesota, State Census, 1875
+  Records:   https://www.familysearch.org/ark:/61903/1:1:MKNR-7H7 (T J Hatten); MKNR-7HW
+             (Editha); MKNR-7HZ (Lizzie). Index: Northfield City, Rice Co; volume R-2, page 397,
+             line 4; microfilm 0565727.
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-62GS-JQT
+             image 563 of 730, DGS 004482162
+  Held by:   Minnesota. Census Bureau (creator and custodian, per FamilySearch).
+  Where:     LEFT-HAND page (pencilled 397), lines 4-9, near the top. There is no place heading
+             on this page.
+  Transcription (family | name | age | sex | color | nativity | father's nativity |
+  mother's nativity):
+     4  254 | T. J. Hatten    | 25 | M | W | Ohio  | Ohio     | Ohio
+     5      | Editha Hatten   | 22 | F | W | Ill.  | [ditto]  | Ill.
+     6      | R. A. Hatten    |  3 | M | W | Minn. | Ohio     | [ditto]
+     7      | M. S. Hatten    |  2 | F | W | [ditto]| [ditto] | [ditto]
+     8      | Mary Hatten     | 16 | F | W | [ditto]| [ditto] | Ohio
+     9      | Lizzie Hatten   | 21 | F | W | [ditto]| [ditto] | [ditto]
+  Notes: Thomas and Edith are at Northfield with Ralph (indexed "H A") and Maud (M. S.). Bertha
+    was later said to have been born at Northfield. Mary and Lizzie are probably Thomas's
+    sisters.
+
+death-certificate-thomas-hatten-1924.jpg   SCREENSHOT OF INDEX ENTRY   [item 13]
+  Collection: Minnesota, Deaths, 1887-2001
+  Record:    https://www.familysearch.org/ark:/61903/1:1:ZD6S-HYMM
+             (also Minnesota, Death Index 1908-2002, V4CZ-V98)
+  Image:     none viewable. Film/DGS 004227613 ("Minnesota. Death Certificates 1924"; creator
+             Minnesota. Department of Health. Section of Vital Statistics). The image is marked
+             "Limited Access Image": viewable only at a FamilySearch Center or affiliate
+             library.
+  Held by:   FamilySearch's citation names no holder: "Minnesota, Deaths, 1887-2001",
+             FamilySearch (https://www.familysearch.org/ark:/61903/1:1:ZD6S-HYMM : Fri Mar 27
+             22:32:40 UTC 2026), Thomas J Hatton, 26 Dec 1924.
+  Transcription: Name Thomas J Hatton | Male | Age 74 | Birth date 1850 | Birthplace Ohio |
+    Death 26 Dec 1924, St Paul, Ramsey, Minnesota | Certificate number 25130 | Father Ralph
+    Hatton | Mother Sarah | Spouse Mrs Mary Hatton.
+  Where: the whole entry.
+  Notes: he died in St Paul, not North Dakota. No obituary was found on FamilySearch.
+
+death-certificate-hayes-1912.jpg   SCREENSHOT OF INDEX ENTRY   [item 8]
+  Collection: Illinois, Cook County Deaths, 1871-1998
+  Records:   https://www.familysearch.org/ark:/61903/1:1:N7J6-T68 (shown)
+             https://www.familysearch.org/ark:/61903/1:1:Q2M7-VKL5 (second indexing)
+             N7NV-9NP, Q2M4-M8Y2 (variant indexings as "Edna Haye")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-X47F-1Q (image 21 of 1472,
+             DGS 004004947, FHL film 1287621, "Chicago death certificates", vol. 14495-16579).
+             Marked "Limited Access Image"; not downloadable.
+  Held by:   Illinois. County Court (Cook County) (custodian); creator Cook County (Illinois).
+             County Clerk.
+  Transcription: Name Edna Hayes | Female | Age 50 years 1 month 11 days | Born 04 Dec 1858,
+    Illinois | Address 2931 W. Humboldt St. | Widowed | Housewife | White | Died 15 Jan 1912,
+    Chicago, Cook, Illinois | Burial 17 Jan 1912 | Cemetery: Bohemia [Bohemian National] |
+    Record number 21 | Reference cn 16537 | Father Albert Allee, born Ohio.
+  Where: the whole entry.
+  Also: the Find a Grave index (Q2S9-9QYS) has Edna Hayes, b. 4 Dec 1856, d. 17 Jan 1912,
+    buried St Luke Cemetery, Chicago.
+
+marriage-record-timm-hatten-1913.jpg     [item 10]
+  Collection: Montana, County Marriages, 1865-1950
+  Records:   https://www.familysearch.org/ark:/61903/1:1:F3ST-6QK (Bertha M. Hatten)
+             F3ST-6QN (Fred W. Timm), F3ST-6Q2 (Thomas J. Hatten), F3ST-6QL ("Alley")
+             Source: item 1 rn 4859
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6Q69-S87
+             image 196 of 905, DGS 004278542 (Silver Bow marriage records, Apr 1912-Aug 1914,
+             no. A4500-A6231)
+  Held by:   Montana. County Court (Silver Bow County) (custodian); creator Silver Bow County
+             (Montana). Clerk of the District Court.
+  Where:     RIGHT-HAND page of the spread: licence No. A 4859 (top) and its certificate
+             (bottom). The left page (No. A 4858) is unrelated.
+  Transcription:
+    The State of Montana, County of Silver Bow, ss. Marriage License. No. A 4859. These Presents,
+    are to authorize any Judge of a Court of Record, any Justice of the Peace within said County,
+    elected, or appointed by the Governor of Montana therefor, any regular ordained Minister who
+    is in good standing in the religious denomination to which he belongs, or any religious
+    society, according to the usages of said society, to solemnize within said County of Silver
+    Bow, State of Montana, the marriage of Fred W. Timm a White man aged 31 years, born at Des
+    Moines in the County of ___ and State of Iowa and now residing at Butte in the County of
+    Silver Bow, State of Montana, and who has Not been previously married and is now a ___ Son of
+    John H. Timm and Maggie Timm, whose maiden name was ___ With Bertha M. Hatten a White woman
+    aged 35 years, born at Northfield in the County of ___ and State of Minnesota and now
+    residing at Butte in the County of Silver Bow, and State of Montana, who has ___ been
+    previously married and is now a Divorcee Daughter of Thomas J. Hatten and Edna Hatten whose
+    maiden name was Edna Alley. Being duly sworn this 14" day of Feb, 1913, the applicant states
+    the ages given are true and correct. IN WITNESS WHEREOF, I have hereunto set my hand and
+    affixed the seal of the District Court of the Second Judicial District of the State of
+    Montana, this 14" day of Feb 1913. John J. Foley, Clerk. By J. J. O'Brien [?], Deputy Clerk.
+    The State of Montana, County of Silver Bow, ss. Marriage Certificate. I Hereby Certify, That
+    I believe that the facts stated in the foregoing License are true and that upon due inquiry
+    there appears to be no legal impediment to the marriage of said Fred W. Timm and Bertha M.
+    Hatten; that said parties were joined in marriage by me on the 14 day of February A.D. 1913,
+    at Butte Montana, in the said County and State, in the presence of the undersigned
+    witnesses, and that said Fred W. Timm and Bertha M. Hatten solemnly declared in my presence,
+    and in the presence of the said named witnesses, that they took each other as husband and
+    wife. IN WITNESS WHEREOF, I have hereunto set my hand this 14 day of February A.D. 1913. In
+    presence of Effanna [?] S. Mitchell, E. J. Mitchell, Witnesses. W. H. Mitchell, Officiating
+    Clergyman. Filed for record Mch 31 A.D. 1913. John J. Foley, Clerk. By D. W. Lewis, Deputy
+    Clerk.
+  Notes: Bertha was divorced by 1913, so she had an earlier marriage (not found). The Find a
+    Grave index has "Bertha M. Hatten Nobel", 1875-1953, Evergreen-Washelli, Seattle
+    (QV2Y-DRDL), probably her.
+
+marriage-record-philbrick-marvin-1818.jpg   [item 12]
+  Found by Full-Text search ("Philbrick Ruth Marvin", place Gallia, Ohio). This entry has no
+  indexed record.
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GRMD-S223
+             image 49 of 493, DGS 004016313 ("Gallia. Marriage Records 1803-1843, 1843-1862")
+  Held by:   Ohio. Probate Court (Gallia County) (creator and custodian).
+  Where:     LEFT-HAND page (page 76), third entry from the top, under the underlined heading
+             "Benjamin Philbrick and Ruth Marvin". The volume is a later fair copy.
+  Transcription: Benjamin Philbrick and Ruth Marvin. The State of Ohio, Gallia County ss: I do
+    hereby certify that on the 3d day of May, I joined together Benjamin Philbrick and Ruth
+    Marvin, of lawful age, in the holy state of matrimony. Given under my hand and seal this
+    fourth day of May 1818. David C. Sayre J.P.
+  Note: "of lawful age"; no parent's consent is named.
+
+marriage-record-brown-williamson-1857.jpg   [item 15]
+  Collection: Illinois, County Marriages, 1810-1940
+  Record:    https://www.familysearch.org/ark:/61903/1:1:KFLF-Z2J (source: it1, p46, no1835)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-8B2P-218
+             image 53 of 126, DGS 005204724 (item 1 of 4), "Marriage Record" v. A, McHenry
+             marriage records 1837-1878
+  Held by:   Illinois. County Court (McHenry County) (custodian); creator McHenry County
+             (Illinois). County Clerk.
+  Where:     page 46 ("MARRIAGE REGISTER. McHENRY COUNTY."), licence no. 1835, about two-thirds
+             of the way down. The names are on the LEFT page and the date of marriage and
+             officiant are on the RIGHT page on the same ruled line. The right page has a blank
+             line after entry 1830, so read across by the ruling, not by the handwriting.
+  Transcription (No. of License | Date | Names of Parties | Date of Marriage | By whom
+  certified | When registered):
+    1835 | March 21 1857 | Stephen K. Brown -- Caroline Williamson | March 21 1857 |
+           Sam'l K. Pulford [?] M.G. [certified] Mar 23 1857 | Mar 23 1857
+  Note: no ages, birthplaces or parents are given. No naturalisation was found (see the
+    not-found list).
+
+census-1910-minneapolis-hoopes.jpg       [item 18: extra find]
+  Collection: United States, Census, 1910
+  Record:    https://www.familysearch.org/ark:/61903/1:1:M2G4-9GD (Samuel Hoopes)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9RVN-WV2
+             image 944 of 1065, DGS 004972535 (Minnesota: Hennepin E.D. 47-78, NARA T624
+             roll 701)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Bureau of the Census. 13th census, 1910.
+  Header:    Minnesota, Hennepin, Minneapolis (part), Ward 4 (part); Supervisor's Dist. 5;
+             Enumeration Dist. 74; Sheet 11A; enumerated 20 April 1910.
+  Where:     lines 6-8, upper part of the page (margin: Douglas Ave, no. 1121; dwelling 142,
+             family 196).
+  Transcription (name | relationship | sex | color | age | marital | years married |
+  children born/living | birthplace | father's | mother's | occupation):
+    6  Hoopes, Samuel | Head          | M | W | 52 | M[1] | 1 [as read] |     | Penna     | Penna    | Penna    | own income [?]
+    7  --, Stina      | Wife          | F | W | 50 | M    | 1 [as read] | 0/0 | Illinois  | Illinois | Illinois | None
+    8  Brown, Carrie  | Sister-in-law | F | W | 33 | S    |             |     | Minnesota | Illinois | Illinois | None
+  Notes: FamilySearch indexes Carrie as 53; the sheet reads 33. This fits Kari Birgitte
+    "Carrie" Brown (b. 1876). "Stina", born about 1860 in Illinois, fits Ella A. "Stena". The
+    parent birthplaces are entered wrongly.
+
+census-1910-seattle-peterson.jpg         [items 19, 20]
+  Collection: United States, Census, 1910
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MGJS-SBF (John E Peterson)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9YB7-NJH
+             image 385 of 1146, DGS 005157546 (Washington: King, E.D. 114-139, 205-214, 361,
+             362)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Bureau of the Census. 13th census, 1910.
+  Header:    Washington, King, 5th Precinct, Seattle, Ward 13; Supervisor's Dist. 1;
+             Enumeration Dist. 209; Sheet 21A.
+  Where:     lines 43-46, lower part of the page (dwelling 441, family 455).
+  Transcription (name | relationship | sex | color | age | marital | years married |
+  children born/living | birthplace | father's | mother's | immigration | occupation):
+    43  Peterson, John E. | Head     | M | W | 46 | M1 | 13 |     | Illinois  | Sweden   | Sweden |      | Engineer, Locomotive
+    44  --, Carrie        | Wife     | F | W | 55 | M2 | 13 | 3/3 | Norway    | Norway   | Norway | 1881 | None
+    45  --, Edith         | Daughter | F | W | 11 | S  |    |     | Minnesota | Illinois | Norway |      | None
+    46  Brown, Henrietta  | Daughter | F | W | 24 | S  |    |     | Minnesota | Illinois | Norway |      | Saleslady, Dry Goods
+  Note: FamilySearch indexes Henrietta's surname as "Borenn".
+
+census-1920-seattle-peterson.jpg         [items 19, 20]
+  Collection: United States, Census, 1920
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MHNP-PJ5 (John E Peterson)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9RNB-WM
+             image 536 of 1169, DGS 004968991 (NARA T625 roll 1926)
+  Held by:   United States. National Archives and Records Administration (custodian);
+             creator United States. Bureau of the Census. 14th census, 1920.
+  Header:    Washington, King, Precinct 45, Seattle City; Supervisor's Dist. 1; Enumeration
+             Dist. 109; Sheet 4A; enumerated January 1920, Edith E. Hale.
+  Where:     lines 32-35, about two-thirds of the way down (house 2832, dwelling 73, family 82).
+  Transcription (name | relationship | sex | color | age | marital | immigration/
+  naturalization | birthplace | father's | mother's | occupation):
+    32  Peterson, John E. | Head     | M | W | 54 | M |              | Illinois  | Sweden   | Sweden | Laborer, Public
+    33  --, Carrie        | Wife     | F | W | 65 | M | 1871 [sic] Na 1880 | Norway | Norway | Norway | none
+    34  Brown, S. A.      | Stepson  | M | W | 25 | S |              | Minnesota | Illinois | Norway | Carpenter, Houses
+    35  Peterson, Edith F | Daughter | F | W | 19 | S |              | Minnesota | Illinois | Norway | Stenography, Law Office
+
+marriage-record-hatten-brown-1912.jpg    [extra find: joins the two lines]
+  Collection: Washington, County Marriages, 1855-2008
+  Records:   https://www.familysearch.org/ark:/61903/1:1:QKNY-TXKW (also QPML-DHBP, QPML-9XXT)
+             Source: 38229
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-89F5-H97X
+             image 212 of 413, DGS 004208861 (King County, Record of Marriage Certificates,
+             v. X, no. 37590-38834)
+  Held by:   Washington State Archives (Bellevue, Washington) (custodian); creator King
+             County (Washington). County Auditor.
+  Where:     page 209, the MIDDLE certificate of three (margin no. 38229).
+  Transcription: No. 38229. State of Washington, County of King, ss. Marriage Certificate
+    No. 34003. This Certifies, That the undersigned a Baptist Minister by authority of a License
+    bearing date the 21st day of February A.D. 1912, and issued by the County Auditor of the
+    County of King, did on the 21st day of February A.D. 1912 at the City of Seattle County and
+    State aforesaid, join in Lawful Wedlock Ralph Hatten of the County of King Wn and Henrietha
+    Browne of the County of " " with their mutual assent, in the presence of Kristie Skausen [?]
+    and S. A. Browne, Witnesses. IN TESTIMONY WHEREOF, Witness the signatures of the parties to
+    said ceremony, the Witnesses and myself, this 21st day of February A.D. 1912. Witnesses:
+    Kristie Skausen [?], S. A. Browne. Parties: Ralph Hatten, Henrietha Browne. Officiating
+    Clergyman or Officer: August Sandell, P.O. Address Seattle, Washington. Filed Apr 30 1912.
+
+draft-card-ralph-hatten-jr-1945.jpg      [item 21]
+  Collection: Washington, World War II Draft Registration Cards, 1940-1947
+  Record:    https://www.familysearch.org/ark:/61903/1:1:QPHD-JF7P
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSYY-TQS3-F
+             image 1573 of 2537, DGS 104952497 (Hartman, Herbert - Hawkins, Stephen)
+  Held by:   National Personnel Records Center (St. Louis, Missouri) (custodian); creator
+             United States. Selective Service System.
+  Where:     the whole image. The front of the card is on the left and the back (Registrar's
+             Report) is on the right.
+  Transcription, front: Serial number 2949. Order number 1162-A. 1. Name: Ralph Albert Hatten.
+    2. Address: 5520 28th N.E., Seattle 5, King, Washington. 3. Telephone: Kenwood 3625.
+    4. Age 30; date of birth 2 1[1] 15. 5. Place of birth: Seattle, Washington. 6. Country of
+    citizenship: US. 7. Person who will always know your address: Mrs. Irma H. Hatten.
+    8. Relationship: Wife. 9. Address: 5520 28th N.E., Seattle 5, Washington. 10. Employer:
+    Unemployed Veteran World War II. 11. Place of employment: [blank]. Signed R. A. Hatten.
+    Registration Card D.S.S. Form 1, 16-17105.
+  Back: Race White. Height 5' 5 1/2". Weight 148. Eyes gray. Hair brown. Complexion ruddy.
+    Other obvious physical characteristics: None. Kathryn M. Holum, Registrar for Bd. #3,
+    Seattle, Wash. Date of registration November 16th, 1945. Stamp: Local Board No. 3, Seattle
+    City, Nov 21 1945, 305 Harrison Street, Seattle, Washington.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Divorce file, Carrie Brown v. Edward N. Brown, Goodhue Co. District Court, 1896.
+   This is not on FamilySearch. The Goodhue Co. catalog has 42 titles and no court, civil-case,
+   divorce or judgment-book records. It does have vital records (deaths 1870-1908; marriages
+   1854-1911; births 1870-1881), naturalization 1848-1943 (Minnesota Historical Society) and
+   probate. A Full-Text search for "Edward N. Brown" / "Carrie Brown" found nothing relevant.
+   The case file would be at the Goodhue County court administrator or the Minnesota
+   Historical Society.
+
+3. Edward N. Brown after 1886: not found.
+   - 1895 MN census (Edward Brown, b. 1856-1860, Illinois): no entry.
+   - 1900 US census (b. 1857-59 Illinois, father b. Norway): one unidentifiable lodger, St Paul
+     Ward 4, ED 90, sheet 8B line 68 (M93X-L4H; ages and birthplaces are ditto/blank;
+     "Clk hardware").
+   - 1910 US census: an unnamed "Brown" boarder, Spokane Co. (MGJP-8X2).
+   - Deaths 1886-1945 in MN, WI, the Dakotas, IA and WA: no match. Edward H. Brown, d. Seattle
+     1907 (N32J-P5W), was born in Indiana, so is not him. Edward Newton Brown (MN 1938) was
+     excluded as before.
+
+4. Image of the 1884 Pierce Co., WI marriage: restricted. "Pierce County registration of
+   marriages, 1854-1905" (catalog koha:56373), Marriages 1854-1885, film 1266887, DGS 7622834.
+   Every image carries the padlock (FamilySearch Center or affiliate only). The originals are
+   at the Wisconsin Vital Records Office, Madison.
+
+6. Thomas J. Hatten and Edith Allee marriage, c. 1870-71: not found. Searched:
+   - groom Thomas Hatton/Hatten with bride Allee/Alley/Allie/Ally, 1864-1876;
+   - every Hatten marriage in Minnesota 1860-1910 (Minnesota County Marriages 1853-1983;
+     Minnesota Marriages 1849-1950).
+   Todd Co. has no vital or marriage records on FamilySearch. The 1870 census shows Sarah E.
+   still single in Todd Co in Aug 1870, and Bertha was born at Northfield. So Todd or Rice Co.
+   marriage records (at the courthouse) are the places to look.
+
+7. Edith's marriage to Hayes, and his death: not found. Searched:
+   - Edith/Edna Hatten/Hatton with spouse Hayes/Hays, 1880-1912, any place;
+   - Hayes grooms with spouse Hatten;
+   - Edna Hayes, b. 1850-59, in 1900.
+   Her 1912 death record says she was widowed but does not name the husband.
+
+9. Edith in the 1885 and 1895 MN censuses and the 1900 census: not found. Searched
+   Hatton/Hatten b. 1849-1856 resident in MN 1885-1895, Edna Hayes in 1900, and Bertha and
+   Maud Hatten. She was found instead in 1875 (Northfield) and twice in 1880 (see the files
+   above).
+
+10. Melvie B. Comley's marriage and her husband's death, and Maud Hatten's marriage: not found.
+   Searched Melvie Hatten, Melvie Comley (only the 1910 Seattle census, already held), Comley
+   or Comly with spouse Hatten, and Maud Hatten/Hatton b. 1871-75 (only other families).
+   Bertha's marriage was found (marriage-record-timm-hatten-1913).
+
+11. Pickett Marvin's probate, Jackson Co., OH: not found. The Jackson Co. probate holdings on
+   FamilySearch are:
+   - Wills 1819-1885 (Will book A, 1819-1871 = DGS 5434366);
+   - administrators' dockets from 1879;
+   - estate index from 1896.
+   The index to Will book A (image 13 of 330) has no Marvin. A Full-Text search for
+   "Pickett Marvin" in Jackson Co. returns deeds 1816-1843 and court records 1845-49, but no
+   probate. His 1853 administration would be with the Jackson Co. Probate Court.
+
+13. North Dakota death and obituary for Thomas J. Hatten: he died in St Paul, MN (index only,
+   above). No obituary was found on FamilySearch.
+
+14. 1865 MN census at Waterford for Ralph Hatten's household: not indexed. Searched Hatten/
+   Hatton b. 1845-55, MN residence 1865-1875 (only Ann Hatten, Green Vale, Dakota Co, 1865,
+   SPSM-DGS, not opened). The 1857 and 1875 censuses were found (above).
+
+15. Naturalisation of Stephen Brown: not found in the indexes. The McHenry Co. and Goodhue Co.
+   naturalization records are unindexed on FamilySearch.
+
+16. Stephen K. Brown after 1886: not found. The latest record of him is the 1885 MN census at
+   Red Wing (already held). Unidentified candidates:
+   - Stephen Brown, d. 28 Apr 1911, St Paul (QP7Z-TMD1; no age or birthplace indexed);
+   - Stephen Brown, d. 1903, Martin Co.
+   Also seen, not saved: the 1875 MN census, Steven K. Brown, Red Wing City (MKNF-9CX).
+
+17. Caroline Brown's burial at Red Wing, 1886: not found. Searched Brown deaths and burials
+   in 1886 with Goodhue Co., Caroline Brown deaths 1885-87 in MN, and the Find a Grave index
+   for Red Wing.
+
+18. Certificates behind the indexes:
+   - Hugh Brown, 1910: film 1499046 = DGS 004225865 (Minneapolis Health Dept. death records,
+     Jan-Apr 1910; catalog koha:641017). The images are restricted (Limited Access).
+   - S. Rena Hoopes, 1929, cert. 19997: Minnesota death certificates 1908-1955 are
+     Limited Access on FamilySearch.
+   - Hoopes-Brown marriage: not found. Searched Hoopes grooms with Brown brides 1875-1900, and
+     every Hoopes marriage in MN 1889-1912. Samuel E. Hoopes married Mary E. Rosenberger on
+     20 Mar 1889 in Minneapolis (FDD9-XQG), so his marriage to Rena/Stina came later; the 1910
+     census suggests about 1909. He died 26 Nov 1918 (CTM3-L56Z, spouse Rena Hoopes).
+
+19. John E. Peterson's death: not found. Searched John E. Peterson b. 1863-67, d. 1920-45 in
+   WA. A possible match, unconfirmed: Find a Grave, John E Peterson b. 4 Nov 1866, Tahoma
+   Cemetery, Yakima (QPRM-J2T1). The 1930 census was already held from batch 1.
+
+20. Rafter household, 2912 Warren Ave N, 1930: not found in the index. Searched 1930, surname
+   Rafter, Seattle. Edith F. Rafter (b. 19 Jun 1899 MN, d. 1 Nov 1987) is in the 1940
+   (K93Q-Y77) and 1950 (6X14-5QKP) censuses with William Rafter. The 1930 sheet was not
+   located by enumeration district.
+
+21. Ralph A. Hatten (b. 6 Nov 1871), WWI draft card: not found. Searched the WWI Draft
+   Registration Cards 1917-1918 for Ralph Hatten/Hatton b. 1870-73, and Ralph Hatten resident
+   in WA 1917-18.
+   Ralph A. Hatten Jr.'s 1969 death certificate: not on FamilySearch (Washington certificates
+   there end in 1960). There is a county register entry: Washington, County Death Registers,
+   6F2P-2W4K (Ralph A Hatten, 54, d. 16 Nov 1969 Seattle; image 3:1:3Q9M-C9TX-GT36, not
+   downloaded).
+
+Also noted, not saved:
+- Ralph A. Hatten Sr.'s death, 23 Jul 1934, Seattle. Index HVDB-XHZM: age 62, born Minn.,
+  salesman, father Thomas J. Hatten, mother Edith Allee, spouse Henriette. Images 1505-1527 of
+  DGS 007596875 (late July 1934 King Co. certificates) were checked, and his certificate is not
+  among them.
+- Ralph Hatten and Sarah Ann Philbrick marriage, 28 Jun 1847, Jackson Co., OH (XDWR-P8D), not
+  opened.
