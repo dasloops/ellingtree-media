@@ -27,4 +27,12 @@ tools/fs-join.py              its helper: rebuilds and checks an image sent from
 - Commit with a GitHub no-reply email address: commit details are public here.
 - GitHub refuses single files over 100 MB.
 
+## Rights
+
+Each picture keeps the rights its record's credit gives: one in the public domain is free to use;
+one from the family collection, ask first; one from a library, an archive, FamilySearch, Ancestry or
+Find a Grave is theirs, under their own terms. Being here licenses nothing further. The archive's
+own writing is under CC BY 4.0; the terms, and how to ask, are on ellingtree.com's About page,
+"Using the archive" and "Contact us".
+
 How the archive uses this repo is in its `gallery/README.md`, "Where the originals are kept".
