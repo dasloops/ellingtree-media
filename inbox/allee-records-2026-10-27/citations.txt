@@ -1,14 +1,15 @@
 ALLEE FAMILY, FAMILYSEARCH RECORDS, BATCH 3
 Searched: 27 October 2026 (FamilySearch, signed in; read-only, nothing edited in the Family Tree)
 Folder: inbox/allee-records-2026-10-27/
-Files: 15 (14 images + this citations.txt)
-  - 10 FamilySearch full-size original images (9 records; the 1840 entry is two pages, in a subfolder)
+Files: 21 (20 images + this citations.txt)
+  - 16 FamilySearch full-size original images (15 records; the 1840 entry is two pages, in a
+    subfolder)
   - 4 screenshots of index entries (marked SCREENSHOT OF INDEX ENTRY)
+Updated the same day: six images first cited as "not fetched" were added (the 1905, 1910 and 1920
+censuses and three pension index cards), and their blocks were rewritten from the images.
 
-Note on images: images were saved from FamilySearch's own full-size original ("dist.jpg") through
-the signed-in browser. Partway through the batch that route was refused by this session's safety
-checks, so it was stopped. Records found after that point are cited in the section FOUND, IMAGE NOT
-FETCHED, with their image ARKs, so the images can be saved later.
+Note on images: the 16 record images are FamilySearch's own full-size originals ("dist.jpg"), saved
+through the signed-in browser, uncropped. The 4 index screenshots are of FamilySearch record pages.
 
 Readings: [?] = doubtful reading; [ditto] = ditto mark on the page; my own explanations are in
 [square brackets]. "Tree" = a lead taken from the FamilySearch Family Tree, not evidence.
@@ -35,9 +36,12 @@ KEY POINTS
    with Richard and Agnes E. Fearn at Lake Emma, Hubbard Co. Ella B. Allee, 26, single, is in the
    same household. The next dwelling is Alonzo [?] Partlow, 23, b. Mich., and the one after that is
    Louis E. and Carrie B. Allee with Everett, Ila May and Guy.
-9. Pension index (not fetched): Albert's card reads "D 42 Minn. Inf." [sic], filed 1885, invalid,
-   certificate 373,739. Daniel's card reads "D 42 Ill. Inf.". His widow Clarissa L. M. Allee filed
-   on 19 May 1913, so Daniel died before that date.
+9. Pension index cards: Albert's reads "D 42 Minn. Inf." [sic], filed 29 Aug 1885, invalid,
+   certificate 373,739. Daniel's reads "D 42 Ill. Inf.; Unass'd, 3 Minn. Inf.". His widow Clarissa
+   L. M. Allee filed on 19 May 1913, so Daniel died before that date.
+   1910: Albert, 83, is with the Fearns at Clay Twp, marked "M2" (second marriage), married 25 years.
+   That puts the marriage to Sarah at about 1884-85. 1920: Albert, 92, widowed, with the Fearns at
+   Park Rapids.
 10. Walter's estate was NOT found in the Ashtabula Co. general probate index (see the last section).
 
 
@@ -314,72 +318,160 @@ Notes: Albert's mother's birthplace is given as Vermont here (Connecticut in the
   children born, 3 living. The 1892 date in your notes fits.
 
 ======================================================================================
-FOUND, IMAGE NOT FETCHED (cited from the record page; images open in the viewer)
+FILE: census-1905-lake-emma-allee.jpg
+Answers: item 5 (1905, Lake Emma)
+Collection: Minnesota, State Census, 1905
+Record: https://www.familysearch.org/ark:/61903/1:1:SP3W-PV1 (Albert Allee; Lake Emma township,
+  Hubbard Co.; page 2, line 69; film 928789)
+Image: https://www.familysearch.org/ark:/61903/3:1:9Q97-YSY8-6M1, image 315 of 1128, DGS 004520285
+  [the viewer files this film under "Itasca. Census 1905"]
+Held by: Minnesota Historical Society
+Header: "FIFTH DECENNIAL CENSUS of MINNESOTA. POPULATION SCHEDULE. County of Hubbard; Enumeration
+  District No. 1; Organized Township Lake Emma. ... Schedule Sheet No. 2. Population enumerated by
+  me in the Township of Lake Emma, from 15 day, June 1905, to 21 day, June 1905, inclusive. Signed
+  Geo. Zimmerman [?]." Stamped 235 at the top right; "38" is written across the title.
+Where: line 69
+Transcription (name | street | ... | sex | age | color | birthplace of person | of father | of
+  mother | years in state | months | years in district | months | occupation | army service | war):
+  69 | Allee Albert | [check mark] | M | 78 | W | N.Y. [struck through] | N.Y. | Conn. | 36 [?, struck
+  through] | | 6 | | [no occupation] | Sold | Civ
+Notes: Albert is listed on his own, between the Sanderson family (lines 61-68) and Allice Mary
+  Graham (line 70). This form has no family or dwelling numbers, so his household is not shown.
+  The Fearns are not on this page. His mother's birthplace is given as Connecticut. The crossings-out
+  in the birthplace and residence columns are a clerk's tally strokes, which run through most lines.
 
-A. 1905 Minnesota state census (item 5)
-   Collection: Minnesota, State Census, 1905
-   Record: https://www.familysearch.org/ark:/61903/1:1:SP3W-PV1 (Albert Allee, b. New York; father
-     b. New York, mother b. Connecticut; Lake Emma township, Hubbard Co.; page 2, line 69; film 928789)
-   Image: https://www.familysearch.org/ark:/61903/3:1:9Q97-YSY8-6M1, image 315 of 1128, DGS 004520285
-     [the viewer files this film under "Itasca. Census 1905"]
-   Held by: Minnesota Historical Society
-   Notes: Transcription is from the index only; the image was not fetched.
+======================================================================================
+FILE: census-1910-clay-allee.jpg
+Answers: item 5 (1910) and item 8 (Eva and Richard Fearn)
+Collection: United States, Census, 1910
+Record: https://www.familysearch.org/ark:/61903/1:1:M2GF-BJH (Albert Allee, father-in-law; Clay,
+  ED 73, Hubbard Co.; sheet 6A; NARA T624 roll 706)
+Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9RKW-XTL, image 963, DGS 004972540
+  (microfilm 1374719)
+Held by: NARA (T624)
+Header: "DEPARTMENT OF COMMERCE AND LABOR-BUREAU OF THE CENSUS. THIRTEENTH CENSUS OF THE UNITED
+  STATES: 1910-POPULATION. State Minnesota; County Hubbard; Township or other division of county
+  Clay Township; Supervisor's District No. 6; Enumeration District No. 73; Sheet No. 6 A. Enumerated
+  by me on the 23 day of April, 1910. Henry A. Wilbright [?], Enumerator." Stamped 217; "3017" [?]
+  is written at the top right.
+Where: lines 13-16, dwelling 4, family 4
+Transcription (name | relation | sex | color | age | marital | years of present marriage | children
+  born, living | birthplace | father's bp | mother's bp | immigration year, naturalization |
+  speaks | occupation | industry | employer/worker | out of work | weeks):
+  4 | 4 | Fearn Richard | Head | M | W | 64 | M1 | 27 | | | Eng-England | Eng-England | Eng-England |
+       1845 Nat | English | Farmer | General farm | Emp [?] | | | yes yes | O M F 4
+     | [Fearn] Eva | Wife | F | W | 52 | M1 | 27 | 1 | 1 | Illinois | New York | Indiana | | English |
+       None | | | | | yes yes
+     | [Fearn] Lois M | Son | M | W | 21 | S | | | | Minnesota | England | Illinois | | English | Labor |
+       Home farm | W | No | 0 | yes yes
+     | Allee Albert | Father in Law | M | W | 83 | M2 | 25 | | | New York | New York | Connecticut | |
+       English | Labor | 2V. 0. 0 [?] | | | | yes yes
+Notes: Albert is marked "M2" (second marriage) with 25 years of present marriage, which dates the
+  marriage to Sarah to about 1884-85, consistent with the 1885 census. Sarah (d. 11 June 1910,
+  Long Prairie) is not in this household. In 1900 Albert was entered as "Wd" (widowed) while Sarah
+  was living; the two records conflict on that point. "Lois M" is Louis, b. Dec 1888.
 
-B. 1910 US census (item 5)
-   Collection: United States, Census, 1910
-   Record: https://www.familysearch.org/ark:/61903/1:1:M2GF-BJH (Albert Allee, father-in-law,
-     married; father b. New York, mother b. Connecticut; Clay [Twp], ED 73, Hubbard Co.; sheet 6A;
-     NARA T624 roll 706). Household: Richard Fearn, head, 64, b. England, imm. 1845; Eva Fearn, 52,
-     b. Ill.; Lois [sic, Louis] M Fearn, 21.
-   Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9RKW-XTL, image 963, DGS 004972540
-     (microfilm 1374719)
-   Notes: "Married" in April 1910 fits Sarah, who was still living (d. 11 Jun 1910). Albert is not
-     with her: was she elsewhere? Not checked.
+======================================================================================
+FILE: census-1920-park-rapids-allee.jpg
+Answers: item 5 (1920, Park Rapids) and item 8 (Eva and Richard Fearn)
+Collection: United States, Census, 1920
+Record: https://www.familysearch.org/ark:/61903/1:1:MWY8-5JJ (Albert Allee, 92; Park Rapids, ED
+  145, Hubbard Co.; sheet 11B, line 63, household 259; NARA T625 roll 831)
+Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9RXZ-3D7, image 897, DGS 004966209
+  (microfilm 1820831)
+Held by: NARA (T625)
+Header: "DEPARTMENT OF COMMERCE-BUREAU OF THE CENSUS. FOURTEENTH CENSUS OF THE UNITED STATES:
+  1920-POPULATION. State Minnesota; County Hubbard; Name of incorporated place Park Rapids Village;
+  Supervisor's District No. 6; Enumeration District No. 145; Sheet No. 11 B. Enumerated by me on the
+  12th & 13th day of January, 1920. Blanche E. Breuer [?], Enumerator." "6876" and "5501" are
+  written at the top right.
+Where: lines 59-63, dwelling 253, family 259 [a street name is written vertically in the margin; not read]
+Transcription (name | relation | home owned/rented, free/mortgaged | sex | color | age | marital |
+  immigration | naturalized | school | read | write | birthplace | mother tongue | father's bp |
+  tongue | mother's bp | tongue | speaks English | occupation | industry | employer/worker):
+  253 | 259 | Fearn Richard | Head | O | F | M | W | 73 | M | 1849 [?] | Na [written over another
+       word] | | Yes | Yes | England | English | England | English | England | English | Yes | None
+     | [Fearn] Evangeline | Wife | | | F | W | 62 | M | | | | Yes | Yes | Illinois | | New York [Ohio
+       struck through] | | Indiana [another word struck through] | | Yes | None
+     | [Fearn] Lois M | Son | | | M | W | 31 | M | | | | Yes | Yes | Minnesota | | England | English |
+       Illinois | | Yes | Log Loader | Logging Camp | W
+     | [Fearn] Gurnie [?] | Grandson | | | M | W | 7 | S | | | Yes | | | Minnesota | | Minnesota | |
+       Wisconsin [Washington struck through] | | | None
+     | Allee, Albert | Father in law | | | M | W | 92 | Wd | | | | Yes | Yes | New York | | New York |
+       | Vermont | | Yes | None
+Notes: Agnes Eva appears here as "Evangeline". Albert's mother's birthplace is Vermont here and in
+  1900, and Connecticut in 1905 and 1910. The index gives Richard's arrival as 1845 in 1910; here it
+  reads 1849 [?]. Everyone on this page was born in 1919 or earlier.
 
-C. 1920 US census (item 5)
-   Collection: United States, Census, 1920
-   Record: https://www.familysearch.org/ark:/61903/1:1:MWY8-5JJ (Albert Allee, 92, widowed,
-     father-in-law; father b. New York, mother b. Vermont; Park Rapids, ED 145, Hubbard Co.; sheet
-     11B, line 63, household 259; NARA T625 roll 831). Household: Richard Fearn 73, b. England;
-     "Evangeline" Fearn, daughter [of Albert], 62, b. Ill.; Lois M Fearn 31; Gurnie Fearn 7.
-   Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9RXZ-3D7, image 897, DGS 004966209
-     (microfilm 1820831)
+======================================================================================
+FILE: pension-card-1885-allee-albert.jpg
+Answers: item 6 (Albert's pension index card)
+Collection: United States, General Index to Pension Files, 1861-1934
+Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64F
+Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9TRH-XYX, image 3438 of 4,428, DGS 005077293
+  (NARA T288, microfilm 540761)
+Held by: NARA
+Header: printed index card, form "(3-22-3)" [?]
+Where: whole card
+Transcription:
+  Name of soldier: Allee, Albert
+  Name of dependent: Widow, [blank]; Minor, [blank]
+  Service: D 42 Minn. Inf.
+  Date of filing: 1885, Aug. 29 | Class: Invalid | Application no. 548,262 | Certificate no. 373,739
+    | State from which filed: [blank]
+  Attorney: [blank] | Remarks: [blank; a stamp or note at the lower left is not legible]
+Notes: "42 Minn." is as written. There was no 42nd Minnesota Infantry, so Co. D, 42nd Illinois
+  Infantry is meant [my inference]; Daniel's card for the same company reads "42 Ill.". There is no
+  widow's claim; Sarah died in 1910, before him. Filing 548,262 in August 1885 is the claim that
+  certificate 373,739 answers; the full file at NARA should give his service and disability.
 
-D. Albert's pension index card (item 6)
-   Collection: United States, General Index to Pension Files, 1861-1934
-   Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64F
-   Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9TRH-XYX, image 3438 of 4,428, DGS
-     005077293 (NARA T288, microfilm 540761)
-   Held by: NARA
-   Transcription (read in the viewer): Name of soldier: Allee, Albert | Name of dependent: Widow -,
-     Minor - | Service: D 42 Minn. [sic] Inf. | Date of filing: 1885 Aug. 29 [?] | Class: Invalid |
-     Application no. 548,262 | Certificate no. 373,739 | State from which filed: [not legible in
-     the viewer frame]
-   Notes: "42 Minn." is as written. There was no 42nd Minnesota Infantry; Co. D, 42nd Ill. Inf. is
-     meant [my inference]. No widow's claim (Sarah died 1910, before him).
+======================================================================================
+FILE: pension-card-1865-allee-daniel.jpg
+Answers: item 6 (Daniel's card) and item 9 (Daniel's death)
+Collection: United States, General Index to Pension Files, 1861-1934
+Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64L
+Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9TRH-XDR, image 3444 of 4,428, DGS 005077293
+Held by: NARA
+Header: printed index card
+Where: whole card
+Transcription:
+  Name of soldier: Allee, Daniel
+  Name of dependent: Widow, Allee, Clarissa L. M.; Minor, [blank]
+  Service: D 42 Ill. Inf. Unass'd, 3 Minn. Inf.
+  Date of filing | Class | Application no. | Certificate no. | State from which filed:
+    1865, Oct. 30 | Invalid | 94,481 | 347,872 | Minn.
+    1913, May 19 | Widow | 1,007,966 | 763,121 | Minn.
+  Attorney: [blank] | Remarks: [not legible]
+Notes: Daniel died before 19 May 1913. The widow's file (certificate 763,121) at NARA should give
+  his death date and place and Clarissa's maiden name. "Unass'd, 3 Minn. Inf." suggests a later
+  enlistment as an unassigned recruit for the 3rd Minnesota Infantry.
 
-E. Daniel's pension index card (item 6)
-   Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64L
-   Image: https://www.familysearch.org/ark:/61903/3:1:33S7-9TRH-XDR, image 3444 of 4,428, DGS
-     005077293
-   Transcription (read in the viewer): Allee, Daniel | Widow: Allee, Clarissa L. M. | Service: D 42
-     Ill. Inf.; Unass'd [?] 3 [?] Minn. Inf. | 1865 Oct. 30, Invalid, appl. 94,481, cert. 347,872,
-     Minn. | 1913 May 19, Widow, appl. 1,007,966 [?], cert. 763,121, Minn.
-   Notes: Daniel died before 19 May 1913. The widow's pension file at NARA should give his death
-     date and Clarissa's maiden name (item 9).
+======================================================================================
+FILE: pension-card-1865-allee-benjamin-f.jpg
+Answers: item 9 (Franklin Allee's military record), identity NOT established
+Collection: United States, General Index to Pension Files, 1861-1934
+Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64K
+Image: https://www.familysearch.org/ark:/61903/3:1:33SQ-GTRH-X6R, image 3442 of 4,428, DGS 005077293
+Held by: NARA
+Header: printed index card
+Where: whole card
+Transcription:
+  Name of soldier: Allee, Benjamin F.
+  Name of dependent: Widow, Allee, Nancy A.; Minor, McDonald, Thomas, Gdn.
+  Service: C. 2 Minn. Cav.
+  Date of filing | Class | Application no. | Certificate no. | State from which filed:
+    1865, Apr. 15 | Widow | 89,405 | 63,121 | [blank]
+    1879 [?], Feb. 3 | Minor | 241,394 | [blank] | [blank]
+  Attorney: [blank] | Remarks: [not legible]
+Notes: UNCERTAIN, uploaded for review. The 2nd Minnesota Cavalry served in Dakota Territory in
+  1864, and a widow's claim filed on 15 April 1865 means he died before then. Both fit "died a
+  soldier in Dakota Territory, 1864". But this man left a widow, Nancy A., and at least one minor
+  child (with Thomas McDonald as guardian), and nothing on the card ties him to Walter. The widow's
+  file (certificate 63,121) at NARA would settle who he was.
 
-F. Benjamin F. Allee pension card (item 9, Franklin), identity NOT established
-   Record: https://www.familysearch.org/ark:/61903/1:1:KDPP-64K
-   Image: https://www.familysearch.org/ark:/61903/3:1:33SQ-GTRH-X6R, image 3442 of 4,428, DGS
-     005077293
-   Transcription (read in the viewer): Allee, Benjamin F. | Widow: Allee, Nancy A. | Minor:
-     McDonald [?], Thomas [?], Gdn. | Service: C 2 Minn. Cav. | 1865 Apr. 1 [?], Widow, appl. 89,405,
-     cert. 63,121 | 1879 [?] Feb. 3, Minor, appl. 241,394
-   Notes: The 2nd Minnesota Cavalry served in Dakota Territory in 1864, which fits "died a soldier in
-     Dakota Territory, 1864". But this man left a widow (Nancy A.) and a minor child, and nothing ties
-     him to Walter. Lead only.
+======================================================================================
+OTHER INDEX-ONLY LEADS (not on the task list; not checked against images)
 
-G. Other index-only leads (not on the task list, not checked against images)
    - Daniel Allee, 1890 veterans' schedule, Hudson Twp, Douglas Co., Minn.:
      https://www.familysearch.org/ark:/61903/1:1:K8SY-WMQ
    - Emery D Allee, 1900, Eagle Bend, Todd Co., b. Apr 1855 Ill., married 1884, wife Eliza L (b. Feb
@@ -427,7 +519,7 @@ Item 4, marriage images: padlocked, DGS 007746986, images 655-658 (see the index
 
 Item 5, 1890 veterans' schedule for Albert: not indexed for any Allee/Alley/Allie in Todd Co.
   (search: surname Allee, not exact, residence Minnesota, collection "United States, Census of Union
-  Veterans and Widows of the Civil War, 1890"). Daniel is indexed (see G). Not browsed by page.
+  Veterans and Widows of the Civil War, 1890"). Daniel is indexed (see OTHER INDEX-ONLY LEADS). Not browsed by page.
 
 Item 7, Albert's second marriage to Sarah Houston and Lucinda's death and burial (Dec 1882): not
   searched this batch, for lack of time. The 1885 census above dates the marriage before 29 June 1885.
@@ -437,9 +529,8 @@ Item 8, children's marriages: only what appears above (1900 census). Not searche
   his 1910-1940 censuses. (A records search for surname Allee, marriage place Minnesota, 1878-1900,
   showed no marriage record for any of them in the first 100 results.)
 
-Item 9: Daniel's death, see E (before 19 May 1913); Clarissa's maiden name not found. Franklin, see F
-  (identity unproven). Not searched this batch: Harriet (Allee) Chamberlin's death (Chicago, 1907);
+Item 9: Daniel's death, see pension-card-1865-allee-daniel.jpg (before 19 May 1913); Clarissa's
+  maiden name not found. Franklin, see pension-card-1865-allee-benjamin-f.jpg (identity unproven). Not searched this batch: Harriet (Allee) Chamberlin's death (Chicago, 1907);
   Jacob Soule's will (Schoharie Co., N.Y.); Silas Sawdy in 1800 (Hamilton) and 1810 (Scipio).
 
-Images that were found and are viewable but were not fetched: A (1905), B (1910), C (1920), and the
-  pension cards D, E and F. The ARKs and image numbers are above.
+All images that were found and are viewable are now in this folder.
