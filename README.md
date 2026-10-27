@@ -11,6 +11,7 @@ when it is built.
 ```
 gallery/files/<id>.jpg        a picture, named by its record's id (any image type)
 gallery/files/<id>/1.jpg …    a document of several pages, its pages in order
+albums/<slug>/                a family album photographed page by page (albums/README.md)
 inbox/                        new uploads, waiting for their records (inbox/README.md)
 FAMILYSEARCH.md               how agents bring record images in from FamilySearch
 tools/fs-join.py              its helper: rebuilds and checks an image sent from the browser
