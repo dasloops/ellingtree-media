@@ -12,10 +12,14 @@ when it is built.
 gallery/files/<id>.jpg        a picture, named by its record's id (any image type)
 gallery/files/<id>/1.jpg …    a document of several pages, its pages in order
 inbox/                        new uploads, waiting for their records (inbox/README.md)
+FAMILYSEARCH.md               how agents bring record images in from FamilySearch
+tools/fs-join.py              its helper: rebuilds and checks an image sent from the browser
 ```
 
 ## Adding pictures
 
+- **Agents bringing records from FamilySearch** (or any site signed in in a browser pane): read
+  `FAMILYSEARCH.md` first and follow it as written. Nothing is saved to the owner's computer.
 - Only pictures the archive publishes as they are (`access: public` in their record). A private
   picture stays in the archive's own repo: whatever is pushed here is public for good, even if
   it is taken out again.
