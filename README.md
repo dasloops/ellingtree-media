@@ -31,7 +31,7 @@ tools/fs-join.py              its helper: rebuilds and checks an image sent from
 ## Rights
 
 Each picture keeps the rights its record's credit gives: one in the public domain is free to use;
-one from the family collection, ask first; one from a library, an archive, FamilySearch, Ancestry or
+one from the family collection, ask first; one from a library, an archive, FamilySearch, Ancestry, or
 Find a Grave is theirs, under their own terms. Being here licenses nothing further. The archive's
 own writing is under CC BY 4.0; the terms, and how to ask, are on ellingtree.com's About page,
 "Using the archive" and "Contact us".
