@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-39 image files in 24 entries. All images are FamilySearch's full-size originals (dist.jpg).
+42 image files in 25 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -1036,6 +1036,69 @@ probate-1875-kankakee-ellingwood/   (1.jpg, 2.jpg)              [item 16]
 
 ==========================================================================================
 
+passport-application-1917-evanston-ellingwood/   (1.jpg, 2.jpg, 3.jpg)    [item 18, found by the way]
+  Collection: Passport applications: United States. Passport Applications Apr 27,
+             1917-Apr 28, 1917
+  Record:    none indexed (Full-Text search, "Richard Everett Ellingwood")
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:3QS7-89X7-CY1M  image 114
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:3QS7-L9X7-CYNQ  image 115
+             3.jpg https://www.familysearch.org/ark:/61903/3:1:3QS7-99X7-CT78  image 116
+             [FamilySearch's viewer gives the image count of this group as "of 1"]
+  Held by:   not given by FamilySearch [U.S. Department of State passport applications]
+  Header:    application no. 51540; "[Edition of 1915.] [Form for Native Citizen.]";
+             stamped "Issued Apr 26 [?] 1917"; "Birth Certificate Seen" in the margin
+  Where:     1.jpg right page (the application, with his photograph pasted at the foot of
+             the left page); 2.jpg the back (description, identifying witness, affidavit);
+             3.jpg the covering letter
+  Transcription:
+    1.jpg  United States of America. District Court of the United States, Northern
+    District of Illinois, ss: I, RICHARD EVERETT ELLINGWOOD, a Native and Loyal Citizen
+    of the United States, hereby apply to the Department of State, at Washington, for a
+    passport. I solemnly swear that I was born at Evanston, in the State of Illinois, on
+    or about the 14th day of February, 1895; that my father Finley Ellingwood was born
+    in Manchester, Indiana; [naturalization lines struck through] that I am domiciled in
+    the United States, my permanent residence being at Evanston, in the State of
+    Illinois, where I follow the occupation of student; that I am about to go abroad
+    temporarily; and I intend to return to the United States within 6 months ... for use
+    in visiting the countries hereinafter named for the following purpose: France and
+    Great Britain, Y. M. C. A. Work. I intend to leave the United States from the port
+    of New York sailing on board the Espagne on May 5th, 1917.
+    [Oath of allegiance] Richard Everett Ellingwood. Sworn to before me this 23rd day
+    of April 1917. Thomas Sell [?], Deputy Clerk of the U. S. Dist. Court at Chicago.
+    2.jpg  Description of applicant. Age: 22 years. Stature: 5 feet, 9 inches, Eng.
+    Forehead: high. Eyes: gray and blue. Nose: straight. Mouth: medium. Chin: round.
+    Hair: brown. Complexion: fair. Face: Oval.
+    Identification. April 23rd, 1917. I, Warren T. Fifer solemnly swear that I am a
+    native citizen of the United States; that I reside at Evanston, Illinois; that I
+    have known the above-named Richard Everett Ellingwood personally for 4 years and
+    know him to be a native citizen of the United States ... Warren T. Fifer, Secretary
+    to the President, Evanston, Illinois. Sworn to before me this 23rd day of April
+    1917, Thomas Sell [?], Deputy Clerk ...
+    Applicant may be communicated with at the following address: Office of Dean,
+    Northwestern University, Evanston, Illinois.
+    State of Illinois, County of Cook ss. James Alton James being first duly sworn ...
+    has been acquainted with Mr. Richard Everett Ellingwood for upwards of three years,
+    and has during that period frequently heard the said Richard Everett Ellingwood
+    state that he was born in Evanston, Illinois. ... James Alton James.
+    3.jpg  [letterhead: The College Young Men's Christian Association of Northwestern
+    University, Evanston, Illinois]  April 20, 1917. Hon. Secretary of State,
+    Washington, D.C. Dear Sir: Richard Everett Ellingwood, a student in Northwestern
+    University, has been selected by Mr. Sherwood Eddy of the International Committee
+    of the Young Men's Christian Association to go to France and Great Britain in the
+    capacity of secretary in the Army Y. M. C. A. work among the soldiers in the
+    concentration camps of those countries. It will be a favor to us, therefore, if he
+    can secure his passports to go abroad to enter this work with the Allied Armies at
+    the earliest possible date, since the time for his sailing has been set for May 5,
+    1917. Very truly yours, Edwin E. Voigt [?], President.
+  Notes:     Not a draft card, but it fixes the trip abroad the memoir describes: sworn
+             at Chicago 23 April 1917, sailing from New York on the Espagne on 5 May 1917
+             for YMCA work in France and Great Britain, intending to return within six
+             months. It names his father Finley Ellingwood, born in Manchester, Indiana.
+             Transcribed from FamilySearch's machine transcript, checked against the
+             image for the form's handwritten and typed entries.
+
+==========================================================================================
+
 deed-1813-frankfort-ellingwood-heirs/   (1.jpg, 2.jpg)              [item 15]
   Collection: Hancock, Maine. Deeds 1818-1820, v. 38-39
   Record:    none indexed (found from the grantor index above, Hancock 39:157-159)
@@ -1286,8 +1349,10 @@ NOT FOUND OR NOT VIEWABLE (no file)
     else in Kankakee. The county court book on 939K film (Probate Records 1868-1877, 323
     images) has no index at the front and its images are not in date order; it was not
     paged through.
-18. Richard Everett Ellingwood's draft registrations: not searched (indexed search
-    failing).
+18. Richard Everett Ellingwood's draft registrations: not found. The indexed record
+    search (and so the WWI draft card collection) returned an error page each time it was
+    tried this evening, and draft cards are not in Full-Text search. The 1917 passport
+    application (in the batch) was found instead.
 19. Narragansett township claims, 1727-1733 (vol. 72), with Ralph Ellinwood's claim:
     not found by Full-Text ("Ralph Ellinwood" Narragansett, "Ellinwood" Narragansett,
     1727-1740). The Cleora bond (vol. 117): not looked for.
