@@ -1,11 +1,35 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-[count] files. All images are FamilySearch's full-size originals (dist.jpg).
+31 image files in 23 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
-- [to be written at the end of the batch]
+- Israel Ellingwood married Susanna Rand at Boston, 18 May 1741 (typed Registrar's
+  register). His will is dated 2 Nov 1776 and was proved 19 Mar 1785.
+- In 1785 Enoch James became guardian of Ralph, William, Joseph and Richard, minor
+  children of Israel's son Ralph. The Cross Street tenements and the Beverly land were
+  settled on the son Ralph, who died in 1786 (Paul Revere a surety and appraiser).
+- 19 Apr 1787: Robert Hichborn of Boston sold "Richard Ellingwood of Boston ... Cooper" a
+  100-acre lot on the west side of the Penobscot and half his salmon-fishery right
+  (Lincoln 22:93). 3 Apr 1792: John Ripley of Boston sold "Ralph Ellengwood of
+  Wheelsborough" the next lot, bounded on Richard's land, with the same kind of fishery
+  right. 3 Sept 1796: Ralph "of Hampden" and his wife Delilah sold that lot; Richard
+  witnessed.
+- Richard Ellingwood of Frankfort, "Trader" or "Merchant", was buying and selling land
+  from 1797 to 1802 (grantor index). By 19 Apr 1804 he was dead and Hope Ellingwood was
+  his widow and "sole Executrix".
+- Docket 305 (1804-05): Hope guardian of Richard and John (over 14) and Sally, Ralph,
+  Susanna and Lucy (under 14); Ralph Ellingwood a surety.
+- 4 Nov 1807 (typed 1909 copies of Hancock 23:286-287): Hope, widow, and Ralph and Delilah
+  sold their shares in the estate of "John H. Shaw late of Frankfort", named as the
+  father of Hope and of Delilah.
+- 5 July 1813 (Hancock 39:158): Hope, "widow of Richard Ellingwood, deceased", Richard
+  Ellingwood, and Moses B. Patten and his wife Sarah, "heirs of said deceased, & all of
+  Frankfort", sold part of the homestead farm. In the 1818 deeds of the same estate
+  (39:157-159) the grantors are Hope, Susan, the Pattens and Paul D. and Lucy Delano.
+- 9 June 1777: the Council ordered a letter-of-marque commission for "Richd Ellinwood",
+  master of Thomas Adams's schooner Cleora, bound for the French West Indies.
 
 ==========================================================================================
 
@@ -813,3 +837,133 @@ marriage-record-gould-ellingwood-1835.jpg              [item 15, found by the wa
              Richard Ellingwood of Dearborn. The record gives no parents, so who this
              Hope is (and whether she is the Hope S. Ellingwood of the task, who d. 1906
              still under that name) is not shown here.
+
+==========================================================================================
+
+military-1777-boston-ellinwood-cleora.jpg              [item 19]
+  Collection: Massachusetts. Council Records 1776-1777, 1777 (Massachusetts Archives
+             Collection; the film's first volume is "v. 166 -- Revolution Council Papers
+             (from p. 83 ...)")
+  Record:    none indexed (Full-Text search, "Cleora", 1776-1778)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9Y5-RF5V
+             image 844 of 1133, DGS 007703462
+  Held by:   not given by FamilySearch [Massachusetts Archives]
+  Header:    folio "17" at top right. The task gives vol. 167, p. 17; image 844 is well
+             past the start of the film, so it is probably in vol. 167, but the volume
+             label was not checked on the film [?]
+  Where:     the whole sheet (original petition)
+  Transcription:
+    To The Honorable the Council of the State of Massachusetts Bay -
+    The Petition of Thomas Adams of Boston - Humbly Sheweth,
+    That your Petitioner has fitted for Sea, the Schooner Called the Cleora, Richard
+    Ellinwood Master, of the Burthen of About Sixty Tons, Armed with four Carriage &
+    Eight Swivel Guns Navigated by fourteen Men, Loaded with Ailwives [alewives] and
+    Lumber, bound to the French West Indies. Your Petitioner prays your honors would
+    grant a Commission for Said Schooner as a Letter of Marque, as he intends said
+    Schooner to be further Equipped in the West Indies, to Cruize Against the Enemies of
+    the United States of America; he giving Bond Agreeable to the Resolve of Congress. -
+    And as in Duly bound will ever pray -                           Thomas Adams
+    In Council June 9th 1777 Read & Ordered that a Commission be Issued to the said
+    Richd Ellinwood [as] Commander of the Schoonr Cleora As a Letter of Marque he giving
+    Bond Agreeable to the Resolves of Congress.          Jno Avery Dpy Secy
+  Notes:     The petitioner is the owner, Thomas Adams of Boston; Richard Ellinwood is
+             named only as master. The bond (vol. 117 in the task) was not looked for.
+             A Suffolk court file of Dec 1776-Jan 1777 (Court Case Files 1776-1778,
+             3:1:3Q9M-CSVR-X3BT-Q, image 105) is a suit by Thomas Adams and another owner
+             against a seaman, William Williams [?], who signed on to the Cleora for a
+             voyage to Virginia and did not go; it does not name the master. Not brought in.
+
+==========================================================================================
+SEEN, NOT BROUGHT IN (images exist; enough is transcribed here to find them)
+
+Hancock deeds, Richard Ellingwood of Frankfort ("Trader" unless noted), all on
+FamilySearch "Hancock. Deeds" films; read from FamilySearch's machine transcript only:
+- Eliashib Delano of Hampden to Richard of "Frankford", yeoman, mortgage, $500, 1798.
+  Deeds 1797-1799, image 140, 3:1:3Q9M-CSVL-ZHQZ.
+- Solomon Bolton of Frankfort to Richard, $15; Thomas Holbrook to Richard, $700 (c. 1798-99).
+  Deeds 1797-1799, image 534, 3:1:3Q9M-CSVL-ZHY3.
+- Promissory note, Eliashib Delano to Richard Ellingwood, $170, Frankfort 31 Oct 1797.
+  Deeds 1794-1797, image 594, 3:1:3Q9M-CS3J-21MZ.
+- James Littlefield to Richard, 100 acres, $700, 5 Feb 1801; Richard to George
+  Halliburton of Castine, $700, April 1801, wife Hope consenting (8:211).
+  Deeds 1799-1801, images 413-414, 3:1:3Q9M-CSVL-ZRZ7 and -ZRDH.
+- Paul Downs to Richard, $2000 (1801). Deeds 1799-1801, image 618, 3:1:3Q9M-CSVL-Z5T2.
+- Richard to Joseph Wardwell of Penobscot, mariner, $1900, 24 Sept 1801, "my wife Hopy"
+  releasing dower (8:621). Deeds 1799-1801, images 622-623, 3:1:3Q9M-CSVL-Z5GG and -Z55W.
+- Richard to Enoch Mayo of Hampden, a quarter of "the same lot on which I ... reside",
+  partly in Frankfort and partly in Hampden (9:422). Deeds 1801-1802, image 249,
+  3:1:3Q9M-CSVL-Z9Y4-P.
+- Richard, "Merchant", to Daniel White of Marshfield, the lot bought of Solomon Bolton
+  (10:148). Deeds 1801-1802, image 388, 3:1:3Q9M-CSVL-Z9B6-N.
+- Richard to Noah Downs, 16 Nov 1802 (12:135). Deeds 1802-1803, images 367 and 386,
+  3:1:3Q9M-CSVL-Z946-S and -Z94H-7.
+- A lot "surveyed and laid out to Richard Ellingwood the first of June AD 1797" (deed to
+  Timothy ...). Deeds 1802-1803, image 377, 3:1:3Q9M-CSVL-Z948-Y.
+- David Colson to Richard, quitclaim, $500, 100 acres bounded "Southerly by said Ralph"
+  (1803). Deeds 1802-1803, image 489, 3:1:3Q9M-CSVL-Z9WG-C.
+- Richard to Abraham Anthony, $40, 30 Nov 1801, recorded 1805 (16:435). Deeds 1804-1805,
+  image 539, 3:1:3Q9M-CS3J-2C17.
+- Hope Ellingwood of Frankfort, "sole Executrix of the last will & Testament of Richard
+  Ellingwood late of Frankfort ... Deceased", to George Halliburton, $700, 19 Apr 1804
+  (14:206); and Halliburton to "Hope Ellingwood of Frankfort widow & Executrix", $700.
+  Deeds 1803-1804, images 413-414, 3:1:3Q9M-CSVL-Z9VS-9 and -Z9JB-T.
+- John Holdershaw of Frankfort, yeoman, to John Holdershaw Junior, an acre on Bauld Hill
+  Cove "on which a small store is now standing", 28 Dec 1802 (12:136), witnesses Francis
+  L. B. Goodwin and Jeremiah Wardwell. 1914 typed copy: Waldo/Hancock Deeds 1800-1805,
+  image 348, 3:1:3Q9M-CSLR-Z9Z7-Z.
+Dearborn County, Indiana:
+- Richard Ellingwood and William Barton Jr., replevin bond to Meigs D. Benjamin & Co.,
+  1839; Omer Tousey v. Richard Ellingwood, Ira Hill and William Barton Jr., debt on note
+  $65.74, judgment confessed 19 Sept 1840. Civil Case Files Oct 1839-May 1848, images
+  223 and 348, 3:1:3QHN-R731-18QB-K and 3:1:3QHJ-D7QM-NSTP-P.
+- Elijah and Richard Ellingwood among the buyers at the sale of William Boston's
+  personal property, 8 Sept 1857. Common Pleas Complete Record (Probate) Mar-June 1857,
+  image 578, 3:1:3QHK-Q79T-5RK.
+- Richard Ellingwood surety on the administration bond of Richard C. Owings, 3 Dec 1855.
+  Common Pleas Complete Record (Probate) 1861-1862, image 369, 3:1:3QHK-Q79T-5ZNN.
+Kankakee County, Illinois:
+- Estate of Thomas Muncey: on 29 Jan 1868 the executor lent Elijah Ellingwood $500 on
+  note and mortgage on real estate, payable in two years; the note is listed again in
+  Dec 1868. Probate Records 1868-1877, images 86, 87 and 96, 3:1:939K-YC9B-GY, -YC91-PZ,
+  -YCSM-XD.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+11. Hancock deeds 4:509 (Richard's half share of a right of way to the Bald Hill Cove
+    fishery): not reached. Vol. 4 is on DGS 007834660 (Hancock Deeds 1794-1797, v. 3-4,
+    where 4:293-294 is image 465-466), but p. 509 was not looked at. Hancock 23:159-160
+    (Holdershaw to Asa Bean; the grantor index gives Holdershaw to Bean at 23:159 and
+    23:160, 1807) and 13:68 (Hope living 1829) were not brought in. 13:68 is not in the
+    Hancock index of Waldo lands, so it may be a Waldo County volume (Waldo deeds begin
+    1827); not searched for.
+12. Richard Ellingwood and Hannah Brown, 1809; Sally Ellingwood and Moses B. Patten,
+    Hampden intention 1808/1809: not found. Full-Text searches "Richard Ellingwood"
+    Hannah, "Ellingwood" "Hannah Brown", "Moses B. Patten", "Sally Ellingwood", "Patten"
+    "Ellingwood" Hampden (1805-1812) found no town record. The FamilySearch catalog for
+    Hampden lists no filmed town books, only the Prospect vital records compiled by Mrs.
+    Ellery H. Sweetser (1934) and "Vital records of Hampden, Maine prior to 1892"
+    (Sylvester and Spinney), neither opened. Frankfort, Pownal, Freeport, Durham and
+    Gorham not tried. Historical Record (indexed) search returned an error page all
+    evening, so the Maine marriage indexes were not searched.
+13. Hamilton County, Ohio tax records 1817-1819: not found by Full-Text ("Ellingwood",
+    "Ellinwood", 1816-1820). The only Ohio hits were Washington County: Samuel Ellingwood
+    of Belpre (deeds 1818-1820) and Isaac and Benjamin Ellingwood (poll books 1827-1841).
+14. Dearborn deeds, probates of Richard (d. 1864) and Hannah, the Rufus Rice estate, and
+    the 1830 and 1840 census pages: not found by Full-Text ("Richard Ellingwood" 1830-1875,
+    "Hannah Ellingwood" 1863-1875, "Rufus Rice" 1845-1852); the censuses need the indexed
+    search, which was failing.
+15. Death or probate records of Hope S., Sarah Brooks, John, Elmira and Elizabeth Ann
+    Ellingwood: not searched beyond the "Hope Ellingwood" Full-Text search (which found
+    the 1835 Gould marriage, above).
+16. Elijah Ellingwood's estate and death, Kankakee 1871-1875: not found. Full-Text
+    "Elijah Ellingwood" (1870-1877) found only the Muncey estate entries (above);
+    "Ellingwood deceased", "Mary A Ellingwood" and "Ellingwood" (1871-1876) found nothing
+    else in Kankakee. The county court book on 939K film (Probate Records 1868-1877, 323
+    images) has no index at the front and its images are not in date order; it was not
+    paged through.
+18. Richard Everett Ellingwood's draft registrations: not searched (indexed search
+    failing).
+19. Narragansett township claims, 1727-1733 (vol. 72), with Ralph Ellinwood's claim:
+    not found by Full-Text ("Ralph Ellinwood" Narragansett, "Ellinwood" Narragansett,
+    1727-1740). The Cleora bond (vol. 117): not looked for.
