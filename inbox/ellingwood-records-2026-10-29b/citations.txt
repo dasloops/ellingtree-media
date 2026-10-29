@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-35 image files in 21 entries. All images are FamilySearch's full-size originals (dist.jpg).
+36 image files in 22 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -832,6 +832,49 @@ deed-index-1789-1827-hancock-ellingwood-grantee.jpg              [item 11]
              at 4:509: no Ellingwood deed of any kind is indexed in vol. 4 here. Richard's
              first Frankfort purchases indexed are of 1798-1799 (vol. 6). The Ralph et al.
              entry's record year reads 1906 on the page.
+
+==========================================================================================
+
+deed-1802-frankfort-holdershaw.jpg              [item 11]
+  Collection: Waldo (and Hancock), Maine. Deeds 1800-1805, v. 8-15
+  Record:    none indexed (Full-Text search, "Holdershaw")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLR-Z9Z7-Z
+             image 348 of 666, DGS 008203771
+  Held by:   creator Hancock County (Maine). Register of Deeds
+  Header:    typed pages 136 (left) and 142 (right), the copies made for Waldo lands
+             only; stamped "State of Maine ss. March 6 1912 [?]. A true copy of
+             instrument in Hancock Registry of Deeds Vol. 12 Page 136. Copied and
+             compared. Hiram P. Farrow, Commissioner."
+  Where:     the whole left page (the right page is an unrelated Knox to Dalie deed)
+  Transcription:
+    KNOW ALL MEN BY THESE PRESENTS, that I John Holdershaw of Frankfort in the County of
+    Hancock & Commonwealth of Massachusetts yeoman, for and in consideration of the sum
+    of twenty dollars to me in hand paid by John Holdershaw Junior of the same Frankfort
+    County & Commonwealth aforesaid yeoman, the receipt whereof I do hereby acknowledge,
+    and for the same do give grant sell and convey unto the said John Holdershaw Junior
+    his heirs & assigns forever, all the right title and interest I now have or ever
+    had, in and unto one certain acre of land lying in Frankfort aforesaid, bounding on
+    Bauld Hill Cove, and is bounded as follows, to wit, beginning at a small Gulley, and
+    running South five rods, thence running West, twenty five rods to a hemlock stump,
+    thence North to the waters of Bauld Hill Cove, it being the same on which a small
+    store is now standing.
+    TO HAVE AND TO HOLD the above described premises to him the said John Holdershaw
+    Junior his heirs and assigns forever. And I the said John Holdershaw do by these
+    presents hereby covenant to and with the said John Holdershaw Junior that I will
+    warrant & defend said described premises to him and his heirs forever against the
+    lawfull claims of all persons whatsoever except the original Proprietors of the
+    patent in which said land lieth.
+    In Witness Whereof I have hereunto set my hand & seal this twenty eighth day of
+    December in the year of our Lord eighteen hundred and two.
+    Signed sealed & delivered in presence of us Francis L. B. Goodwin, Jeremiah Wardwell.
+                                      John Holdershaw (L.S.) [signature written in ink]
+    Hancock ss. Frankfort Decemr. 28th 1802. Then personally appeared the above named
+    John Holdershaw & acknowledged the above instrument by him subscribed to be his free
+    act and deed, before me, Francis L. B. Goodwin Justice of the Peace.
+    Received Jany. 18th 1803, and entered by, Thomas Cobb Regr.
+  Notes:     Hancock 12:136, as the task gives it (28 Dec 1802). The same acre and store
+             are the second piece in John Holdershaw of Boston's quitclaim to Asa Bean,
+             16 Sept 1807 (23:160, above).
 
 ==========================================================================================
 
