@@ -538,3 +538,49 @@ deed-1807-frankfort-ellingwood/   (1.jpg, 2.jpg)              [item 11]
              deeds 1800-1805 image 348) does read "John Holdershaw of Frankfort ...
              yeoman" to "John Holdershaw Junior". Whether "H. Shaw" is the 1909 typist's
              or the 1807 clerk's form of Holdershaw cannot be told from these copies.
+
+==========================================================================================
+
+deed-1792-wheelersborough-ripley-ellingwood.jpg              [item 11]
+  Collection: Hancock, Maine. Deeds 1791-1794, v. 1-2
+  Record:    none indexed (Full-Text search, "Ellingwood fishery", 1787-1810)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-K3PC-V
+             image 217 of 616, DGS 007834663
+  Held by:   creator Hancock County (Maine). Register of Deeds
+  Header:    right page numbered 39 [?]; margin "Deed No 31 [?] / John Ripley /
+             R. Ellenwood"
+  Where:     the whole right page (the left page is an unrelated Goldthwait to Lancaster
+             deed of 1772)
+  Transcription:
+    Know all Men by These presents, That I John Ripley of Boston in the County of
+    Suffolk & Commonwealth of Massachusetts Cordwainer, in Consideration of Fifty pounds
+    lawfull money, paid by Ralph Ellengwood of Wheelsborough in the County of Hancock &
+    Commonwealth aforesaid yeoman, The Receipt whereof, I do hereby Acknowledge, do
+    hereby give, grant, sell & Convey unto the sd Ralph Ellengwood, his Heirs & Assigns,
+    all such Right, Title, Interest, Claim and Demand, which I now have, or ever [had,
+    struck through] can, or ought to have, in, of and to, a certain Lot of Land lying on
+    the sd Westerly side of Penobscot River containing One hundred Acres, beginning at
+    the Shore from Land in possession of Mr. Wells, and Running down the River a South
+    Course fifty Rods, and from thence, running a West Course one Mile back on Land in
+    possession of Richard Ellengwood & thence running a North Course fifty Rods, and
+    from thence, running an East course one mile to the first mentioned bounds, so as
+    to Complete the sd Hundred Acres, with all the buildings standing on sd Lands, and
+    all the Rights Profits & priviledges, thereto belonging, Togeather with one half of
+    my right on my Own Land for Carrying on the Salmon Fishery, & Carrying off the Fish
+    when caught, to such place as he may think proper, To have and to hold the afore
+    described premises to the sd Ralph Ellengwood his Heirs and Assigns, to his and
+    their use and behoof forever. [covenants] ... In Witness whereof, I the sd John
+    Ripley & I Jane Ripley the wife of the sd John, of my voluntary and intire
+    Relinquishment of my Right of Dower in the premises, have hereunto set Our hands and
+    Seals, this third day of April, in the year of Our Lord One Thousand Seven hundred
+    and ninety two.                                                John Ripley (seal)
+    Signed Sealed and delivered in presence of us Samuel Barrett, J. Trumbull Barrett
+    [bracketed: Witnesses to the executing of this Instrument by me John Ripley]
+    Suffolk ss. 3d April 1792. Then the above Named John Ripley Acknowledged the above
+    Instrument to be his free act & Deed Before me Samuel Barrett Justice of ye peace.
+    Received & Entered April 20th 1792. Attt William Webber [?] Regr
+  Notes:     Grantee "Ralph Ellengwood of Wheelsborough ... yeoman" (Wheelersborough,
+             later Hampden). The lot's western line runs "on Land in possession of Richard
+             Ellengwood". The wording of the lot and fishery clause follows Robert
+             Hichborn's 1787 deed to Richard (Lincoln 22:93, above) almost word for word.
+             The volume number of this page within v. 1-2 is not shown on the image.
