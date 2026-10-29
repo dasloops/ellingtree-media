@@ -17,17 +17,32 @@ KEY POINTS
   right. 3 Sept 1796: Ralph "of Hampden" and his wife Delilah sold that lot; Richard
   witnessed.
 - Richard Ellingwood of Frankfort, "Trader" or "Merchant", was buying and selling land
-  from 1797 to 1802 (grantor index). By 19 Apr 1804 he was dead and Hope Ellingwood was
+  from 1797 to 1803 (grantor and grantee indexes). His first indexed Frankfort purchases
+  (Hancock 6:464-466, Dec 1798 to Mar 1799) include 100 acres "near Bald Hill Cove" from
+  Thomas Holbrooks for $700. No Ellingwood deed is indexed at 4:509. By 19 Apr 1804 he was dead and Hope Ellingwood was
   his widow and "sole Executrix".
 - Docket 305 (1804-05): Hope guardian of Richard and John (over 14) and Sally, Ralph,
   Susanna and Lucy (under 14); Ralph Ellingwood a surety.
 - 4 Nov 1807 (typed 1909 copies of Hancock 23:286-287): Hope, widow, and Ralph and Delilah
   sold their shares in the estate of "John H. Shaw late of Frankfort", named as the
-  father of Hope and of Delilah.
+  father of Hope and of Delilah. 28 Dec 1802 (12:136): John Holdershaw of Frankfort gave
+  John Holdershaw Junior the acre with the store on Bald Hill Cove. 16 Sept 1807
+  (23:159-160): "John Holdershaw of Boston ... Mariner" quitclaimed that acre and store, a
+  house and barn, and other land to Asa Bean; one witness is typed "J. H. Shaw".
+- July Term 1829: the Waldo Court of Common Pleas gave William Prescott judgment against
+  "Hope Ellingwood of Frankfort ... Widow", who defaulted, on her note of 30 Sept 1811.
 - 5 July 1813 (Hancock 39:158): Hope, "widow of Richard Ellingwood, deceased", Richard
   Ellingwood, and Moses B. Patten and his wife Sarah, "heirs of said deceased, & all of
   Frankfort", sold part of the homestead farm. In the 1818 deeds of the same estate
   (39:157-159) the grantors are Hope, Susan, the Pattens and Paul D. and Lucy Delano.
+- March Term 1875 (Kankakee County Court): Finley Ellingwood, guardian since 27 Jan
+  1875, was ordered to sell the minor Ellsworth Ellingwood's one-fifth interest in Lot 8
+  and the south half of Lot 7, Block 69, Associates Addition, Kankakee. The order does
+  not say how Ellsworth came by it.
+- 23 April 1917: Richard Everett Ellingwood, student, born at Evanston 14 Feb 1895,
+  applied for a passport for Y.M.C.A. work in France and Great Britain, sailing from New
+  York on the Espagne on 5 May 1917. He gave his father as Finley Ellingwood, born in
+  Manchester, Indiana.
 - 9 June 1777: the Council ordered a letter-of-marque commission for "Richd Ellinwood",
   master of Thomas Adams's schooner Cleora, bound for the French West Indies.
 
@@ -1332,23 +1347,33 @@ NOT FOUND OR NOT VIEWABLE (no file)
     Ellery H. Sweetser (1934) and "Vital records of Hampden, Maine prior to 1892"
     (Sylvester and Spinney), neither opened. Frankfort, Pownal, Freeport, Durham and
     Gorham not tried. Historical Record (indexed) search returned an error page all
-    evening, so the Maine marriage indexes were not searched.
+    evening (tried again at about 23:00), so the Maine marriage indexes were not
+    searched. Full-Text "Ellingwood" and "Ellinwood", 1808-1810, found no Maine town
+    book.
 13. Hamilton County, Ohio tax records 1817-1819: not found by Full-Text ("Ellingwood",
     "Ellinwood", 1816-1820). The only Ohio hits were Washington County: Samuel Ellingwood
     of Belpre (deeds 1818-1820) and Isaac and Benjamin Ellingwood (poll books 1827-1841).
 14. Dearborn deeds, probates of Richard (d. 1864) and Hannah, the Rufus Rice estate, and
-    the 1830 and 1840 census pages: not found by Full-Text ("Richard Ellingwood" 1830-1875,
-    "Hannah Ellingwood" 1863-1875, "Rufus Rice" 1845-1852); the censuses need the indexed
-    search, which was failing.
+    the 1830 and 1840 census pages: not found. Full-Text "Ellingwood" with the place filter
+    set to Dearborn County, Indiana (127 hits, all years) shows probate, marriage, tax and
+    civil-court books but no deed books, and no estate of Richard or Hannah. Its probate
+    hits read were: Richard as a buyer at William Boston's sale and a creditor (1857),
+    surety for an administrator (1861), John Ellingwood as a buyer and payee (1864), and
+    the Lenover estate naming "Mary Ellingwood, who intermarried with John Ellingwood"
+    (1874-1879; 3:1:3QHV-Q79H-4SW7, 3:1:3QHK-779K-XSRZ). Elijah Ellingwood of Manchester
+    was a juror in April 1848 (Order Book 1846-1851, 3:1:3QHJ-N7QM-28C9). "Rufus Rice"
+    with the same filter (53 hits) found a Rufus Rice living in the 1850s and 1861, and
+    no estate of the 1840s. The censuses need the indexed search, which still failed.
 15. Death or probate records of Hope S., Sarah Brooks, John, Elmira and Elizabeth Ann
-    Ellingwood: not searched beyond the "Hope Ellingwood" Full-Text search (which found
-    the 1835 Gould marriage, above).
-16. Elijah Ellingwood's estate and death, Kankakee 1871-1875: not found. Full-Text
-    "Elijah Ellingwood" (1870-1877) found only the Muncey estate entries (above);
-    "Ellingwood deceased", "Mary A Ellingwood" and "Ellingwood" (1871-1876) found nothing
-    else in Kankakee. The county court book on 939K film (Probate Records 1868-1877, 323
-    images) has no index at the front and its images are not in date order; it was not
-    paged through.
+    Ellingwood: not found. Full-Text "Ellingwood" filtered to Dearborn County found no
+    death record; "Hope S. Ellingwood" gave no results and "Elmira Ellingwood" two
+    unrelated (Nova Scotia, Oxford Co., Maine). The 1835 Gould marriage (above) was found
+    by "Hope Ellingwood".
+16. Elijah Ellingwood's estate and death, Kankakee 1871-1875: not found. Full-Text with
+    the place filter set to Kankakee County (Ellingwood, Ellenwood, Elingwood,
+    Ellinwood, 1870-1880) found the Muncey estate entries and the 1875 guardianship
+    entries (the order of sale is in the batch) but no estate of Elijah and no death
+    record. The county court books were not paged through.
 18. Richard Everett Ellingwood's draft registrations: not found. The indexed record
     search (and so the WWI draft card collection) returned an error page each time it was
     tried this evening, and draft cards are not in Full-Text search. The 1917 passport
