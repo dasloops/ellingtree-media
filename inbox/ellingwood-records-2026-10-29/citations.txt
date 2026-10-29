@@ -168,3 +168,70 @@ court-record-1677-salem-ellinwood/   (1.jpg, 2.jpg)              [item 2]
              Ralph Jr. (b. 1657), the son, working as the miller's man; the case on 1.jpg
              names his mother Elenor as the relict of Ralph Ellenwood. "Hall" and "Hale"
              are the same miller.
+
+==========================================================================================
+
+probate-1743-beverly-ellinwood.jpg              [item 4]
+  Collection: Essex, Massachusetts, Probate Records 1741-1746 (record book)
+  Record:    none indexed (Full-Text search, "Ellinwood Martin", 1743-1745)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YT-VNQY
+             image 356 of 642, DGS 007704843 (Essex. Probate Records 1741-1746)
+  Held by:   creator Massachusetts. Probate Court (Essex County); custodian not given
+  Header:    right page, "Bro. Over" at the head, folio 77 [?] at top right
+  Where:     right page, from "Know all men" to the foot; margin note "The Children of
+             Ralph Ellinwood Acquittance". (The left page and the top of the right page are
+             other estates.)
+  Transcription:
+    Know all men by these Presents that We Israel Ellinwood of Boston in the County of
+    Suffolk in New England Coaster (for my Selfe & Daniel Ellinwood a Minor my brother
+    Whose Guardian I am Appointed By the Honble Tho: Berry Esqr Judge of Probates &c:
+    for the County of Essex) Ralph Ellinwood of sd Beverly Beverly in the County of Essex
+    Coaster, Esther Ellinwood of sd Beverly Spinster, Richd Thistle ye 2d of sd Beverly
+    & Abiel his Wife: which Israel, Ralph, Daniel, Esther & Abiel are Children & heirs of
+    Ralph Ellinwood Junr: late of sd Beverly Coaster Decd. Do hereby Acknowledge That we
+    have Recd of Mr Joseph Herrick of Topsfield in the County of Essex aforesd and Robt
+    Hale of sd Beverly Esqr who were Bondsmen to the Judge of Probates for sd County of
+    Essex For Our Mother Sarah Allen (late Sarah Ellinwoods) Due Admx of the Goods &
+    Chattels of Our sd Father; A Valuable Consideration Which we hereby Own to be Our full
+    Part Portion & Proportion & Dividend of Our sd Father's Personal Estate, and of the
+    Proffitts, Rents & Incomes of his Real Estate Whatsoever & wheresoever, And Do
+    therefore Hereby Acquitt Our sd Mother Sarah Ellinwood alias Allen as Administratrix
+    As Aforesd & her sd Bondsmen Joseph Herrick & Robt Hale, of All Demands whatsoever on
+    acct: of any Dividend, Portion or Share In our sd fathers Personal Estate or the
+    Proffitts of that or of his Real Estate, Due Owing or Payable to us or Either of us;
+    as Witness Our hands & Seals this 6th Day of Decemb: Anno Domini 1743
+    Signed Sealed & Delivered in Presence of        Israel Ellinwood (seal)
+      Elisha Woodbury                                 and as Guardn for Danl Ellinwood (seal)
+      Wm Tuck 2d [?]                                  Ralph Ellinwood (seal)
+                                                      Esther (her mark) Ellinwood (seal)
+                                                      Richd Thistle } (seal)
+                                                      Abiel Thistle }
+  Notes:     The clerk's record-book copy. It names the third Ralph "Ralph Ellinwood Junr ...
+             Coaster", his widow as administratrix "Sarah Ellinwood alias Allen", and the
+             children Israel (of Boston, coaster, guardian of his brother Daniel), Ralph,
+             Daniel, Esther and Abiel (wife of Richard Thistle 2d). Sarah West, named in the
+             1743 division the brief quotes, does not sign here. Matches the task on the
+             widow, her remarriage and the children. This is the acquittance for the
+             personal estate, not the division of the real estate itself.
+
+==========================================================================================
+
+marriage-record-wardwell-ellinwood-1716.jpg              [item 6]
+  Collection: Massachusetts, Town Clerk, Vital and Town Records, 1626-2001: Andover.
+             Marriage Records 1647-1844, Town Records 1647-1844
+  Record:    none indexed (Full-Text search, "Ellinwood Wardwell", 1716)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QSQ-G979-HP7D
+             image 21 of 149, DGS 007010678, item 1
+  Held by:   not given by FamilySearch [Andover town clerk]
+  Header:    right page numbered 29, year "1716" at the head of the date column
+  Where:     right page, the eighth entry, about two-thirds down
+  Transcription:
+    Dec 20  Samuel Wardwell of Andover, & Return Giles of Beverly, by Rev. John Chapman.
+  Notes:     This book is a later fair copy of Andover's early marriages, in a 19th-century
+             hand on ruled paper, not the 1716 original entry. The Beverly record of the same
+             marriage (printed in Vital Records of Beverly as "Return [Ellinwood] (Return
+             Giles, dup.; Return Pitts, int.) and Samuel Wardwell of Andover at Andover, dup.,
+             Dec. 20, 1716") was not found in manuscript on FamilySearch (see below). The
+             link to the family is through Ralph Jr.'s will of 1741, which names "my daughter
+             Returne Wardwell"; "Giles" here is how the Andover copy renders her married name
+             of the time (the brief has Piles/Biles).
