@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-37 image files in 23 entries. All images are FamilySearch's full-size originals (dist.jpg).
+39 image files in 24 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -970,8 +970,69 @@ court-record-1829-waldo-ellingwood.jpg              [item 11]
     Execution issued February 6. 1830.
   Notes:     Not the deed the task gives at 13:68, but it shows Hope Ellingwood of
              Frankfort, widow, named as a living defendant at the July Term 1829. The
-             volume's defendants index (image 594) lists her at p. 399 [?]. The entry above
-             hers on the same page is Prescott v. James Young.
+             volume's defendants index (image 594) also lists her, under Prescott, William.
+             The entry above hers on the same page is Prescott v. James Young.
+
+==========================================================================================
+
+probate-1875-kankakee-ellingwood/   (1.jpg, 2.jpg)              [item 16]
+  Collection: [Probate Records]: Kankakee, Illinois. Probate Records 1868-1877, vol. 6
+             (Kankakee County Court Record)
+  Record:    none indexed (Full-Text search, Ellingwood and other spellings, place filter
+             Illinois, Kankakee, 1870-1880)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:939K-YCSM-9X
+                   image 16 of 327 (pages 26-27)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:939K-YCS9-4Q
+                   image 17 of 327 (pages 28-29)
+             DGS 004705498 (item 3 of 3)
+  Held by:   creator and custodian Illinois. County Court (Kankakee County)
+  Header:    "Kankakee County Court Record, March Term, 1875", pages 26, 27, 28; page 27
+             also has "634" written above the heading
+  Where:     1.jpg from "In the Matter of the application" (lower part of p. 26) through
+             p. 27; 2.jpg p. 28 to the judge's signature (p. 29 is other business)
+  Transcription:
+    In the Matter of the application [of] Finley Ellingwood Guardian of Ellsworth
+    Ellingwood, minor, to sell Real Estate. And now comes the petitioner in the above
+    entitled cause and moves the Court to order the sale of the Real Estate of the above
+    named minor. And it appearing to the Court that said petitioner filed his petition in
+    writing in this Court stating the facts, on the Sixteenth day of February AD 1875, and
+    gave notice to all persons concerned ... by posting notices ... One at the Court House
+    in said County, One at the post office in Kankakee City in said County and one at
+    Durham's [?] Bank in Kankakee City ... on or about the 13th day of February AD 1875
+    ... and that a copy of said notice was duly served upon said minor on the 28th day of
+    February A D 1875 ...
+    [p. 27] Court having heard the arguments of counsel and duly considered the pleadings
+    and proofs, finds that the above named Ellsworth Ellingwood is a minor and a
+    resident of said Kankakee County. That the allegations in said petition are true.
+    That said petitioner was on the 27th day of January A.D. 1875, appointed guardian of
+    the person and estate of the said minor by the County Court of said Kankakee County,
+    and gave bond as required by law ... That an Inventory of all the real and personal
+    estate of said ward was duly filed in the office of the County Clerk of said Kankakee
+    County. That such minor has an interest in the real estate in said petition and
+    hereinafter described to wit: Lot Eight (8) and the south half of Lot Seven (7) in
+    Block Sixty-nine (69) in Associates Addition to the City of Kankakee in County of
+    Kankakee and State of Illinois aforesaid. That the aforesaid minor has a one-fifth
+    (1/5) interest in and to the above mentioned Real Estate, that the improvements on
+    said Lots are in a somewhat dilapidated condition and rapidly depreciating in value
+    owing to the lack of immediate and personal attention and care which the guardian is
+    unable to give it ... that said ward has but very little personal property, and that
+    the said guardian has advanced considerable money for said ward for his support and
+    education &c and that said ward is now too young to earn anything toward his own
+    support or but very little if anything. ...
+    [p. 28] ... doth order adjudge and decree that said petitioner as such guardian do
+    proceed to sell all the right title and interest of the above named minor in and to
+    all the real estate above described ... on Saturday the 17th day of April A.D. 1875,
+    at 11 o'clock AM ... at public vendue at the North door of the Court House ...
+                                 C. R. Starr, Judge of the County Court of Kankakee County
+  Notes:     The record does not name Ellsworth's parents or say how he came by the
+             one-fifth share. Later entries in the same book: an inventory of Ellsworth's
+             estate presented 15 Feb 1875 (image 319 of 323 on the 1868-1877 group,
+             3:1:939K-YCSM-1C) and Finley's report of the sale, approved (image 58 of 327,
+             3:1:939K-YCSM-MP); and Finley's report as guardian to 30 March 1881 (Probate
+             Records 1877-1884, image 161 of 303, 3:1:939K-YCSM-BS). None of these brought
+             in. The estate of Thomas Muncey (same 1868-1877 records, images 86-87 and 96,
+             e.g. 3:1:939K-YC9B-GY) shows a loan of $500 to Elijah Ellingwood, "payable in
+             two Years", on note and mortgage of real estate, 29 Jan [1867 or 1868].
 
 ==========================================================================================
 
