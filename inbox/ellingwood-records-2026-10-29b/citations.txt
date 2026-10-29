@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-35 image files in 25 entries. All images are FamilySearch's full-size originals (dist.jpg).
+35 image files in 21 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -835,6 +835,70 @@ deed-index-1789-1827-hancock-ellingwood-grantee.jpg              [item 11]
 
 ==========================================================================================
 
+deed-1807-frankfort-holdershaw-bean.jpg              [item 11]
+  Collection: Hancock (and Waldo), Maine. Deeds 1805-1808, v. 16-24
+  Record:    none indexed (Full-Text search, "Holdershaw" "Asa Bean", 1805-1810)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLR-QSM4-3
+             image 482 of 593, DGS 008203772
+  Held by:   creator Hancock County (Maine). Register of Deeds
+  Header:    typed pages 159 (left) and 160 (right); each stamped "State of Maine ss.
+             March 9 1909. A true copy of instrument in Hancock Registry of Deeds Vol. 23
+             Page 159 [160]. Copied and compared. Hiram P. Farrow, Commissioner."
+  Where:     the whole of both pages
+  Transcription:
+    23:159  KNOW ALL MEN BY THESE PRESENTS, that John Holdershaw of Boston in the County
+    of Suffolk & Commonwealth of Massachusetts Mariner, in consideration of forty dollars
+    to be paid by Asa Bean of Frankfort in the County of Hancock & Commonwealth
+    aforesaid Merchant & Joseph Holdershaw of Frankfort aforesaid, Yeoman ... remise,
+    release, sell and forever quit-claim unto the said Asa & Joseph ... a certain piece
+    of land lying & situate in the town of Frankfort aforesaid [bounds from a tall
+    Hemlock stump, northerly twenty five rods to the main stream entering into said
+    Cove, along the stream to land owned by A. Bean, and on Bean's land eighty rods to
+    the first bound] ... this sixteenth day of September ... one thousand eight hundred
+    and seven.  John Holdershaw (LS). Witnesses Tho's Kast [?], And'w Kettell.
+    Suffolk ss. September 16, 1807, acknowledged before Stephen Gorham Just. of Peace.
+    Rec'd Oct. 5, 1807 & entered by B. Hall Reg'r.
+    23:160  KNOW ALL MEN BY THESE PRESENTS, that I John Holdershaw of Boston in the County
+    of Suffolk and Commonwealth of Massachusetts, Mariner, in consideration of three
+    hundred dollars to me paid by Asa Bean of Frankfort in the County of Hancock &
+    Commonwealth aforesaid Merchant, ... forever quit-claim unto the said Asa his heirs
+    and assigns, all my right, title, interest & estate which I now have or ever may
+    have to a certain piece or tract of land lying & situate in the town of Frankfort
+    aforesaid, together with the house & Barn standing on the same, running and bounded
+    as follows viz, Beginning at a certain stake & stones standing on the Southerly line
+    of the lot of land taken up & possessed by the said John Holdershaw, thence
+    Southerly on land of Jeremiah Wardwell twenty four rods to the town road, thence on
+    said town road westerly one hundred & eighty rods to land owned by William
+    Holdershaw, thence Northerly on said Holdershaws' land ten rods to said Holdershaw's
+    first mentioned line, thence Easterly on said line one hundred and eighty rods to the
+    first mentioned bound, the same to contain ten acres more or less; and also a
+    certain other piece of land lying & situate in the aforesaid Frankfort & bounded as
+    follows viz, beginning in a certain gully, thence South five rods to a stone, thence
+    West twenty five rods to a hemlock stump, thence North to low water mark in
+    bald-hill Cove, thence on said low water mark till it would intersect the first
+    described line continuing the same to said low water mark, together with a store
+    standing thereon to contain one acre more or less. ... In witness whereof the said
+    John Holdershaw have hereunto set my hand and seal this sixteenth day of September
+    in the year of our Lord one thousand eight hundred and seven.
+                                       John Holdershaw (LS) [signature written in ink]
+    Signed, sealed, and delivered, in presence of us, J. H. Shaw, And'w Kettell.
+    Suffolk ss. September 16th 1807. Then the above named John Holdershaw acknowledged
+    the above Instrument to be his free act and Deed, before me, Stephen Gorham Just. of
+    Peace. Rec'd Oct'r 5th 1807 & entered by, B. Hall Reg'r.
+  Notes:     Hancock 23:159-160, as the task gives them; 1909 typed copies, like
+             23:286-287 above. The grantor is "John Holdershaw of Boston ... Mariner", 16
+             Sept 1807, seven weeks before Hope's and Delilah's releases of 4 Nov 1807 in
+             the estate of "John H. Shaw late of Frankfort". The second piece in 23:160 is
+             bounded like the acre with the store that John Holdershaw of Frankfort gave
+             John Holdershaw Junior in 1802 (Hancock 12:136: gully, five rods south, twenty
+             five rods west to a hemlock stump, north to Bald Hill Cove). A first witness to
+             23:160 is typed "J. H. Shaw". William Holdershaw owns the land to the west, and
+             a Joseph Holdershaw of Frankfort, yeoman, is a grantee in 23:159. The left-page
+             witness "Tho's Kast" and the 23:159 bounds were read from FamilySearch's
+             machine transcript.
+
+==========================================================================================
+
 deed-1813-frankfort-ellingwood-heirs/   (1.jpg, 2.jpg)              [item 15]
   Collection: Hancock, Maine. Deeds 1818-1820, v. 38-39
   Record:    none indexed (found from the grantor index above, Hancock 39:157-159)
@@ -1055,11 +1119,9 @@ NOT FOUND OR NOT VIEWABLE (no file)
     of Waldo lands (both in this batch) has any Ellingwood deed in vol. 4. Page 543 of
     the same book (image 594, 3:1:3Q9M-CS3J-21MZ) ends a mortgage with a note "to pay
     Richard Ellingwood, or order, one hundred and seventy Dollars", Frankfort, 31 Oct
-    1797, signed Eliashib [?] Delano; it was not brought in. Hancock 23:159-160
-    (Holdershaw to Asa Bean; the grantor index gives Holdershaw to Bean at 23:159 and
-    23:160, 1807) and 13:68 (Hope living 1829) were not brought in. 13:68 is not in the
-    Hancock index of Waldo lands, so it may be a Waldo County volume (Waldo deeds begin
-    1827); not searched for.
+    1797, signed Eliashib [?] Delano; it was not brought in.
+    13:68 (Hope living, 18 July 1829): not found. 13:68 is not in the Hancock index of
+    Waldo lands, so it may be a Waldo County volume (Waldo deeds begin 1827).
 12. Richard Ellingwood and Hannah Brown, 1809; Sally Ellingwood and Moses B. Patten,
     Hampden intention 1808/1809: not found. Full-Text searches "Richard Ellingwood"
     Hannah, "Ellingwood" "Hannah Brown", "Moses B. Patten", "Sally Ellingwood", "Patten"
