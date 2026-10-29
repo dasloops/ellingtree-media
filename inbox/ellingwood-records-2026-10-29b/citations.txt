@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-31 image files in 23 entries. All images are FamilySearch's full-size originals (dist.jpg).
+35 image files in 25 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -718,6 +718,123 @@ deed-index-1789-1827-hancock-ellingwood-grantor.jpg              [item 11]
 
 ==========================================================================================
 
+deed-1799-frankfort-ellingwood/   (1.jpg, 2.jpg)              [item 11]
+  Collection: Hancock, Maine. Deeds 1797-1799, v. 5-6
+  Record:    none indexed (Full-Text search, "Richard Ellingwood", 1787-1810; the
+             grantee index above gives 6:464-466)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-ZHY3
+                   image 534 of 647 (pages 464-465)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVL-ZH5Z
+                   image 535 of 647 (pages 466-467)
+             DGS 008128220
+  Held by:   creator Hancock County (Maine). Register of Deeds
+  Header:    pages 464, 465, 466, 467 of vol. 6; a later copy book (each entry ends "A true
+             Copy of the original Record. Attest J. O. Sargent, Register")
+  Where:     four deeds to Richard Ellingwood, in order: Bolton (1.jpg left page, lower
+             part, to the top of the right page); Holbrook (1.jpg right page, from "Know
+             All Men" to the foot); Dutch (2.jpg left page, top); Couillard (2.jpg left
+             page, foot, ending on the right page)
+  Transcription (the parts that matter):
+    6:464-465  Solomon Bolton of Frankfort ... Yeoman, for Fifteen Dollars paid by
+    Richard Ellingwood of the same Frankfort ... Trader ... all the right title &
+    interest I now have ... in & unto a certain lot or tract of land lying at Frankfort
+    aforesaid at a Settlement called Goshen [bounds by the lot "I have improved on" and
+    the lot "improved by David Gray"] ... except the original Proprietors of the Patent
+    ... Twelfth day of March ... one thousand seven hundred & ninety nine.
+    Witnesses Francis L. B. Goodwin, Jane P. Goodwin. Acknowledged Frankfort Mar. 12th
+    1799 before Francis L. B. Goodwin J.P.
+    6:465  [margin: Deed. Holbrooks to Ellingwood. Rec'd Apr 16th 99. Eli Forbes]
+    Know All Men By These Presents, That I Thomas Holbrooks of Frankfort in the County
+    of Hancock & Commonwealth of Massachusetts, Yeoman, for & in consideration of the
+    sum of Seven Hundred Dollars to me in hand paid before the ensealing hereof by
+    Richard Ellingwood of the same Frankfort County & Commonwealth aforesaid, Trader,
+    ... do give, grant, sell & convey unto the said Richard his Heirs & Assigns forever,
+    all the right title & Interest I now have or ever had of in & unto a lot or tract
+    of land lying in Frankfort on the West side Penobscot river near Bald Hill Cove &
+    is bounded as follows, Viz: Beginning at a Maple tree on the bank of Penobscot river
+    which is the corner bound between my said lot & the lot now in possession of Paul
+    Downs, thence by the land of the said Downs one mile South Westerly, thence
+    Northerly as said head line runs fifty rods, thence East Northerly by the land of
+    Noah Downs one mile to said Penobscot river, thence as the said river runs to the
+    first mentioned bounds, so as to contain one hundred acres ... [warranty] except the
+    original proprietors of the Patent in which said lot of land lieth ... at Frankfort
+    this Nineteenth day of January in the year of our Lord Seventeen hundred & ninety
+    nine.  Thomas Holbrooks (LS)
+    [beside the signature] And my wife Thankful does hereby give up her right of Dower to
+    the said premises & puts her hand.  Thankful [her mark] Holbrook (LS)
+    Witnesses Francis L. B. Goodwin, Jane P. Goodwin, Noah Downs.
+    Hancock ss. Frankfort Jan'y 19th 99 [acknowledged by Thomas Holbrooks before
+    Francis L. B. Goodwin Jus. Peace]; [margin, written sideways: Thankful Holbrook
+    acknowledged, January 21st [?] 1799, before Francis L. B. Goodwin J.P.]
+    6:466  [margin: Deed. Dutch to Ellingwood. Rec'd Apl 16th 99. Eli Forbes Rr]
+    John Dutch of Frankfort ... Trader, for one hundred & fifty Dollars paid by Richard
+    Ellingwood of the same Frankfort ... Trader ... a certain lot or tract of land
+    containing One hundred acres lying in Frankfort aforesaid about seven miles back
+    about West from Marsh Bay & is bounded Easterly on the head of John Carlton's lot
+    that he now lives on, & Southerly on John Moore's Lot, & Westerly on nonresident
+    proprietors land, & Northerly on Levi Carter's land ... at Frankfort aforesaid this
+    Twenty second day of December in the year of our Lord Seventeen hundred & ninety
+    eight.  Jno Dutch (LS), Mary Dutch (LS) [and my wife Mary gives up her right & title
+    to the above said premises]. Witnesses Francis L. B. Goodwin, Jane P. Goodwin.
+    Acknowledged "Hancock ss. Frankfort Dec. 22d 1799" [sic, as copied] before Francis
+    L. B. Goodwin J.P.; [margin: Mary Dutch acknowledged, Frankfort Feby 6 1799].
+    6:466-467  [margin: Deed. Couilard to Ellingwood. Rec'd Apl 16th 99. Eli Forbes Rr]
+    Francis Couilard of Frankfort ... Yeoman, for Fifteen Dollars paid by Richard
+    Ellingwood of the same Frankfort ... a certain tract of land lying in Frankfort at a
+    place called Goshen about Six miles back about West from Marsh Bay, containing one
+    hundred acres [bounded on the land improved by Henry Danforth [?] and the land of John
+    Hutchings [?]] ... it being the same lot which Abraham Antony [?] ... Eleventh day of
+    February ... Seventeen hundred & ninety nine. Witnesses Francis L. B. Goodwin, Jane
+    P. Goodwin; acknowledged Frankfort Feby 11th 1799.
+  Notes:     These are the four 1798-1799 deeds the grantee index (above) gives at 6:464,
+             465 and 466; all were recorded 16 April 1799. In all four Richard is "of
+             Frankfort", and "Trader" in three. The Holbrook lot, for $700, is the only one
+             on the river: 100 acres "near Bald Hill Cove", between Paul Downs and Noah
+             Downs. The other three are back lots at Goshen or west of Marsh Bay, for $15
+             to $150. The Couillard bounds on 6:467 were read from FamilySearch's
+             machine transcript and are marked [?].
+
+==========================================================================================
+
+deed-index-1789-1827-hancock-ellingwood-grantee.jpg              [item 11]
+  Collection: Waldo, Maine. Grantee Deed Indexes 1789-1827 / Hancock. Grantee Deed
+             Indexes 1789-1827 ("1789-1827. Index. Hancock Records, Waldo Lands")
+  Record:    none indexed (found by paging the film's thumbnails to the E pages)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-5NCG
+             image 57 of 215, DGS 007834725
+  Held by:   creator Hancock County (Maine). Register of Deeds
+  Header:    typed index page 99 (left); columns Grantee | Location | Vol. | Page | Grantor
+             | Nature of Inst. | Date | Record
+  Where:     left page, lower half (ELLENWOOD, ELLINGWOOD, ELLINWOOD)
+  Transcription:
+    ELLENWOOD.  See Ellingwood & Ellinwood.
+      Benjamin          Belfast.      33 300  Cochran, John 2d.        War.   1813. 1813.
+    ELLINGWOOD.  See Ellenwood & Ellinwood.
+      Hope              Frankfort.    14 207  Halliburton, Geo.        War.   1804. 1804.
+        "                  "          15 116  Longson, Solomon         Quit.  1804. 1804.
+        "                  "          16 257  Downs, Noah                "    1804. 1805.
+      Joseph               "          37 397  Mitchell, Otis C.          "    1817. 1817.
+      Ralph et al.         "          17 403  Longson, Solomon           "    1805. 1906. [sic]
+      Richard              "           6 464  Bolton, Solomon            "    1799. 1799.
+        "                  "           6 465  Holbrook, Thomas           "    1799. 1799.
+        "                  "           6 466  Dutch, John              War.   1798. 1799.
+        "                  "           6 466  Couillard, Francis       Quit.  1799. 1799.
+        "                  "           8 210  Littlefield, James       War.   1801. 1801.
+        "                  "           8 615  Downs, Paul              Quit.  1800. 1801.
+        "                  "          10 404  Tibbetts, Daniel           "    1801. 1802.
+        "                  "          12 339  Rowell, John               "    1803. 1803.
+      William              "          47 214  Colson, Hatevil          War.   1824. 1825.
+        "                  "          52  59  Ellingwood, Joseph         "    1826. 1826.
+    ELLINWOOD.  See Ellenwood & Ellingwood.
+      Richard           Frankfort ?   12 338  Colson, David            Quit.  1801. 1803.
+  Notes:     The grantee side of the grantor index page above. Like it, it covers only
+             deeds recorded at Hancock for land later in Waldo County. There is no entry
+             at 4:509: no Ellingwood deed of any kind is indexed in vol. 4 here. Richard's
+             first Frankfort purchases indexed are of 1798-1799 (vol. 6). The Ralph et al.
+             entry's record year reads 1906 on the page.
+
+==========================================================================================
+
 deed-1813-frankfort-ellingwood-heirs/   (1.jpg, 2.jpg)              [item 15]
   Collection: Hancock, Maine. Deeds 1818-1820, v. 38-39
   Record:    none indexed (found from the grantor index above, Hancock 39:157-159)
@@ -931,8 +1048,14 @@ Kankakee County, Illinois:
 NOT FOUND OR NOT VIEWABLE (no file)
 
 11. Hancock deeds 4:509 (Richard's half share of a right of way to the Bald Hill Cove
-    fishery): not reached. Vol. 4 is on DGS 007834660 (Hancock Deeds 1794-1797, v. 3-4,
-    where 4:293-294 is image 465-466), but p. 509 was not looked at. Hancock 23:159-160
+    fishery): not found. Vol. 4 is on DGS 007834660 (Hancock Deeds 1794-1797, v. 3-4,
+    a copy book, where 4:293-294 is image 465-466). Page 509 there (image 576,
+    3:1:3Q9M-CS3J-21SY) is Adam Grant of Marsh Bay to John Lee [?] of Penobscot, 1788,
+    with no Ellingwood in it. Neither the grantor nor the grantee index of Hancock deeds
+    of Waldo lands (both in this batch) has any Ellingwood deed in vol. 4. Page 543 of
+    the same book (image 594, 3:1:3Q9M-CS3J-21MZ) ends a mortgage with a note "to pay
+    Richard Ellingwood, or order, one hundred and seventy Dollars", Frankfort, 31 Oct
+    1797, signed Eliashib [?] Delano; it was not brought in. Hancock 23:159-160
     (Holdershaw to Asa Bean; the grantor index gives Holdershaw to Bean at 23:159 and
     23:160, 1807) and 13:68 (Hope living 1829) were not brought in. 13:68 is not in the
     Hancock index of Waldo lands, so it may be a Waldo County volume (Waldo deeds begin
