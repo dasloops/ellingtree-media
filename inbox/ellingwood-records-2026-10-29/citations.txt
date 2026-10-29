@@ -1,10 +1,30 @@
 CITATIONS - Ellingwood records, batch 1 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29/
-[count] files. All images are FamilySearch's full-size originals (dist.jpg).
+23 files. All images are FamilySearch's full-size originals (dist.jpg).
 
 KEY POINTS
-- [to be written at the end of the batch]
+- Ralph Ellinwood's will of 7 Jan 1673[/4] and inventory of 30 Jan 1673[/4] (the record-book
+  copy) name wife Hellen/Ellinor and children Ralph, John, Joseph, Benjamin, David, Mary and
+  Elizabeth, and give Ralph "the ten acres which was formerly old Robert Moultons lott".
+- The Salem court book has the probate (30 June 1674) on the page facing a fine on "William
+  Basse alias Bath" for drunkenness, and in June 1677 both "Martin Hale, miler of Beverly &
+  Ralph Ellenwood his man, for taking too much toll" and Hall v. Wm Bath and "Elenor his wife,
+  relict of Ralph Ellenwood".
+- Ralph Jr.'s original will, both pages, is dated 8 April 1741, signed by mark, witnessed by
+  Israel Wood, John Stephens and Anthony Wood, and proved 11 May 1741 (docket 8712); it names
+  "my daughter Returne Wardwell". The 1755 division assigns share 5 "To Return now Wardel widw".
+- The third Ralph (d. 1728/9) is "Ralph Ellinwood Junior late of Beverly Mariner" in his
+  inventory of 22 Jan 1728/9, which includes shares in two unnamed coasting sloops; his widow
+  administers as "Sarah Ellenwood alias Allen" (docket 8711).
+- His children are named together in the 1733 distribution, the 1743 acquittance and the
+  1755 dower division: Israel (eldest, of Boston, coaster, in 1743), Ralph, Daniel, Sarah (alias
+  West, later wife of How), Esther (later wife of Edmund Giles) and Abiel/Abia (wife of
+  Richard Thistle).
+- Joseph Herrick of Topsfield was made guardian of Israel and Ralph on 13 March 1731/2.
+- Elijah Ellingwood and Abigail Rice: license 19 July 1841, married 25 July 1841 by R.
+  Hargrave, both of Dearborn County.
+- Several items are later copies or printed texts, not the originals; each entry says which.
 
 ==========================================================================================
 
@@ -667,3 +687,90 @@ probate-1755-beverly-ellinwood-8711/   (1.jpg, 2.jpg, 3.jpg)              [item 
              "the wife of [blank] How", Esther "wife of Edmund Giles", and Daniel and Abiel
              are dead, their shares going to their heirs. The middle of 2.jpg (Nos 2-4)
              and the top of 3.jpg (Nos 5-7) are summarized, not transcribed word for word.
+
+==========================================================================================
+
+marriage-record-ellingwood-rice-1841.jpg              [item 14]
+  Collection: Indiana, Marriages, 1811-2019; Dearborn County marriage applications
+             [record book], v. 6, Dec 16, 1840 - Oct 16, 1844
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XXTS-LQD (Elijah Ellingwood and
+             Abigail Rice, indexed as a marriage license, 19 Jul 1841, page 128, officiator
+             R Hargrave)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-6F49-6PR
+             image 84 of 297, DGS 004476438, item 1 (Marriage applications)
+  Held by:   creator Dearborn County (Indiana). Clerk of the Circuit Court; custodian
+             Indiana. County Court (Dearborn County)
+  Header:    left page numbered 128 (right page 129 is another couple)
+  Where:     the whole left page
+  Transcription:
+    Be it remembered that on the 19th day of July 1841 A marriage License issued out of
+    the clerks office of the Dearborn Circuit Court in the words and figures following
+    towit
+    The State of Indiana, Dearborn County  Sct.
+    To any person legally authorized by law to Solemnize the Rites of Matrimony These are
+    to License and permit you to join together in the holy state of matrimony Elijah
+    Ellingwood and Abigail Rice and for so doing this shall be your sufficient Warrant.
+    In testimony whereof I William V Cheek clerk of the Dearborn Circuit Court have
+    hereunto set my hand and affixed the Seal of said Court at Wilmington this 19th day
+    of July 1841                                        William V Cheek clerk   [L.S.]
+    I do hereby certify that I joined together in marriage Elijah Ellingwood & Abigail
+    Rice on the 25 of July 1841 Both of Dearborn Co Ia
+                                                R. Hargrave
+                                                Minister of the Gospel
+    [added below, in another hand:]
+    What various tastes do men display = In the affairs of life
+    And odd and many are their freaks = In chosing out a Wife
+    But my young friend it will be seen = So very choice and nice
+    Selected none the fruits of earth = Except a little RICE
+                                                by A. J. Cotton [?]
+  Notes:     License 19 July 1841 (the index date); marriage 25 July 1841 by R. Hargrave,
+             as in the task. The bride is "Abigail Rice"; the name Mary does not appear.
+             The verse at the foot plays on her surname. FamilySearch overlays "Unofficial
+             Record" on the image.
+
+==========================================================================================
+INDEX ONLY (no file)
+
+17. Finley Ellingwood and Jennie S. Elliott, Cook County, 1 Sept 1880
+  Collection: Illinois, Cook County Marriages, 1871-1969
+  Record:    https://www.familysearch.org/ark:/61903/1:1:N76S-DNT
+  Image:     none linked from the record ("Check Image Availability"); not viewable here
+  Transcription of the index:
+    Groom:  Finley Ellingwood | age 27y | birth 1853 | residence Cook, Illinois, United
+            States
+    Bride:  Sibelia J. Elliott | age 22 | birth 1858
+    Event:  Marriage | 01 Sep 1880 | Cook, Illinois
+  Notes:     The index gives the bride as "Sibelia J. Elliott", so in this index Sibelia is
+             her first name and J. the initial. The task calls her Jennie S.; the image
+             would settle which, but it is not linked.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. The original loose papers of Ralph Ellinwood's will and inventory (1673/4): not found.
+   The Essex probate case files on this film start their Ellinwood dockets at 8701; docket
+   8710, "Ellinwood Ralph, test. 1674, July 3", is only a cover marked "Will of in
+   missing" (DGS 004481836, image 216 of 294). Only the record-book copy is in this batch.
+2. Film 007011221 item 1 as the brief describes it: on that film the group "Salem. Court
+   Records 1672-1681" has a Hampton/Salisbury court of 1673/74 at image 40, not the Salem
+   court of 27 Nov 1677. The 1674 and 1677 entries were found instead in "Salem. Court
+   Records 1667-1679", DGS 007894986 item 4 (in the batch).
+4. Anything giving the date or manner of the third Ralph's death at sea, or his vessel by
+   name: not found in docket 8711. The inventory has "one half of a Coasting Sloop & an old
+   Gibb" and "two third parts of a Coasting Sloop", unnamed. The division "Israel 2 shares,
+   Ralph, Daniel, Esther, Abia, and Sarah West, 1 share each" was found, but dated 10 April
+   1733 (in the batch), not 1743. No guardianship of the younger children found. Images
+   278-294 of DGS 004481836 were read from their first lines only.
+5. The Salem manuscript town books (agreement of 11th mo 1659; the Herrick agreement of
+   c. 1657-58; the 1637 division of marsh and meadow): full-text searches for "Elinwood
+   Lambert", "Ellinwood Lambert", "Herrick Lambert" (1656-1661), "Elwood" and "Ralph
+   Elwood" (1636-1640) found only the 1913 printed edition (in the batch) and deeds. The
+   Herrick agreement and the 1637 division were not looked for in the printed volume I.
+6. Beverly manuscript intentions, marriages and deaths: full-text searches "Ellinwood
+   Beverly" and "Piles" (1712-1716), "Martin forbid" (1743-1745) and "Ellinwood Wardwell"
+   (1716) found only the printed Vital Records of Beverly (NEHGS scan, 1668-1849); the
+   clerk's books did not come up. Not found: Abigail Ellinwood and John Martin jr. (1743,
+   banns forbid; 1745), Return Ellinwood and Philip Piles (1712), any entry for a Ralph
+   lost at sea 1728/9. Only the Andover copy of the 1716 Wardwell marriage is in the batch.
+7. Essex deeds: not searched (time).
+8.-13., 15., 16., 18., 19.: not reached (time).
