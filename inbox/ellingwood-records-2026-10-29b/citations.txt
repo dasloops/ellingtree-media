@@ -1,7 +1,7 @@
 CITATIONS - Ellingwood records, batch 2 (FamilySearch, searched 2026-10-29)
 
 Folder: inbox/ellingwood-records-2026-10-29b/
-36 image files in 22 entries. All images are FamilySearch's full-size originals (dist.jpg).
+37 image files in 23 entries. All images are FamilySearch's full-size originals (dist.jpg).
 (Batch 1 is inbox/ellingwood-records-2026-10-29/; item numbers refer to the same task list.)
 
 KEY POINTS
@@ -942,6 +942,39 @@ deed-1807-frankfort-holdershaw-bean.jpg              [item 11]
 
 ==========================================================================================
 
+court-record-1829-waldo-ellingwood.jpg              [item 11]
+  Collection: Waldo county court of common pleas record: Waldo. Court Records November
+             1828-November 1829, vol. 1
+  Record:    none indexed (Full-Text search, "Hope Ellingwood", 1805-1835)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-893N-MW2H
+             image 404 of 602, DGS 005732768
+  Held by:   custodian Maine State Archives
+  Header:    July Term 1829 (FamilySearch's transcript); page number 400 at the foot
+  Where:     lower two-thirds of the page, action No. 233
+  Transcription:
+    [margin: No. 233. Prescott vs Ellingwood]
+    William Prescott of Boston in the County of Suffolk and Commonwealth of
+    Massachusetts Esquire Plaintiff vs Hope Ellingwood of Frankfort in said County of
+    Waldo, Widow, Defendant, in a plea of the case for that said Ellingwood at Frankfort
+    aforesaid on the thirtieth day of September AD. 1811 by her promissory note under her
+    hand of that date for value received promised the Plaintiff (and one David Sears then
+    living but since deceased) to pay them or order Eighty three dollars and nineteen
+    cents on demand with interest annually. yet said Ellingwood though often requested
+    hath never paid the same but neglects and refuses so to do to the damage of the said
+    Plaintiff (as he saith) the sum of one hundred dollars. This Action was commenced at
+    the present term. And now the Plaintiff appears but the Defendant although solemnly
+    called to come into Court does not appear but makes default. It is therefore
+    considered by the Court that the said William Prescott recover against the said Hope
+    Ellingwood the sum of twenty six dollars and thirty nine cents damage and his costs
+    of suit taxed at nine dollars and seventy eight cents.
+    Execution issued February 6. 1830.
+  Notes:     Not the deed the task gives at 13:68, but it shows Hope Ellingwood of
+             Frankfort, widow, named as a living defendant at the July Term 1829. The
+             volume's defendants index (image 594) lists her at p. 399 [?]. The entry above
+             hers on the same page is Prescott v. James Young.
+
+==========================================================================================
+
 deed-1813-frankfort-ellingwood-heirs/   (1.jpg, 2.jpg)              [item 15]
   Collection: Hancock, Maine. Deeds 1818-1820, v. 38-39
   Record:    none indexed (found from the grantor index above, Hancock 39:157-159)
@@ -1163,8 +1196,10 @@ NOT FOUND OR NOT VIEWABLE (no file)
     the same book (image 594, 3:1:3Q9M-CS3J-21MZ) ends a mortgage with a note "to pay
     Richard Ellingwood, or order, one hundred and seventy Dollars", Frankfort, 31 Oct
     1797, signed Eliashib [?] Delano; it was not brought in.
-    13:68 (Hope living, 18 July 1829): not found. 13:68 is not in the Hancock index of
-    Waldo lands, so it may be a Waldo County volume (Waldo deeds begin 1827).
+    13:68 (Hope living, 18 July 1829): the deed itself not found. 13:68 is not in the
+    Hancock index of Waldo lands, so it may be a Waldo County volume (Waldo deeds begin
+    1827); not searched for by volume. The Waldo court record of July Term 1829 (in the
+    batch) shows her living then.
 12. Richard Ellingwood and Hannah Brown, 1809; Sally Ellingwood and Moses B. Patten,
     Hampden intention 1808/1809: not found. Full-Text searches "Richard Ellingwood"
     Hannah, "Ellingwood" "Hannah Brown", "Moses B. Patten", "Sally Ellingwood", "Patten"
