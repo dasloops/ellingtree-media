@@ -1,0 +1,346 @@
+CITATIONS - Brewster records, batch 1 (FamilySearch, searched 30 Oct 2026)
+
+Folder: inbox/brewster-records-2026-10-30/
+10 files. All images are FamilySearch's full-size originals (dist.jpg).
+
+KEY POINTS
+- All three records asked for were found, in the Plymouth Colony record books themselves (the
+  bound colony books as filmed in 1968), not in later transcripts.
+- The administration (5 June 1644) is in Court Orders, on p. 101, in the same hand as the
+  surrounding court business: letters of administration to Jonathan and Love Brewster, and the
+  inventory exhibited on their oaths.
+- The inventory runs over seven images (fols. 53-59 of the Wills book). The goods total
+  107li 0s 8d (signed Myles Standish, Tho: Prence). The Latin books total 15li 19s 4d. All
+  the books together come to 42li 19s 11d, and goods and books together to 150li 00s 07d
+  (signed Wm Bradford, Tho: Prence). The arithmetic checks: 28.08.10 + 78.11.10 = 107.00.08,
+  and 107.00.08 + 42.19.11 = 150.00.07.
+- "Perth Assembly" is on fol. 57 (image 5 of the folder).
+- The 1645 award is in Deeds vol. 1, pp. 198-199. It ends "ffinished at Plymouth the xxth
+  August 1645" and is signed William Bradford, Edw: Winslow, Tho: Prence, Myles Standish.
+  P. 198 has "we gaue him his fathers Armes". The lower part of p. 198 is water-stained and
+  its edge is torn, so the transcription below is incomplete there.
+- I could not open Bowman's printed text in this session (the request to archive.org was not
+  approved in time). So the readings below have NOT been compared with his, and where I could
+  not read the hand I have marked [?] rather than borrow a printed reading.
+
+==========================================================================================
+
+probate-1644-plymouth-brewster-administration.jpg              [item 2]
+  Collection: none (browse images; no indexed record). FamilySearch Catalog title "Plymouth
+             Colony records, court orders, 1633-1690" (koha:136764)
+  Record:    none (not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3S3-4Q6L-6
+             image 219 of 483, DGS 8492483 (film 567792, "Vols. 1-3, 1633-1640"; the viewer
+             calls the image group "Plymouth. Court Records 1633-1640", although this
+             opening is 1644)
+  Held by:   Massachusetts. Secretary of State (author, as the Catalog gives it). Filmed by the
+             Genealogical Society of Utah, 1968. Microreproduction of manuscript.
+  Header:    left page "1644  100  Winslow Gou[r]"; right page "101  Winslow Gou[r]  1644".
+             The court is the General Court of 5 June 1644. Its opening ("the fifth day of
+             June") is on the previous image, 218 (ark 3:1:3Q9M-C3S3-4QXM-2). I have that only
+             from FamilySearch's machine transcript of image 218 and did not check it against
+             the image.
+  Where:     right-hand page (p. 101), the paragraph about halfway down, after the surveyors
+             of highways and the order for Yarmouth and Barnstable, and before "It is ordered
+             by the Court That Manasseh Kempton ...".
+  Transcription (in full):
+    Lres of Administracon of all the goods and cattells of mr Willm
+    Brewster deceased are graunted by the Court to Jonathan Brewster
+    and Loue Brewster And a true Inventory thereof was exhibited
+    to the Court vpon the Oathes of the said Jonathan & Loue.
+  Notes:     "Lres" has its sign of contraction (letters). "Brewster" in line 3 is partly
+             overwritten. The same page names "Jonathan Brewster" among the Duxbury men listed
+             earlier, on p. 100 (left page, lower half, beside "mr John Alden").
+
+==========================================================================================
+
+probate-1644-plymouth-brewster/1.jpg ... 7.jpg                 [item 1]
+  Collection: Catalog title "Plymouth Colony records, wills, 1633-1686, vols. 1-4"
+             (koha:89113). The Catalog links it to the collection "Massachusetts, Plymouth
+             County, probate records, 1633-1967".
+  Record:    none (not indexed)
+  Images:    DGS 7051111 (film 567794, "Wills, vols. 1-4, 1633-1686"; the viewer calls it
+             "Plymouth. Wills 1669-1678, 1654-1668, 1683-1686, 1633-1654"), 616 images
+             1.jpg  image 63 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-897D-VS54
+             2.jpg  image 64 of 616  https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97D-V37Q
+             3.jpg  image 65 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-L97D-V34Q
+             4.jpg  image 66 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-L97D-V3MV
+             5.jpg  image 67 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-L97D-V33F
+             6.jpg  image 68 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-897D-VSPC
+             7.jpg  image 69 of 616  https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97D-VS1H
+  Held by:   Massachusetts. Secretary of State (author, as the Catalog gives it). Filmed by the
+             Genealogical Society of Utah, 1968. Microfilm of manuscript.
+  Which book: this is the colony's own register of wills and inventories (vol. 1, 1633-1654),
+             in the clerk's hand. It is the register copy of the inventory, not the loose
+             original paper, which is not on this film. I found no later clerk's copy of these
+             pages on FamilySearch, and none was needed.
+  Numbering: the book is FOLIATED. The ink number ("53]" and so on) is written only on each
+             right-hand page, so Bowman's "pp. 53-59" are folios 53-59, rectos and versos. The
+             left page of 1.jpg (fol. 52v) is blank, with show-through. A later pencil number
+             stands at the foot of each right-hand page, two ahead of the ink one ("55" on
+             fol. 53r ... "59" on fol. 57r, "60" on fol. 58r).
+  Money:     three columns, li s d, written 00.04.00. On fols. 54r, 56v and 57r the figures
+             drift up to half a line from their entries, so a few sums may belong to the line
+             above or below the one given. Where that matters I say so.
+
+  1.jpg  fol. 53r (right page). Top: "53]", "1644".
+    First lines (in full, the heading):
+      Lres of Administracon of all the goods and cattells of mr Willm
+      Brewster deceased were graunted to Jonathan Brewster and
+      Loue Brewster at the genall Court holden at Plymouth the fift
+      day of June in the xxth yeare of his said Maties now Raigne
+      of England &c and a true Inventory thereof was exhibited
+      to the Court vpon the Oathes of the said Jonathan and Loue
+      the same Court.            (The Inventory followeth)        li  s  d
+      Imprimis 4 paire of stockings ............................. 00.04.00
+    Last line: It j Diaper cloth [no sum written; ruled line]
+      (the line before: It j single boote ..................... 00.07.00)
+
+  2.jpg  fol. 53v (left page) and fol. 54r (right page)
+    fol. 53v, heading "mr W[m] Brewster"
+      First: It j sheete ......................................... 00.04.06
+      It j pistoll ............................................... 00.07.00
+      It j little desk ........................................... 00.01.00
+        [written "little Desk", with no final e]
+      Last: It j chamber pott ................................... [00.03.00?]
+        [the last figures stand half a line above it]
+    fol. 54r, "54]", heading "Mr Wm Brewster"
+      First: It j pewter bottle .................................. 00.00.06
+      It j rapier ................................................ 00.00.06 [?]
+        [figures drift on this page: 00.00.06 is level with "rapier", but the pot below has
+        02.05.00, which looks a line out, so the rapier may be 00.01.00 or 00.00.06]
+      ...
+      It in siluer [no sum on the line]
+      Left margin: "28.8.10" (the page total)
+      These goods were prised by Capt Myles Standish & mr John Done
+                                                  May 10th 1644.
+      At his house at Duxborrow prised by mr Thom Prence &
+      Capt Myles Standish, May 18th 1644
+      Imprimis a feather bed & boulster a pillow & straw bed ....... 02.10.00
+      Last: It j bedstead & settle ............................... 00.15.00
+
+  3.jpg  fol. 54v (left) and fol. 55r (right)
+    fol. 54v, heading "mr Willm Brewster"
+      First: It j stoole ......................................... 00.00.04
+      It j deske ................................................. 00.01.00
+      It description of new England ............................. 00.00.04
+        [the last letters of "England" end in a flourish]
+      ... (livestock: It j yoke of oxen 10 yeare old 16.00.00; It 2 yoke of oxen younger
+          28.00.00; and so on)
+      Last entry: It a pigg [no sum written]
+      The totall is 107li 0s 8d          Myles Standish
+                                         Tho: prence
+      Left margin: "78.11.10" (the page total)
+    fol. 55r, "55]", heading "mr Willm Brewster"
+      An Inventory of the latten books taken by mr Bradford mr Prence
+      and mr Reynor May 18th 1644                                    li  s  d
+      Imprimis Glosa testamenti Malarato [?] .................... 01.04.00
+        [the sum stands on the next line, beside "It Tremelius & Junius biblia sacra"]
+      ...
+      Last: It Thom Thomasius Dic[tionarium] .................... 00.02.00 [?]
+      Left margin: "11.05.00" (the page total)
+
+  4.jpg  fol. 55v (left) and fol. 56r (right)
+    fol. 55v, heading "mr W[m] Brewster"
+      First: It Bastwick Apologeticus ........................... 00.00.06
+      It Macchauelij [?] princeps ............................... 00.01.08
+        [the first word is faint. I read "Ma", then c or z, then "anelij" or "auelij". It
+        is not "Machavelii" letter for letter]
+      It Cartwright prouerbia ................................... 00.07.00
+        [written "Cartwrigt" or "Cartwright"; the h is doubtful]
+      Last Latin entry: It Harmonia Euangeliorum [?] ............ 00.00.06
+      [ruled]                                                      15.19.04
+      An Inventory of the English bookes
+      taken by mr Bradford & mr Prence
+      It j English Bible lattin letter .......................... 00.08.00
+      Last: It Caluin on Job .................................... 00.06.00
+    fol. 56r, "56]", heading "mr W[m] Brewster"
+      First: It Willet on Roman[s] .............................. 00.06.00
+      Last: It 7 [?]lames against Antychrist [?] ............... 00.01.00
+        [the first letters of the entry are doubtful]
+      Pencil "58" at the foot.
+
+  5.jpg  fol. 56v (left) and fol. 57r (right)   ** the "Perth Assembly" page **
+    fol. 56v, heading "mr W[m] Brewster"
+      First: It Dike vpon repent[ance] .......................... 00.01.06
+      Last: It discouery by Barrow .............................. 00.03.00
+    fol. 57r, "57]", heading "mr Willm Brewster"
+      First: It Ainsworth defence of scripture [?] [no figures on its own line]
+             It 2 Downams reply agt Bale [?] ................... 00.01.06
+             It Admonition to Parlint ............................ 00.03.00
+             It Refutation to Gifford ............................ 00.01.06
+      Fifth line: It Perth Assembly ............................. 00.02.06
+        [written "Perth Assembly". The figures 00.02.06 stand level with it, but the column
+        drifts on this page, so the sum may belong to the entry above or below]
+      Last: It Exposition of liturgie ........................... 00.00.08
+      Pencil "59" at the foot.
+
+  6.jpg  fol. 57v (left) and fol. 58r (right)
+    fol. 57v, heading "Mr Willm Brewster"
+      First: It magnificent entertaynment of King James ......... 00.00.06
+      Last: It Apologie of Brownists ............................ 00.00.04 [?]
+    fol. 58r, "58]", heading "mr Willm Brewster"
+      First: It State mistery of Jesuits ........................ 00.00.06
+      Last: It Kings Bath [?] ................................... 00.00.08
+      Pencil "60" at the foot.
+
+  7.jpg  fol. 58v (left) and fol. 59r (right)
+    fol. 58v, heading "Mr Willm Brewster"
+      First: It Great Assise by Smyth ........................... 00.00.08
+      Last: It Perkins of Imagina[tions] ........................ 00.00.06
+    fol. 59r, "59]", heading "mr Willm Brewster"
+      First: It Burton Christs question [?] ..................... 00.00.06
+      Last: It treatise of Gods Religion ........................ 00.00.08
+      The totall of both latten &
+      English books amounts to the
+      sum of                                              } 42.19.11
+      Wm Bradford }   The totall both of goods & bookes
+      Tho: Prence }   amounts in all to                   } 150.00.07
+      [the rest of the page is blank]
+
+  The entries you asked for, as written:
+    "Perth Assembly"               fol. 57r (5.jpg): It Perth Assembly  00.02.06 [column drifts]
+    "Cartwright proverbia"         fol. 55v (4.jpg): It Cartwright prouerbia  00.07.00
+                                   ["Cartwrigt"?]
+    "Machavelii princeps"          fol. 55v (4.jpg): It Macchauelij [?] princeps  00.01.08
+    "Description of new England"   fol. 54v (3.jpg): It description of new England  00.00.04
+    "1 rapier"                     fol. 54r (2.jpg): It j rapier  00.00.06 [?] [column drifts]
+    "1 pistoll"                    fol. 53v (2.jpg): It j pistoll  00.07.00
+    "1 little desk"                fol. 53v (2.jpg): It j little desk  00.01.00
+    "1 deske"                      fol. 54v (3.jpg): It j deske  00.01.00
+    ("j" is the clerk's numeral 1.)
+  Notes:     FamilySearch Full-Text Search found the opening page at once (search "Brewster" in
+             image group 7051111). The other pages follow it in order with no gaps. I read the
+             first and last lines of each page from the full-size images. I did not transcribe
+             the full lists of goods and books, which Bowman has in print.
+
+==========================================================================================
+
+deed-1645-plymouth-brewster/1.jpg, 2.jpg                       [item 3]
+  Collection: Catalog title "Plymouth Colony records, deeds, 1620-1699" (koha:136706). The
+             Catalog links it to the collection "Massachusetts Land Records, 1620-1986".
+  Record:    none (not indexed)
+  Images:    DGS 7451132 (film 567788, "Index, vols. 1-2, 1627-1699; Deeds, vol. 1,
+             1620-1651"; the viewer calls it "Plymouth. Deeds 1627-1699"), 616 images
+             1.jpg  image 518 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z7-5C26
+             2.jpg  image 519 of 616  https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z7-5CX6
+  Held by:   Massachusetts. Secretary of State (author, as the Catalog gives it). Filmed by the
+             Genealogical Society of Utah, 1968. Microreproduction of manuscript.
+  Header:    1.jpg: left page "197", blank (show-through). Right page "198", running head
+             "Bradford Gou[r]". The award fills the page. The foot is water-stained and torn,
+             with a pencil "131" in the corner.
+             2.jpg: left page "199". The award ends in the top third, followed by the four
+             signatures. The rest of the page is blank. The right page, "200", is a different
+             deed (acknowledged January [1645/6?]).
+  Which book: this is the colony's own Deeds vol. 1, as bound. Its index (earlier on the same
+             film, image 389) lists "Jonathan & Love Brewster". This is the earliest book. I
+             found no later copy of these pages on FamilySearch.
+  Transcription:
+    [The p. 198 lines are given in their order on the page. Lines that are hard to read are
+    marked [?]. Where only part of a line can be read, [....] stands for what I could not
+    read. Abbreviations are kept: wch, wth, Willm, Gounor, mr, pt.]
+
+    [p. 198]  198                         Bradford Gou[r]
+    Whereas Willm Brewster late of Plym[outh] gent deceased left onely two sonnes surviveing
+    viz Jonathan the Elder and Loue the younger And whereas the said Willm dyed intestate
+    for ought can to this day appeare The said Jonathan and Loue his sonnes after they returned
+    from the buriall of their father to the house of mr Willm Bradford of Plymouth in the
+    p[re]sence of mr Raph Partrich Pastor of Duxborrow, mr John Reynor Teacher of the Church
+    at Plymouth and mr Edward Buckley Pastor of the Church at Marshfeild and many others
+    being resorted to honor their reverend father wth a peaceable agreement about the diuision of
+    his estate betweene them. The said Jonathan first answered for his part that although hee
+    were the elder yet was willing to deuide land and goods equally betweene him & the said [?] his
+    brother. And if in case any differrence should arise betweene them [....] the same [?] to mr Willm Brad=
+    [....] said he [....] and foure of my fathers deere and auncient friends viz [?]
+    then Gounor of Plymouth, mr Edward Winslow of Marshfeild, mr Thomas Prence of Plymouth
+    aforesaid and Captaine Miles Standish of Duxborrow. And if my brother please to accept my
+    motion whensoever we shall differ we will stand to their award wch [....] as if
+    it had beene done by our father &c To all wch the said Loue Brewster condiscended to the
+    great satisfaction of the whole Assembly the said friends of their father being there also
+    p[re]sent [?] who willingly engaged themselues therein to the utmost of their power And whereas
+    afterward differrence arose betweene the said brethren Jonathan and Loue in diuers p[ar]ticulers
+    about the late dwelling house of their said father at Duxborrow wherein the said Loue
+    dwelt and had done from his marriage to that instant, also about certaine account[s]
+    wherein Jonathan was made debtor to the estate in a large sume &c Whereupon accord=
+    ing to p[ro]mise they referring themselues to the said speciall and most intimate friends
+    of their said father the said Edward Winslow afterwards Gounor of Plymouth, mr Willm
+    Bradford, mr Thomas Prence and Captaine Miles Standish aforesaid haueing heard
+    diuers things alleadged on Loues behalf to proue that the said house and half the lands
+    of the said Willm belonging thereunto aswell as any other the lands of the said Willm was
+    deuided or to be deuided wth an entire half part of the estate of the said Willm [?]
+    giuen to the said Loue and Sarah his wife vpon a Couenant of Contract of marriage [?]
+    to be due at the death of the said Willm Brewster now deceased. All wch was offered to be
+    proued legally if neede require by solemne p[ro]mise though not in writing The said Jonat[han]
+    also offering to take off vpon oath the greatest p[ar]t of the said debt also &c The said Edward
+    Winslow Willm Bradford Thomas Prence & Captaine Miles Standish being well
+    acquainted wth their said case aswell by diuers things heard from their reuerend father
+    in his life as by the euidence now offered to be p[ro]duced on both sides determyned as
+    followeth; And first of all for the said debts wch were alleadged against the said Jonathan
+    [by] the said Loue the younger [a word struck through] as aforesaid we conceiue that if
+    their father had not acquitted them before his death yet hee would now haue charged [?]
+    [....] in regard of his greate charge of children and so belonging [?]
+    his Eldest sonn wch [....] we discharged Jonathan of all the said debt[s]
+    it was done actually or intentionally or both [....] except foure pounds sterling wch wee
+    [....] made him debtor to the estate aforesaid [....] in consideration of the wintering of some cattell
+    [....] his brother Loue in consideration of the diuision and for the debt of Isaack
+    [....] award him to pay his brother Loue [?] [....]
+    wch the said Jonathan had the sommering vpon the [....] of the said Willm wch he had placed wth his sonn Loue to bake [?]
+    Allerton a grandchild of the said Willm [....] we gaue him his fathers Armes
+    And because hee was the first borne of his father [....] and aboue his part of the deuideables of the
+    and also a two yeare old heiffer ouer and aboue his part of the deuideables of the [?]
+    said estate. And for the dwelling house aforesaid of the said Willm wherein the said
+    Loue Brewster resided we were so well acquainted wth the purpose of the said Willm
+    now deceased and the euidence offered for proofe seemed to vs so strong wch was [?]
+    belonging [?] the said Willm had actually or intentionally or both giuen the said house to
+    his sonn Loue and Sarah his wife and their heires &c Wee the Edward William
+    Thomas and Myles awarded the said dwelling house to the said Loue and Sarah his
+    wife and their heires &c together wth half the said Estate of lands goods and cattells
+    except before excepted and aswell [....] other lands as are not yet diuided belonging
+    to the said Willm as a Purchaser of the Patent & Plantation of New Plymouth
+    aforesaid as that at Duxborrow whereon hee liued. And whereas some differrence
+    might haue arisen about the diuision of the said lands at Duxborrow mr Willm
+    Vassell being requested to surueye the said lands hee made a diuision of it in two
+    parts being an hundred & eleauen acres of upland or there abouts next to
+    Jonathan Brewster an [hundred?] [....] acres or there abouts wch lay entire together
+    next a dwelling house wch the said Jonathan had built on the said land [....]
+    [....] bound of the said father and all the meddow on that side a [?] Bridg on the way betweene
+    the greatest part of the said lands; And to Loue Brewster the fourth [?] [....]
+    of Jonathan and Loue his brother [....] adjoyning to his dwelling house whereof [....]
+    upland or there abouts [....] and almost all in tillage the other [....]
+    [....] land [....] was diuided in the said plott drawne by the said [....]
+    and allowed by vs [....] of land about three quarters [....]
+    the garden of the said Jonathan and pt in a [....]
+    [the foot of the page is lost to staining and tears]
+
+    [p. 199]  199
+    [....] Jonathan had water to his house as it was marked and staked by vs [?]
+    [....] grant vnto Loue Brewster all the meddow on that side the brooke [?]
+    [....] land whereon he dwells and also that smale p[ar]cell wch lyeth about the [....]
+    [....] their two houses before expressed And the reason wherefore wee gaue [....]
+    [....] quantitie was and is because the quallity of Loues land in goodnes
+    [....] the quantitie of Jonathans as we judge And that this is the full
+    [....] of vs the said Edward Willm Thomas and Myles vpon the
+    [....] of the said Jonathan and Loue as wee are p[er]swaded in
+    [....] to be equall and just haueing to our best abilities faithfully
+    discharged our duties towards God their deceased father our former worthy
+    [friend?] and towards Jonathan and Loue his onely children remayneing Inheritours
+    [....] wee haue put to our hands and ordered it to be put vpon the Records
+    of the Gouernment.      ffinished at Plymouth the xxth August 1645
+        William Bradford                              Edw: Winslow
+        Tho: Prence                                   Myles Standish
+  Notes:     The left margin of p. 199 has crumbled, so the first word or two of most lines are
+             lost. "we gaue him his fathers Armes" is on p. 198, about two thirds of the way down.
+             The four signatures on p. 199 are in four distinct hands, unlike the clerk's text.
+             They may be autographs in the book, not copies, but I have not tested that.
+             Other images I looked at that are not this record: image 502 (ark
+             3:1:3QS7-89Z7-5C8T), pp. 179-180, the Merritt and Crocker deeds to Nathaniel
+             Tilden, April 1644; image 499 (ark 3:1:3QS7-89Z7-5C21), p. 193, Samuel Eaton's
+             1649 deposition about an acre at Duxbury that Love Brewster built on. Neither is in
+             the folder.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+None. All three items were found and all images opened (no padlocks, no 403s).
+Not done: comparing my readings with Bowman's printed text (The Mayflower Descendant 3:15-30),
+which I could not open in this session.
