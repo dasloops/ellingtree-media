@@ -104,7 +104,65 @@ birth-record-1811-washington-vt-clifford.jpg              [item 3]
              birth date matches Ancestry's 30 Sep 1811 for Orlando Hines Clifford, and his age
              of 48 in the 1860 census (item 2). The card gives no middle name. The original
              entry in Washington's town book would be worth finding: it may list Moses's other
-             children on the same page.
+             children on the same page. Three more cards for children of Moses Clifford in
+             Washington follow as items 3a-3c.
+
+------------------------------------------------------------------------------------------
+
+birth-record-1806-washington-vt-clifford-almira.jpg              [item 3a]
+  Collection: Vermont, Vital Records, 1760-1954
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XFV7-4J8 (Moses Clifford in entry for Almira Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:9398-QWGQ-P
+             image 3811 of 4,045, DGS 004543208 (film 27511; FamilySearch's title "Vermont. Vital
+             Records 1870")
+  Held by:   Vermont state vital records card file, as filmed by FamilySearch
+  Transcription:
+    BIRTH - FEMALE
+    Name of Child: Almira Clifford
+    Date of Birth: May [month] 11th [day] 1806
+    Mother's Residence: Washington Vermont
+    Full Name of Father: Moses Clifford
+    [all other fields blank]
+    Town: Washington Vt.    E. Chapman, Town Clerk
+  Notes:     The field labels on this card print a line higher than the entries; "Washington
+             Vermont" is on the Mother's Residence line as on the other cards.
+
+birth-record-1808-washington-vt-clifford-laura.jpg              [item 3b]
+  Collection: Vermont, Vital Records, 1760-1954
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XFJZ-CBW (Moses Clifford in entry for Laura Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:9398-Q89K-3
+             image 139 of 3,613, DGS 004543207 (film 27512; the same film as Orlando's card)
+  Held by:   Vermont state vital records card file, as filmed by FamilySearch
+  Transcription:
+    BIRTH - FEMALE
+    Name of Child: Laura Clifford
+    Date of Birth: April [month] 19th [day] 1808
+    Mother's Residence: Washington Vermont
+    Full Name of Father: Moses Clifford
+    [all other fields blank]
+    Town: Washington Vt.    E. Chapman, Town Clerk
+
+birth-record-1810-washington-vt-clifford-alanson.jpg              [item 3c]
+  Collection: Vermont, Vital Records, 1760-1954
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XFV7-4JM (Moses Clifford in entry for Alanson Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:9398-QWLK-W
+             image 3805 of 4,045 [DGS not captured; the image count matches Almira's film,
+             DGS 004543208]
+  Held by:   Vermont state vital records card file, as filmed by FamilySearch
+  Transcription:
+    BIRTH - MALE
+    Name of Child: Alanson Clifford
+    Date of Birth: April [month] 5th [day] 1810
+    Mother's Residence: Washington Vermont
+    Full Name of Father: Moses Clifford
+    [all other fields blank]
+    Town: Washington Vt.    Eph[raim] [?] Chapman, Town Clerk
+  Notes (items 3a-3c):
+             Same town, same father, same clerk as Orlando's card (item 3). Taken together:
+             Almira 11 May 1806, Laura 19 Apr 1808, Alanson 5 Apr 1810, Orlando 30 Sep 1811,
+             all children of Moses Clifford of Washington, Vermont. No card names their mother.
+             These were found by searching for Moses Clifford as a father; other children may
+             be filed under different spellings or later years.
 
 ==========================================================================================
 
