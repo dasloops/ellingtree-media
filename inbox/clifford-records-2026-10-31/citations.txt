@@ -1,10 +1,28 @@
 CITATIONS - Clifford records, batch 1 (FamilySearch, searched 31 Oct 2026)
 
 Folder: inbox/clifford-records-2026-10-31/
-[n] files. All images are FamilySearch's full-size originals (dist.jpg).
+11 files. All images are FamilySearch's full-size originals (dist.jpg).
+Items 8, 9 and 10 are index entries with no image.
 
 KEY POINTS
-- [to be written when the batch is complete]
+- John M Clifford, born Missouri about 1844, is the son of Orlando H. ("O. H.") Clifford,
+  born Vermont: same household in 1850 (Livingston County, MO) and 1860 (Nebraska City, NE),
+  with brother Mortimer in both (items 1, 2).
+- Orlando was a "Hotel Keeper" in Nebraska City in 1860 (real estate $6000) and a "Huckster"
+  there in 1870 (item 6). No record found here mentions ice.
+- Orlando Clifford was born 30 Sep 1811 in Washington, Vermont, son of Moses Clifford (item 3).
+  Moses also had Almira (1806), Laura (1808) and Alanson (1810) there (items 3a-3c).
+- Orlando married Delila Knox, Rush County, Indiana, 20 Jan 1835 (item 4), and Elizabeth J.
+  Hunter, Buchanan County, Missouri, 6 Aug 1854 (item 5). A Moses Clifford headed a Rush County
+  household in 1830 (item 3d).
+- John's widow Emma, with sons Orlando (6, born Arkansas) and Eli W. (5, born Iowa), was in a
+  mining camp on Rock Creek, Gunnison County, Colorado, in June 1880 (item 7). Eli's later
+  records name his parents as John Clifford and Emma Bruner/Bryner (items 8, 9).
+- The full name "Orlando Hines" appears only for a grandson (b. 1873), son of Mortimer H.
+  Clifford (item 10).
+- Not settled: that the Moses of Washington, VT, is the Moses of Rush and Hancock counties,
+  Indiana; the birth date Ancestry gives this Moses belongs to a different, New Hampshire Moses
+  (see G). Nothing above Moses is supported by this batch.
 
 ==========================================================================================
 
@@ -166,6 +184,37 @@ birth-record-1810-washington-vt-clifford-alanson.jpg              [item 3c]
 
 ==========================================================================================
 
+census-1830-rush-clifford.jpg              [item 3d]
+  Collection: United States, Census, 1830
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XHPC-DY2 (Moses Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GYYY-7JL
+             image 544 of 850, DGS 005155874 (FamilySearch's title "Indiana. Census 1830";
+             NARA M19, film 7715)
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    [stamped/written] 544, No. 4 [?], page 273. "Schedule of the whole number of Persons
+             within the Division allotted to" [rest of the heading is on the facing page, not
+             in this image]. "Rush County" written down the left margin.
+  Where:     about two-thirds down the page, the 22nd name, between Thomas Craft and Elijah Carter
+  Transcription (head of family, then free white persons by age bracket; only filled columns):
+    Moses Clifford
+      Males:   5-10: 1 | 10-15: 1 | 15-20: 3 | 20-30: 1 [?, the mark sits between the 20-30
+               and 30-40 columns] | 50-60: 1
+      Females: 5-10: 1 | 50-60: 1 [?, could be 40-50]
+  Notes:     Moses Clifford is in Rush County, Indiana, in 1830, the county where Orlando H.
+             Clifford married Delila Knox in January 1835 (item 4). The 1830 census names only
+             the head of household. The man aged 50-60 (born about 1770-1780) is presumably
+             Moses himself. Orlando (born 1811) would be 18 and fall in the 15-20 column, where
+             there are three boys; Alanson (born April 1810) would be 20. This fits the Vermont
+             family (items 3-3c) but does not prove it: the census gives no names but Moses's.
+             FamilySearch also indexes a Moses Clifford in Hancock County, Indiana, in 1840
+             (https://www.familysearch.org/ark:/61903/1:1:XHB6-LG7, not downloaded), and two
+             U.S. land tract-book entries for "Dr Moses Clifford" in Indiana, 11 Aug 1825
+             (https://www.familysearch.org/ark:/61903/1:1:6KSH-HCHS) and 29 Aug 1831
+             (https://www.familysearch.org/ark:/61903/1:1:6KSH-HCH3), not downloaded. Whether
+             the doctor is this Moses is not settled here.
+
+==========================================================================================
+
 marriage-record-clifford-knox-1835.jpg              [item 4]
   Collection: Indiana, Marriages, 1811-2019
   Record:    https://www.familysearch.org/ark:/61903/1:1:XXFC-RPV (Orlando H Clifford and Delila Knox)
@@ -323,4 +372,64 @@ census-1880-gunnison-clifford.jpg              [item 7]
              as "Emma M Bryner", a spelling variant of Bruner. Eli himself would have supplied
              this in 1937. FamilySearch Family Tree has him as Eli Woodruff Clifford (1875-1947),
              M47X-4MV (a lead only).
+
+==========================================================================================
+
+[no file] Orlando Hines Clifford (b. 1873), Social Security record   [item 10, index only]
+  Collection: United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6KW4-V8FP
+  Image:     No Image Available
+  Transcription (every indexed field):
+    Name: Orlando Hines Clifford | Sex: Male | Birth Date: 3 September 1873
+    Birthplace: Stockville F*, Nebraska, United States | Social Program Application Date: June 1943
+    Race: Other | Event Type: Social Program Correspondence | Event Place: United States
+    Parents: Mortimer H Clifford; Julia Lushea
+  Notes:     A grandson of Orlando, through John Marshall's elder brother Mortimer (items 1 and
+             2, there "Mortimer" and "Mortamore H"). It is the only record found in this session
+             that gives the full name "Orlando Hines", here for the grandson, which supports
+             Hines as the elder Orlando's middle name; no record of the elder Orlando himself
+             spells it out. Stockville is in Frontier County, Nebraska. The same family is
+             indexed in the 1880 U.S. census, Frontier County
+             (https://www.familysearch.org/ark:/61903/1:1:M8YD-MPG: Orlando, 7, parents "Monta"
+             and Julia, sister Delia) and the 1885 Nebraska state census, Stockville
+             (https://www.familysearch.org/ark:/61903/1:1:X3XR-91H: parents M H and Julia,
+             siblings including Delliah and John). Neither image was downloaded.
+
+==========================================================================================
+NOT FOUND, NOT USED, OR NOT VIEWABLE (no file)
+
+A. Marriage of John Marshall Clifford and Emma Bruner: not found. Searched John Clifford with
+   spouse Emma Bruner, and Emma Bruner with spouse surname Clifford, all collections, no date or
+   place limits. Their sons were born in Arkansas (Orlando, about 1874) and Des Moines, Iowa
+   (Eli, 25 Mar 1875), so a marriage about 1872-1874 in Nebraska, Missouri or Arkansas is the
+   likely window. Not tried: Bryner, Brunner, Bruner without a spouse filter in Nebraska.
+B. Death of John Marshall Clifford, 1879: not found. Ancestry's "Iowa City, Wright County,
+   Iowa" cannot be right as written: Iowa City is in Johnson County. Emma is indexed as widowed
+   by June 1880 (item 7).
+C. Death or probate of Orlando H. Clifford: not found. He is alive in June 1870 (item 6).
+   Ancestry gives "before Feb 1873"; the FamilySearch Family Tree gives 1878 (KN19-BGK, a lead
+   only). Otoe County, Nebraska probate was not searched image by image.
+D. Jessie Clifford: not found with Emma in 1880 (item 7); not searched separately this session.
+E. John M Clifford, General Index to Pension Files, filed 17 July 1865, application 77,960,
+   certificate 56,239: https://www.familysearch.org/ark:/61903/1:1:KD5Q-CKG. Card read; NOT
+   this man. Service: [Co. ?] 109 N.Y. Inf.; [Co. ?] 14 V.R.C. A New York regiment; the John M
+   Clifford of Newark Valley, Tioga County, NY (in the 1892 and 1905 NY state censuses) is the
+   likelier owner. Not uploaded.
+F. "Nebraska, Grand Army of the Republic, Burial Records" entry for a John M Clifford: seen in
+   the results list, not opened. If it is a Union veteran buried in Nebraska it is probably not
+   John Marshall, who died in Iowa in 1879 and has no Civil War record found here.
+G. Moses Clifford born 3 May 1770, Rumney, Grafton County, New Hampshire, parents Isaac
+   Clifford and Ruth: https://www.familysearch.org/ark:/61903/1:1:FL25-Y88 (also
+   1:1:FDJ4-2Q7). FamilySearch's tree attaches this birth to a Moses Clifford (1770-1845),
+   LQRF-JQL, with a Find a Grave entry giving death 28 April 1845 and burial in Wentworth,
+   Grafton County, NH (https://www.familysearch.org/ark:/61903/1:1:6RQP-ZV93), and children
+   Philander and Letotes by a wife Esther. Ancestry gives Orlando's father Moses the same birth
+   date (3 May 1770) but a death in Hancock County, Indiana, in January 1841. Both cannot be
+   true of one man. Not uploaded, since it is probably not our Moses; recorded here because it
+   is where Ancestry's birth date for Moses appears to come from.
+H. Generations above Moses on Ancestry (Israel, Isaac, Israel Sr, John Henry, and "Lord George
+   Clifford, IV Earl of Cumberland, died 1642 in Hampton, New Hampshire"): not researched
+   in this batch. The last is not possible as written: no Earl of Cumberland lived or died in
+   New Hampshire. With the Moses link itself unsettled (G), nothing above him can be attached
+   yet.
 
