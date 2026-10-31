@@ -165,3 +165,104 @@ marriage-record-clifford-hunter-1854.jpg              [item 5]
              presumably dead or divorced by 1854; no death or divorce record was found in this
              session. Elizabeth's maiden name is not given (Hunter may be a married name).
 
+==========================================================================================
+
+census-1870-nebraska-city-clifford.jpg              [item 6]
+  Collection: United States, Census, 1870
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MHDQ-5HV (O H Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-6S7Q-2NL
+             image 84 of 331, DGS 004273888 (Nebraska, 1870 federal census: population
+             schedules: Otoe; NARA M593, film 552330)
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    Page No. 12. Schedule 1. Inhabitants in 1st Ward Nebraska City, in the County of
+             Otoe, State of Nebraska, enumerated by me on the 1st day of June, 1870. Post Office:
+             Nebraska City. Asa Shaw [?], Ass't Marshal.
+  Where:     lines 10-11, upper third of the page; dwelling 83, family 89
+  Transcription (name | age | sex | colour | occupation | real estate | birthplace | other marks):
+    10  Clifford O. H.  | 58 | m | w | Huckster       | 500 | Vermont | [marks in the
+                                                                        education columns and
+                                                                        the male citizen column]
+    11  Clifford E. J.  | 47 | f | w | Keeping house  |     | Ky      | [marks in the education
+                                                                        columns]
+  Notes:     Same couple as items 2 and 5: Orlando, now 58, born Vermont, and Elizabeth J., 47,
+             born Kentucky, still in the 1st Ward of Nebraska City. FamilySearch's index gives
+             line 11 and household 89; on the page O. H. is on line 10 in dwelling 83. No
+             children live with them. Occupation is "Huckster" (a street seller or small
+             dealer), not hotel keeper; real estate has fallen from $6000 in 1860 to $500.
+             Line 23 on the same page, dwelling 86, family 92: Dunkin [?] E., 55, m, w,
+             "Ice Packer", real estate 3000, born England. Noted only because of the family story
+             about selling ice; nothing on the page connects him to the Cliffords.
+
+==========================================================================================
+
+census-1880-gunnison-clifford.jpg              [item 7]
+  Collection: United States, Census, 1880
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MFDN-PRT (Emma Clifford)
+             https://www.familysearch.org/ark:/61903/1:1:MFDN-PRB (Eli W. Clifford)
+             both in the entry for B. F. Flanders
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GYY1-9WC3
+             image 702 of 814, DGS 005157303 (FamilySearch's title: "Colorado. Census Record
+             Indexes 1880"; NARA T9, film 1254090)
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    Page No. 22 [written over 28]; sheet 156 C; stamped "Received August 23, 80".
+             Schedule 1. Inhabitants in camp on Rock Creek, in the County of Gunnison, State of
+             Colorado, enumerated by me on the 28th day of June, 1880. L. A. Wait [?], Enumerator.
+  Where:     lines 48-50, the last three lines of the page
+  Transcription (name | colour | sex | age | relationship | civil condition | occupation |
+                 birthplace | father's birthplace | mother's birthplace):
+    48  Clifford, Emma   | [ditto: W] | F [over another letter] | 26 | Mother | [mark in a
+                         civil-condition column] | Housekeeper | Ind. | Ky | Ky
+    49  [ditto], Orlando | [ditto]    | M | 6 | Son      |  |  | Arkansas | Mo  | Ind
+    50  [ditto], Eli W.  | [ditto]    | [ditto] | 5 | [ditto: Son] |  |  | Iowa | [ditto: Mo] | [ditto: Ind]
+  Notes:     A mining camp page listing mostly single men under no clear head; FamilySearch
+             files the Cliffords under B. F. Flanders (line 42 or so), but nothing on the page
+             makes them his household. FamilySearch indexes Emma as "Widowed"; on the image the
+             mark is in one of the civil-condition columns, which column is not certain from
+             this reading. Eli W., 5, born Iowa, is the Eli Woodrie/Woodruff Clifford whose later
+             records (items 8-9 below) name his parents as John Clifford and Emma Bruner/Bryner.
+             The children's father was born in Missouri, as John Marshall Clifford was (items 1
+             and 2). A son born about 1874 in Arkansas is named Orlando, the name of John's
+             father. Jessie Clifford is not in this household. Emma's birthplace here is Indiana
+             (Missouri in item 8); her parents both born in Kentucky.
+
+==========================================================================================
+
+[no file] Eli W. Clifford, death 1947              [item 8, index only]
+  Collection: Washington, Deaths and Burials, 1810-1960
+  Record:    https://www.familysearch.org/ark:/61903/1:1:HVF9-Y7N2 (Eli W. Clifford)
+             parents' entries: https://www.familysearch.org/ark:/61903/1:1:HVF9-Y72M (John Clifford),
+             https://www.familysearch.org/ark:/61903/1:1:HVF9-Y7PZ (Emma Bruner)
+  Image:     none linked ("Check Image Availability"); film 230305, DGS 007604784
+  Transcription (every indexed field):
+    Name: Eli W. Clifford | Sex: Male | Age: 72 years | Birth Date: 1875 | Birthplace: Iowa
+    Residence Place: Bothell, Snohomish, Washington
+    Death Date: 31 May 1947 | Death Place: Bothell, Snohomish, Washington
+    Marital Status: Widowed | Occupation: Farming & Cattle Raising | Race: White
+    Event Type: Burial | Event Place: Idaho, United States | Source Details: State File # 223
+    Father: John Clifford, birthplace Nebraska, M
+    Mother: Emma Bruner, birthplace Missouri, F
+    Other people: Gertrude, F
+  Notes:     The only record found in this session that names Emma's maiden name as Bruner and
+             John Clifford as her husband in one place. The informant's answers are second-hand
+             (Eli's father died when he was about four): John's birthplace "Nebraska" is wrong
+             for John Marshall Clifford, who was born in Missouri (items 1 and 2) but lived in
+             Nebraska as a youth (item 2). FamilySearch Family Tree also lists a "Washington,
+             Death Certificates, 1907-1960" source on John Marshall Clifford LRX2-NHF (added
+             2018), which may be Eli's certificate with an image; not reached in this session.
+
+==========================================================================================
+
+[no file] Eli Woodrie Clifford, Social Security record              [item 9, index only]
+  Collection: United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6KWY-3H61
+  Image:     No Image Available
+  Transcription (every indexed field):
+    Name: Eli Woodrie Clifford | Sex: Male | Birth Date: 25 March 1875
+    Birthplace: Des Moines, Iowa, United States | Social Program Application Date: May 1937
+    Race: White | Event Type: Social Program Correspondence | Event Place: United States
+    Parents: Emma M Bryner; John Clifford
+  Notes:     Gives a full birth date and place (Des Moines) for Eli and his mother's maiden name
+             as "Emma M Bryner", a spelling variant of Bruner. Eli himself would have supplied
+             this in 1937. FamilySearch Family Tree has him as Eli Woodruff Clifford (1875-1947),
+             M47X-4MV (a lead only).
+
