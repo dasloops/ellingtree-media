@@ -2,7 +2,7 @@ CITATIONS - Clifford records, batch 2 (images supplied by the owner, mostly from
 hints; checked against FamilySearch where possible, 31 Oct 2026)
 
 Folder: inbox/clifford-records-2026-10-31b/
-9 files. These are the owner's downloads and screenshots, cropped to the document. They are
+10 files (9 from the owner, plus item 23 from FamilySearch). The owner's are downloads and screenshots, cropped to the document. They are
 not full-size originals; where FamilySearch or the BLM hold the original, the address is given
 so a better copy can replace it later.
 Items 10-18 are documents that were seen but not uploaded (newspaper clippings from a
@@ -361,3 +361,47 @@ SEARCHED, NOT FOUND
     runs Clements, Clifton, Cline: no Clifford groom in Washington County, 1870-1879.
     The 1870 census index has no Bruner in Washington County, Arkansas (only Brunner, Brawner
     and Browner households in Pulaski, Arkansas and Chicot counties).
+
+==========================================================================================
+
+census-1810-washington-vt-clifford.jpg              [item 23, added later the same day]
+  Collection: United States, Census, 1810
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XHLM-ZC4 (Moses Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBC-NRR
+             image 670 of 830, DGS 005157113 (FamilySearch's title lists the Vermont counties
+             Addison to Bennington, Census 1810; NARA M252, film 218668). FamilySearch's own
+             full-size original.
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    page 360A (stamped); "155" written large at left. Town not written on this page;
+             FamilySearch indexes it as Washington, Orange County, Vermont.
+  Where:     about two-thirds down, between "Wm Bridee [?]" and "Joseph Lovit [?]"
+  Transcription (free white males: under 10 | 10-16 | 16-26 | 26-45 | 45+ ||
+                 free white females: under 10 | 10-16 | 16-26 | 26-45 | 45+):
+    Moses Clifford | 1 |   |   | 1 |   || 2 |   |   | 1 |
+  Notes:     Moses aged 26-45 (born 1765-1784), a wife or other woman 26-45, one boy and two
+             girls under 10. This matches the Washington birth cards: Almira 1806, Laura 1808,
+             Alanson April 1810 (batch 1, items 3a-3c); Orlando was born in September 1811,
+             after this census. In the same 1810 census FamilySearch also indexes a Moses
+             Clifford in Wentworth, Grafton County, NH
+             (https://www.familysearch.org/ark:/61903/1:1:XH2N-B27, not downloaded): two men of
+             this name in two places in the same year. FamilySearch Family Tree attaches this
+             Washington record to a Moses Clifford (1780-1841) (a lead only).
+             Other Cliffords indexed in Orange County, Vermont, 1790-1820 (not examined):
+             Jonathan, Ryegate 1790 (1:1:XH2M-GH6); Isaac, Corinth 1800 (1:1:XHRQ-KYX) and 1810
+             (1:1:XHLM-DBP); Smart, Corinth 1810 (1:1:XHLM-DB3); David and two Samuels,
+             Brookfield 1810 (1:1:XHLM-ZY8, 1:1:XHLM-ZBZ, 1:1:XHLM-ZYC); Joseph, Williamstown
+             1810 (1:1:XHLM-82R); Israel, Corinth 1820 (1:1:XHLG-T3G); Samuel, Washington 1820
+             (1:1:XHLG-R5G).
+
+24. (Searched, not identified) Lucinda Bruner, who married James Johnson in Washington County,
+    Arkansas, on 9 Jan 1873 (item 22): no later record found that identifies her. Not found as
+    Lucinda Johnson in Washington County in the 1880 census index. FamilySearch Family Tree
+    (a lead only) has Emma as Mariah Emma Bruner, KZ8Y-QQJ, b. 30 Oct 1853, Martin County,
+    Indiana, daughter of Eli Woodruff Bruner (1827-1879) and Mary Elizabeth Collins
+    (1827-1887), with ten children listed for that couple; no Lucinda among them. The 1860
+    census, Summersett [Somerset] Township, Mercer County, Missouri
+    (https://www.familysearch.org/ark:/61903/1:1:MHZB-KXL, not downloaded) indexes Eli Bruner
+    33 Indiana, Mary 33 Kentucky, E E (F) 7 Indiana, M E (F) 6 Indiana, C C (M) 5, O M (F) 4,
+    N W (M) 3 Illinois, E H (M) 1 Missouri, and Adam Bruner 23 Indiana. The same tree gives
+    Emma a second marriage, to John Lewis Davis, 6 Feb 1881, Benton County, Arkansas (not
+    checked).
