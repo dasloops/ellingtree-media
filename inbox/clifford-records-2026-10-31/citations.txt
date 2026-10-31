@@ -69,3 +69,99 @@ census-1860-nebraska-city-clifford.jpg              [item 2]
              not say. FamilySearch Family Tree has this record attached to John Marshall
              Clifford LRX2-NHF (a lead only).
 
+==========================================================================================
+
+birth-record-1811-washington-vt-clifford.jpg              [item 3]
+  Collection: Vermont, Vital Records, 1760-1954
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XFJZ-8QD (Orlando Clifford, birth 30 Sep 1811)
+             also indexed in Vermont, Births and Christenings, 1765-1908:
+             https://www.familysearch.org/ark:/61903/1:1:F8LR-CTL
+  Image:     https://www.familysearch.org/ark:/61903/3:1:9398-Q893-P
+             image 281 of 3,613, DGS 004543207 (film 27512; FamilySearch's title for the image
+             group is "Vermont. Vital Records 1870")
+  Held by:   Vermont state vital records card file, as filmed by FamilySearch
+  Header:    printed card "BIRTH - MALE"
+  Where:     the whole image is one card
+  Transcription (printed field: handwritten entry):
+    Name of Child: Orlando Clifford
+    Color: [blank]
+    Date of Birth: September [month] 30th [day] 1811
+    No. of Child of Mother: [blank]
+    Maiden Name of Mother: [blank]
+    Mother's Birthplace: [blank]
+    Mother's Residence: Washington Vermont
+    Age: [blank]
+    Full Name of Father: Moses Clifford
+    Father's Birthplace: [blank]
+    Father's Occupation: [blank]   Age: [blank]
+    Condition of Child as to Live or Still Birth: [blank]
+    If Still Birth the Cause: [blank]
+    Name of Informant: [blank]
+    Town: Washington Vt.    Eph[raim] [?] Chapman, Town Clerk
+  Notes:     This is a statewide index card copied from the town's own record, not the
+             original 1811 entry; the town clerk's signature certifies the copy. It names the
+             father (Moses) but not the mother. Washington is in Orange County, Vermont. The
+             birth date matches Ancestry's 30 Sep 1811 for Orlando Hines Clifford, and his age
+             of 48 in the 1860 census (item 2). The card gives no middle name. The original
+             entry in Washington's town book would be worth finding: it may list Moses's other
+             children on the same page.
+
+==========================================================================================
+
+marriage-record-clifford-knox-1835.jpg              [item 4]
+  Collection: Indiana, Marriages, 1811-2019
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XXFC-RPV (Orlando H Clifford and Delila Knox)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-D519-T5K
+             image 82 of 221, DGS 004129317 (film 1630188; FamilySearch's title: "Complete
+             Marriage Record: Indiana. Marriage Records 1833-1838")
+  Held by:   Rush County, Indiana, Clerk of the Circuit Court, as filmed by FamilySearch
+  Header:    two-page opening of the marriage book, pages 124 and 125; FamilySearch has printed
+             "Unofficial Record" across the image
+  Where:     page 125 (right), lower two-thirds
+  Transcription:
+    [margin] Orlando H Clifford to Delila Knox
+    Be it Remembered that on the nineteenth day of January in the year of our Lord one
+    thousand eight hundred and thirty five the Clerk of the Rush Circuit Court issued a
+    License authorizing any person duly authorized to join together in the Bands of
+    Matrimony Orlando H Clifford and Delila Knox and afterwards towit on the second day of
+    March in the year aforesaid John M Hendelson [?] a Justice of the Peace of Rush County
+    filed in the Clerk's office aforesaid the following Certificate towit
+    State of Indiana Rush County ss. This is to certify that Orlando H Clifford and Delila
+    Knox were joined in the Bands of Matrimony by the undersigned on the twentieth day of
+    January in the year of our Lord Eighteen hundred and thirty five. Given under my hand
+    and seal February thirteenth [?] Eighteen hundred and thirty five.
+    John M Hendelson [?] [Seal]
+    Justice of the peace
+  Notes:     License 19 January 1835; married 20 January 1835 in Rush County, Indiana; return
+             filed 2 March 1835. FamilySearch indexes the license date only. The officiant's
+             surname is unclear (FamilySearch reads "Hendelson"). This is the Delila of the 1850
+             census (item 1), there aged 38 and born in Ohio; Henry C, born in Indiana about
+             1835, fits this marriage. The record gives no parents for either party.
+
+==========================================================================================
+
+marriage-record-clifford-hunter-1854.jpg              [item 5]
+  Collection: Missouri, County Marriage, Naturalization, and Court Records, 1800-1991
+  Record:    https://www.familysearch.org/ark:/61903/1:1:QKZ7-VBVD (Orlando H Clifford and Elizabeth J Hunter)
+             also indexed in Missouri, Marriages, 1750-1920:
+             https://www.familysearch.org/ark:/61903/1:1:V2DG-MR2
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-L9CT-GYPS
+             image 233 of 600, DGS 007424539 (FamilySearch's title: "Buchanan. Marriage
+             Records 1839-1879")
+  Held by:   Buchanan County, Missouri, Recorder of Deeds, as filmed by FamilySearch
+  Header:    two-page opening of the marriage register, pages 214 and 215
+  Where:     page 215 (right), fourth entry, about the middle of the page
+  Transcription:
+    State of Missouri Buchanan County. I the undersigned Judge of the Probate Court in and
+    for said County do certify that on the sixth day of August 1854 I joined in marriage
+    Orlando H Clifford and Elizabeth J Hunter in said County. Attest. August 15th 1854
+    Joseph J Wyatt [?] Judge
+    Filed August 15. 1854.   Wm Ridenbaugh [?] Recorder
+                             By C. F. Rooker [?] Deputy
+  Notes:     Married 6 August 1854 in Buchanan County, Missouri (St. Joseph is its county seat).
+             This is the Elizabeth J., born Kentucky, of the 1860 census (item 2). The 14-year-old
+             Benjamin Hunter in that household, born Missouri, is very likely her son by an
+             earlier marriage, though no record here says so. Orlando's first wife Delila is
+             presumably dead or divorced by 1854; no death or divorce record was found in this
+             session. Elizabeth's maiden name is not given (Hunter may be a married name).
+
