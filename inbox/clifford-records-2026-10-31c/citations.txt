@@ -58,13 +58,13 @@ deed-1813-londonderry-clifford/1.jpg, 2.jpg              [item 1]
     Giles's land, Widow M. Wilson's land and Joshua Corning's home farm] containing thirty acres
     be the same more or less. [warranty clauses] In Witness whereof we the said Edward Dodge and
     Mary Dodge have hereunto set our hands & seals this second day of March in the Year of our
-    Lord one thousand eight hundred and thirteen. ["the words 'and Mary Dodge both' were
-    interlined before signing"]
+    Lord one thousand eight hundred and thirteen. [N.B. note: the words "and Mary Dodge both"
+    were interlined before signing]
     Signed sealed & delivered in presence of us Ezra Varnum, John Dickey.
     Edward Dodge (L.S.)  Mary Dodge (L.S.)
     Rockingham ss. March 2d 1813. Then the above named Edward Dodge & Mary Dodge personally
     appeared and acknowledged the above instrument to be their free act & Deed, before me,
-    John Dickey Justice of Peace.  Received & Recorded 3d May 1813. Seth Walker Rgr.
+    John Dickey Justice of Peace.  Received & Recorded 3d May 1813. Seth Walker Rdr. [?]
   Notes:     The two parcels are the same ones Moses sold in 1817 (item 2), which ties the
              "Moses Clifford of Washington ... Vermont" of 1813 to the "Moses Clifford of
              Londonderry" of 1817.
@@ -80,14 +80,15 @@ deed-1817-londonderry-clifford-copp.jpg              [item 2]
   Transcription:
     Know all men by these presents, That I Moses Clifford of Londonderry in the County of
     Rockingham & State of New Hampshire, Yeoman, in consideration of Seventeen hundred and fifty
-    Dollars, paid by Moses Copp of Plaistow in the County & State afsd, Gentleman, ... do hereby
-    give, grant, sell & convey unto the said Moses Copp his heirs & assigns forever, a certain
+    Dollars, paid by Moses Copps of Plaistow in the County & State afsd, Gentleman, ... do hereby
+    give, grant, sell & convey unto the said Moses Copps his heirs & assigns forever, a certain
     tract or parcel of land being in the Northerly part of said Londonderry [the same bounds as
     item 1] containing eighty acres more or less. - Also one other lot of land lying
-    Southeasterly of the aforesaid premises divided only by the said highway [same bounds as
-    item 1] containing thirty acres be the same more or less, including the buildings.
+    Southeasterly of the aforesaid premises divided only by the said highway [the same courses
+    and distances as item 1, but now bounding on H. Boyes and John Wilson (Nathl Giles in 1813)
+    and ending at Joshua Corning's line] containing thirty acres be the same more or less, including the buildings.
     [warranty clauses] In Witness whereof, I the said Moses Clifford, Also I Esther Clifford
-    wife of the said Moses do hereby relinquish all my right of Dower in the premises, have
+    wife of the the said Moses do hereby relinquish all my right of Dower in the premises, have
     hereunto set my hand & seal this fourth day of February in the year of our Lord One thousand
     eight hundred & Seventeen.
     Signed, sealed & delivered in presence of us, Daniel P. Eaton, Nathl Kimball (witnesses to
@@ -95,8 +96,9 @@ deed-1817-londonderry-clifford-copp.jpg              [item 2]
     Moses Clifford (L.S.)  Esther Clifford (L.S.)
     Rockingham ss. Feb. 4th 1817. Then the above named Moses Clifford personally appearing
     acknowledged the above Instrument to be his free act and Deed, before me, Nathl Kimball
-    Justice of Peace.  Received and Recorded 12th January 1819. Seth Walker Rgr.
-  Notes:     The first record found that names Moses's wife: Esther. Her maiden name is not given.
+    Justice of Peace.  Received and Recorded 12th January 1819. Seth Walker Rdr. [?]
+  Notes:     The grantee is "Moses Copps" throughout the record (margin "Clifford to Copps").
+             The first record found that names Moses's wife: Esther. Her maiden name is not given.
              She signs separately, with her own witnesses.
 
 ==========================================================================================
@@ -112,7 +114,7 @@ deed-1825-tract-book-indianapolis-clifford.jpg              [item 3]
   Header:    page 104. [left] "Dr." [right] "of Township No 15 N. of Range No 9 E." ... "Cr."
   Transcription (ledger, debit side | credit side):
     Dr. Moses Clifford, for W 1/2 N.E. 1/4 | of the above cont'g 80 Acres at $1.25 per Acre Cr.
-      1825 Aug 11. To amt purchase money. Cert. of purchase No 6595 [?]. Date patent 1st July
+      1825 Aug 11. To amt purchase money. Cert. of purchase No 6595. Date patent 1st July
       1826. $100 | 1825 Aug 11. By cash. [acct] 59, [rec't] 6595, $100.
     Dr. Moses Clifford, E 1/2 N.W. 1/4, Sec. 11 | Township 15 of Range 9, Cont'g 80 acres at
       $1.25 per acre Cr.
@@ -131,13 +133,13 @@ census-1840-greenfield-clifford.jpg              [item 4]
              image 472 of 645, DGS 005154525 (NARA M704, film 7725)
   Held by:   The U.S. National Archives and Records Administration (NARA)
   Header:    (No. 4.) Schedule of the whole number of persons within the division allotted to
-             John Milroy [?]; page 233 (stamped 450). FamilySearch indexes the place as
-             Greenfield Center, Hancock County, Indiana.
+             John Milroy; page 233 (stamped 450). FamilySearch indexes the place as
+             Greenfield Center, Hancock County, Indiana. Left margin, written sideways:
+             "Hancock County Greenfield Center [?] Township".
   Where:     second name on the page, below Isaac Stevens
   Transcription (free white persons):
     Moses Clifford | males 50-60: 1 | [no other entries on the line]
-  Notes:     A one-person household. The page's left margin names the place [illegible in this
-             reading]; the 1840 schedule's later columns (occupations, pensioners) are on the
+  Notes:     A one-person household; the line total in the right margin is 1. The 1840 schedule's later columns (occupations, pensioners) are on the
              facing page, not downloaded. FamilySearch Family Tree attaches this record to a
              Moses Clifford (1780-1841) (a lead only).
 
@@ -152,11 +154,11 @@ probate-1822-bradford-vt-clifford.jpg              [item 5]
     State of Vermont, Bradford District. To Elisha Thayer, Judge of Probate for sd District.
     Whereas there is a certain action now pending before the Hon the County Court for the County
     of Orange in which cause Stephen Eaton Executor of the last Will & Testament of Israel
-    Clifford late of Corinth in sd County deceased is Plaintiff, and Samuel Thorn of Washington
+    Clifford late of Corinth in sd [District? interlined] Decd is Plaintiff, and Samuel Thorn of Washington
     in sd Orange County is Defendt, Now we the sd Stephen & Samuel having mutually agreed that
     said Cause shall be discontinued in sd Court & that the matters & things relating to said
     Action, & all other matters & things in dispute between the sd Stephen in his Capacity of
-    Executor as aforesaid, & the sd Samuel shall be referred to H. G. McLoughton [?] of Chelsea
+    Executor as aforesaid, & the sd Samuel shall be referred to H. E. G[ill?] McLaughlin [?] of Chelsea
     in sd County & Stewart Brown of Washington & Ephraim Ward of Corinth in sd County & request
     that you would make a rule of your Court accordingly.
     November 18th AD 1822 -              Stephen Eaton Executor
