@@ -1,0 +1,71 @@
+CITATIONS - Clifford records, batch 1 (FamilySearch, searched 31 Oct 2026)
+
+Folder: inbox/clifford-records-2026-10-31/
+[n] files. All images are FamilySearch's full-size originals (dist.jpg).
+
+KEY POINTS
+- [to be written when the batch is complete]
+
+==========================================================================================
+
+census-1850-livingston-clifford.jpg              [item 1]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MDZD-1DV (John M Clifford, in entry for O H Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-DBLS-KTX
+             image 175 of 528, DGS 004200565 (Missouri, 1850 federal census: population schedules:
+             Macon, Madison, Linn, Livingston, McDonald; NARA M432, film 443613)
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    Schedule I. Free Inhabitants in District No. 51 being in the County of Livingston,
+             State of Missouri, enumerated by me on the 4th day of Oct 1850. J. H. B. Manning [?],
+             Ass't Marshal.
+  Where:     lines 24-29, lower middle of the page; dwelling 554, family 554
+  Transcription (name | age | sex | occupation | real estate | birthplace | attended school):
+    24  O. H. Clifford     | 35   | [ditto: m] | Trader | [blank] | Vermont | [blank]
+    25  Delila  [ditto]    | 38   | f          |        |         | Ohio    | [blank]
+    26  Henry C [ditto]    | 15   | m          |        |         | Indiana | 1
+    27  Mortimer [ditto]   | 8    | [ditto]    |        |         | Mo      | 1
+    28  John M. [ditto]    | 6    | [ditto]    |        |         | [ditto: Mo] | 1
+    29  1 Not named        | 5/12 | [ditto]    |        |         | [ditto: Mo] | [blank]
+  Notes:     FamilySearch's index puts John M on line 25; on the page he is on line 28.
+             The index gives the modern place as "Block Cemetery, Walker Township, Moniteau";
+             the page itself says Livingston County, which matches the Livingston County
+             birthplace (Blue Mound) given for John Marshall Clifford on Ancestry. O. H.'s age of
+             35 points to a birth about 1814-1815, not the 30 Sep 1811 on Ancestry. Neighbours
+             on the same page: Charles Tierney [?] (dwelling 553) and John Stone (dwelling 555).
+             FamilySearch Family Tree has this record attached to John Marshall Clifford
+             (1844-1879), LRX2-NHF (a lead only).
+
+==========================================================================================
+
+census-1860-nebraska-city-clifford.jpg              [item 2]
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:M6RN-8PW (John M Clifford, in entry for Orlando H Clifford)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSW-KHW
+             image 516 of 824, DGS 005170246 (Nebraska, 1860 federal census: population
+             schedules; NARA M653, film 803665)
+  Held by:   The U.S. National Archives and Records Administration (NARA)
+  Header:    Page No. 44. Schedule 1. Free Inhabitants in the 1st Ward of Nebraska City in the
+             County of Otoe, State of Nebraska, enumerated by me on the 23rd day of June 1860.
+             [assistant marshal's signature, illegible]. Post Office Nebraska City.
+  Where:     lines 7-15, upper third of the page; dwelling 331, family 285
+  Transcription (name | age | sex | occupation | real estate | personal estate | birthplace | attended school):
+    7   Orlando H Clifford   | 48 | M | Hotel Keeper | 6000 | 2000 | Vt  |
+    8   Elizabeth J. [ditto] | 37 | F |              |      |      | Ky  |
+    9   Mortamore H [ditto]  | 18 | M |              |      |      | Mo  | 1
+    10  John M [ditto]       | 15 | M |              |      |      | [ditto: Mo] | 1
+    11  Benjamin Hunter      | 14 | M |              |      |      | [ditto: Mo] | 1
+    12  Martha D Fitcher [?] | 25 | F | Domestic     |      |      | N York |
+    13  Caroline Homer       | 21 | F | [ditto: Domestic] |  |      | Ohio |
+    14  James Nairn          | 36 | M | Carpenter    |      | 100  | N York |
+    15  Josiah Vail          | 19 | M | Clerk        |      | 50   | Pa  |
+  Notes:     Same family as item 1: John M and Mortimer (here "Mortamore H"), both born Missouri,
+             with a father whose initials match O. H. and who was born in Vermont. Orlando's age
+             here, 48, points to a birth about 1811-1812, which agrees with Ancestry's 30 Sep 1811;
+             in 1850 he was given as 35. His wife is Elizabeth J., 37, born Kentucky, not Delila,
+             38, born Ohio, of 1850: either a second marriage or an error, unresolved here.
+             Henry C (15 in 1850) is not in the household. Dwelling 330 just above is marked
+             "unoccupied". Lines 11-15 are not named as relatives; with a hotel keeper at their
+             head, they are most likely household help, staff or boarders, but the census does
+             not say. FamilySearch Family Tree has this record attached to John Marshall
+             Clifford LRX2-NHF (a lead only).
+
