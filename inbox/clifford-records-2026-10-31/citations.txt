@@ -9,7 +9,9 @@ KEY POINTS
   born Vermont: same household in 1850 (Livingston County, MO) and 1860 (Nebraska City, NE),
   with brother Mortimer in both (items 1, 2).
 - Orlando was a "Hotel Keeper" in Nebraska City in 1860 (real estate $6000) and a "Huckster"
-  there in 1870 (item 6). No record found here mentions ice.
+  there in 1870 (item 6). No record found here mentions ice. In 1870 both he and Elizabeth
+  are marked in the "Cannot read" and "Cannot write" columns, though the marks are crossed
+  through in a way that may or may not cancel them (item 6).
 - Orlando Clifford was born 30 Sep 1811 in Washington, Vermont, son of Moses Clifford (item 3).
   Moses also had Almira (1806), Laura (1808) and Alanson (1810) there (items 3a-3c).
 - Orlando married Delila Knox, Rush County, Indiana, 20 Jan 1835 (item 4), and Elizabeth J.
@@ -64,7 +66,7 @@ census-1860-nebraska-city-clifford.jpg              [item 2]
   Held by:   The U.S. National Archives and Records Administration (NARA)
   Header:    Page No. 44. Schedule 1. Free Inhabitants in the 1st Ward of Nebraska City in the
              County of Otoe, State of Nebraska, enumerated by me on the 23rd day of June 1860.
-             [assistant marshal's signature, illegible]. Post Office Nebraska City.
+             B. L. Gibbs [?], Ass't Marshal. Post Office Nebraska City.
   Where:     lines 7-15, upper third of the page; dwelling 331, family 285
   Transcription (name | age | sex | occupation | real estate | personal estate | birthplace | attended school):
     7   Orlando H Clifford   | 48 | M | Hotel Keeper | 6000 | 2000 | Vt  |
@@ -72,19 +74,20 @@ census-1860-nebraska-city-clifford.jpg              [item 2]
     9   Mortamore H [ditto]  | 18 | M |              |      |      | Mo  | 1
     10  John M [ditto]       | 15 | M |              |      |      | [ditto: Mo] | 1
     11  Benjamin Hunter      | 14 | M |              |      |      | [ditto: Mo] | 1
-    12  Martha D Fitcher [?] | 25 | F | Domestic     |      |      | N York |
-    13  Caroline Homer       | 21 | F | [ditto: Domestic] |  |      | Ohio |
-    14  James Nairn          | 36 | M | Carpenter    |      | 100  | N York |
-    15  Josiah Vail          | 19 | M | Clerk        |      | 50   | Pa  |
+    12  Martha D Fitcher [?] | 25 | F | Domestic     | /    |      | N York |
+    13  Caroline Homer [?]   | 21 | F | [ditto: Domestic] | / |     | Ohio |
+    14  Jamis [James] Nairn  | 36 | M | Carpenter    | /    | 100  | N York |
+    15  Josiah Vail          | 19 | M | Clerk        | /    | 50   | Pa  |
   Notes:     Same family as item 1: John M and Mortimer (here "Mortamore H"), both born Missouri,
              with a father whose initials match O. H. and who was born in Vermont. Orlando's age
              here, 48, points to a birth about 1811-1812, which agrees with Ancestry's 30 Sep 1811;
              in 1850 he was given as 35. His wife is Elizabeth J., 37, born Kentucky, not Delila,
              38, born Ohio, of 1850: either a second marriage or an error, unresolved here.
              Henry C (15 in 1850) is not in the household. Dwelling 330 just above is marked
-             "unoccupied". Lines 11-15 are not named as relatives; with a hotel keeper at their
-             head, they are most likely household help, staff or boarders, but the census does
-             not say. FamilySearch Family Tree has this record attached to John Marshall
+             "unoccupied". Lines 12-15 have a stroke (/) in the real-estate column, apparently
+             meaning none. Line 13 may read "Hamer". Lines 11-15 are not named as relatives;
+             with a hotel keeper at their head, they are most likely household help, staff or
+             boarders, but the census does not say. FamilySearch Family Tree has this record attached to John Marshall
              Clifford LRX2-NHF (a lead only).
 
 ==========================================================================================
@@ -115,7 +118,7 @@ birth-record-1811-washington-vt-clifford.jpg              [item 3]
     Condition of Child as to Live or Still Birth: [blank]
     If Still Birth the Cause: [blank]
     Name of Informant: [blank]
-    Town: Washington Vt.    Eph[raim] [?] Chapman, Town Clerk
+    Town: Washington Vt.    Ephm [Ephraim] Chapman, Town Clerk
   Notes:     This is a statewide index card copied from the town's own record, not the
              original 1811 entry; the town clerk's signature certifies the copy. It names the
              father (Moses) but not the mother. Washington is in Orange County, Vermont. The
@@ -142,8 +145,8 @@ birth-record-1806-washington-vt-clifford-almira.jpg              [item 3a]
     Full Name of Father: Moses Clifford
     [all other fields blank]
     Town: Washington Vt.    E. Chapman, Town Clerk
-  Notes:     The field labels on this card print a line higher than the entries; "Washington
-             Vermont" is on the Mother's Residence line as on the other cards.
+  Notes:     On this card the handwriting sits about half a line above the printed labels;
+             "Washington Vermont" belongs to Mother's Residence, as on the other cards.
 
 birth-record-1808-washington-vt-clifford-laura.jpg              [item 3b]
   Collection: Vermont, Vital Records, 1760-1954
@@ -174,7 +177,7 @@ birth-record-1810-washington-vt-clifford-alanson.jpg              [item 3c]
     Mother's Residence: Washington Vermont
     Full Name of Father: Moses Clifford
     [all other fields blank]
-    Town: Washington Vt.    Eph[raim] [?] Chapman, Town Clerk
+    Town: Washington Vt.    Ephm [Ephraim] Chapman, Town Clerk
   Notes (items 3a-3c):
              Same town, same father, same clerk as Orlando's card (item 3). Taken together:
              Almira 11 May 1806, Laura 19 Apr 1808, Alanson 5 Apr 1810, Orlando 30 Sep 1811,
@@ -191,15 +194,15 @@ census-1830-rush-clifford.jpg              [item 3d]
              image 544 of 850, DGS 005155874 (FamilySearch's title "Indiana. Census 1830";
              NARA M19, film 7715)
   Held by:   The U.S. National Archives and Records Administration (NARA)
-  Header:    [stamped/written] 544, No. 4 [?], page 273. "Schedule of the whole number of Persons
+  Header:    [written] 544, "18" in pencil at top left, (No. 4.) printed, page 273. "Schedule of the whole number of Persons
              within the Division allotted to" [rest of the heading is on the facing page, not
              in this image]. "Rush County" written down the left margin.
-  Where:     about two-thirds down the page, the 22nd name, between Thomas Craft and Elijah Carter
+  Where:     about two-thirds down the page, the 21st name, between Thomas Craft and Elijah Carter
   Transcription (head of family, then free white persons by age bracket; only filled columns):
     Moses Clifford
-      Males:   5-10: 1 | 10-15: 1 | 15-20: 3 | 20-30: 1 [?, the mark sits between the 20-30
-               and 30-40 columns] | 50-60: 1
-      Females: 5-10: 1 | 50-60: 1 [?, could be 40-50]
+      Males:   5-10: 1 | 10-15: 1 | 15-20: 3 [written over or beside another figure, possibly
+               a 2] | 20-30: 1 | 50-60: 1
+      Females: 5-10: 1 | 50-60: 1
   Notes:     Moses Clifford is in Rush County, Indiana, in 1830, the county where Orlando H.
              Clifford married Delila Knox in January 1835 (item 4). The 1830 census names only
              the head of household. The man aged 50-60 (born about 1770-1780) is presumably
@@ -257,12 +260,13 @@ marriage-record-clifford-hunter-1854.jpg              [item 5]
              Records 1839-1879")
   Held by:   Buchanan County, Missouri, Recorder of Deeds, as filmed by FamilySearch
   Header:    two-page opening of the marriage register, pages 214 and 215
-  Where:     page 215 (right), fourth entry, about the middle of the page
+  Where:     page 215 (right), the third entry beginning on that page (fourth counting the entry
+             carried over from page 214), about the middle of the page
   Transcription:
     State of Missouri Buchanan County. I the undersigned Judge of the Probate Court in and
     for said County do certify that on the sixth day of August 1854 I joined in marriage
     Orlando H Clifford and Elizabeth J Hunter in said County. Attest. August 15th 1854
-    Joseph J Wyatt [?] Judge
+    Joseph J Wyatt [?, or Myatt] Judge
     Filed August 15. 1854.   Wm Ridenbaugh [?] Recorder
                              By C. F. Rooker [?] Deputy
   Notes:     Married 6 August 1854 in Buchanan County, Missouri (St. Joseph is its county seat).
@@ -283,19 +287,24 @@ census-1870-nebraska-city-clifford.jpg              [item 6]
   Held by:   The U.S. National Archives and Records Administration (NARA)
   Header:    Page No. 12. Schedule 1. Inhabitants in 1st Ward Nebraska City, in the County of
              Otoe, State of Nebraska, enumerated by me on the 1st day of June, 1870. Post Office:
-             Nebraska City. Asa Shaw [?], Ass't Marshal.
+             Nebraska City. Asa Shaw [?, or Straw], Ass't Marshal.
   Where:     lines 10-11, upper third of the page; dwelling 83, family 89
   Transcription (name | age | sex | colour | occupation | real estate | birthplace | other marks):
-    10  Clifford O. H.  | 58 | m | w | Huckster       | 500 | Vermont | [marks in the
-                                                                        education columns and
-                                                                        the male citizen column]
-    11  Clifford E. J.  | 47 | f | w | Keeping house  |     | Ky      | [marks in the education
-                                                                        columns]
+    10  Clifford O. H.  | 58 | m | w | Huckster       | 500 | Vermont | col. 16 (Cannot read): /
+                                                                        col. 17 (Cannot write): /
+                                                                        col. 19 (male citizen 21+): /
+    11  Clifford E. J.  | 47 | f | w | Keeping house  |     | Ky      | col. 16 (Cannot read): /
+                                                                        col. 17 (Cannot write): /
   Notes:     Same couple as items 2 and 5: Orlando, now 58, born Vermont, and Elizabeth J., 47,
              born Kentucky, still in the 1st Ward of Nebraska City. FamilySearch's index gives
              line 11 and household 89; on the page O. H. is on line 10 in dwelling 83. No
              children live with them. Occupation is "Huckster" (a street seller or small
              dealer), not hotel keeper; real estate has fallen from $6000 in 1860 to $500.
+             The marks in columns 16 and 17 ("Cannot read", "Cannot write") for both O. H. and
+             E. J. each have a faint crossing stroke, as do similar marks for other households on
+             this page; whether the crossing cancels the answer or is a clerk's tally is not
+             clear from the page. Taken at face value, both are recorded as unable to read or
+             write.
              Line 23 on the same page, dwelling 86, family 92: Dunkin [?] E., 55, m, w,
              "Ice Packer", real estate 3000, born England. Noted only because of the family story
              about selling ice; nothing on the page connects him to the Cliffords.
@@ -317,15 +326,15 @@ census-1880-gunnison-clifford.jpg              [item 7]
   Where:     lines 48-50, the last three lines of the page
   Transcription (name | colour | sex | age | relationship | civil condition | occupation |
                  birthplace | father's birthplace | mother's birthplace):
-    48  Clifford, Emma   | [ditto: W] | F [over another letter] | 26 | Mother | [mark in a
-                         civil-condition column] | Housekeeper | Ind. | Ky | Ky
+    48  Clifford, Emma   | [ditto: W] | F [over another letter] | 26 | Mother | / in column
+                         "Widowed, /. Divorced, D." | Housekeeper | Ind. | Ky | Ky
     49  [ditto], Orlando | [ditto]    | M | 6 | Son      |  |  | Arkansas | Mo  | Ind
     50  [ditto], Eli W.  | [ditto]    | [ditto] | 5 | [ditto: Son] |  |  | Iowa | [ditto: Mo] | [ditto: Ind]
   Notes:     A mining camp page listing mostly single men under no clear head; FamilySearch
-             files the Cliffords under B. F. Flanders (line 42 or so), but nothing on the page
-             makes them his household. FamilySearch indexes Emma as "Widowed"; on the image the
-             mark is in one of the civil-condition columns, which column is not certain from
-             this reading. Eli W., 5, born Iowa, is the Eli Woodrie/Woodruff Clifford whose later
+             files the Cliffords under B. F. Flanders (line 41, by the right-hand margin
+             numbers), but nothing on the page makes them his household. Emma's stroke is in the
+             third civil-condition column, which by the form's own key means widowed; this
+             agrees with FamilySearch's index. Eli W., 5, born Iowa, is the Eli Woodrie/Woodruff Clifford whose later
              records (items 8-9 below) name his parents as John Clifford and Emma Bruner/Bryner.
              The children's father was born in Missouri, as John Marshall Clifford was (items 1
              and 2). A son born about 1874 in Arkansas is named Orlando, the name of John's
