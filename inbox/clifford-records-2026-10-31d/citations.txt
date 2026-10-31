@@ -33,7 +33,14 @@ KEY POINTS
   Washington in 1843); in Indiana from 1825; dead about 1841 (batch 3). No paper in these files
   names Moses's heirs or where they lived, so it is a strong fit, not proof. The Wentworth, NH,
   Moses (b. 1770, son of Isaac and Ruth; batch 2) is a different man in any case: this Moses's
-  father is Israel, and Isaac appears here as his brother.
+  father is Israel, and Isaac appears here as his brother. The heirs' residence, probably
+  "Indiana" under the blot (item 4), would make the fit closer still.
+- The 1813 move was a farm swap. On 23 Feb 1813 Moses Clifford deeded his Washington, VT, farm
+  to Edward Dodge (Washington land records, book 3, page 481, cited in later deeds, items
+  12-13); a week later, on 2 Mar 1813, Edward and Mary Dodge sold Moses their Londonderry, NH,
+  home farm (batch 3, item 1). The 1813 Washington deed itself has not been seen yet.
+- Also found: a second Londonderry, NH, child of Moses and Esther Clifford, a son written
+  "Letotes" [?], born 11 Aug 1815 (item 8), two years after Philander (batch 2, item 7).
 - Israel's widow Judith was the sister of Peter Severance and said Israel enlisted at Deerfield,
   NH, in 1775 (batch 3, item 10); the Deerfield petition of 1779 (batch 2, item 1) is probably the
   same man. Ancestry's tree gives Moses a father Israel born 1728 who died at Corinth in 1807;
@@ -300,7 +307,20 @@ SEEN, NOT UPLOADED (government records; transcribed or summarised here)
     court to receive appointment as agent, 12 July 1853; town, state, school and highway taxes
     paid 1854-1858; "time spent in leasing land". FamilySearch, "Bradford. Probate Records
     1845-1859", https://www.familysearch.org/ark:/61903/3:1:3QS7-8991-P2GK (read from the AI
-    transcript only, not checked against the image).
+    transcript only, not checked against the image). The agent before him, Stephen Eaton, died
+    by 1853; the commissioners on his estate list an account of "Moses Clifford Heirs ... for
+    Rents of Land", 1853 (FamilySearch, "Bradford. Probate Records 1860-1863",
+    https://www.familysearch.org/ark:/61903/3:1:3QS7-L991-17ZL; AI transcript only).
+12. Conditional deed, Edward Dodge and Rebecca Dodge of Washington, VT, to Ambrose T. Merrill,
+    $500, 28 Oct 1868: "one undivided half ... of all that was deeded to the said Edward Dodge by
+    Moses Clifford by deed dated Feby 23d 1813", Dodge to keep use of it for life. Washington,
+    Orange, Vermont, "Miscellaneous Records 1865-1872" (land records), page 355,
+    https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3QG-H9Z9-F (AI transcript only).
+13. Warranty deed, George M. Sleeper and Rebecca Dodge of Washington to William McFarland of
+    Corinth, 2 Oct 1874, recorded 23 Oct 1874: "the place on which we live ... conveyed by Moses
+    Clifford to Edward Dodge by deed dated Feb. 23rd A.D. 1813, and recorded in the land records
+    of Washington Book 3rd page 481". Same volume, page 289,
+    https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3QG-H9HF-V (AI transcript only).
 
 ==========================================================================================
 NOT FOUND
@@ -314,4 +334,9 @@ B. Moses Clifford's probate in Indiana. Ancestry's "Indiana, U.S., Wills and Pro
    004088837_00586) has no Clifford (only "Conkling, Mary", 1832, and "Coffin, Moses", Brazilla
    Coffin administrator, 10 Oct 1833). Hancock County's surviving probate records begin in
    1853 there as on FamilySearch.
-C. Moses Clifford's marriage to Esther, about 1805. Not searched yet.
+C. Moses Clifford's marriage to Esther, about 1805. A FamilySearch record search for Moses
+   Clifford with spouse Esther found only the two Londonderry births (item 8; batch 2, item 7).
+   Ancestry's marriage search returned no matching New England marriage on its first page.
+D. The deed of 23 Feb 1813, Moses Clifford to Edward Dodge, Washington, VT, land records book 3,
+   page 481 (items 12-13). Not yet found on FamilySearch; the Washington land records for 1813
+   would need browsing. It may say where Moses was living and name Esther.
