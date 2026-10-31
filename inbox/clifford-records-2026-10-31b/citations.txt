@@ -343,3 +343,21 @@ DUPLICATES (no file)
     1870 and Prior, Clifford, F-Cobb, M, image 280 of 3609: the same card as batch 1, item 3.
 20. "Who Were Present" (item 16) was supplied twice.
 21. "Ye Old Settlers" (item 15) was supplied in two copies.
+
+SEARCHED, NOT FOUND
+
+22. Marriage of John Clifford and Emma Bruner, searched in Arkansas (son Orlando was born there
+    about 1874; batch 1, item 7). Ancestry offered "John Johnson - Emily Clifford, 21 Sep 1873,
+    Washington County, Arkansas". Checked on the original: FamilySearch, "Arkansas, County
+    Marriages, 1837-1957", https://www.familysearch.org/ark:/61903/1:1:QG11-DQN4, image
+    https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9XF-YT2D, image 87 of 888, DGS 007579616.
+    It is a typed index of Washington County marriages 1870-1879, by groom ("- J -" page),
+    giving book and page: "D-218 John Johnson - Emily Clifford Sep 21, 1873". A different couple:
+    the bride is a Clifford, the groom a Johnson. (Arkansas, Marriages, 1837-1944 gives her as
+    Emily I. Clifford, born 1856: https://www.familysearch.org/ark:/61903/1:1:FQ1X-T49.)
+    The same page has "D-107 James Johnson - Lucinda Bruner Jan 9, 1873": a Bruner marrying in
+    Washington County, Arkansas, in 1873. Nothing here connects her to Emma.
+    The C page of the same index (image 72, https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9XF-YT12)
+    runs Clements, Clifton, Cline: no Clifford groom in Washington County, 1870-1879.
+    The 1870 census index has no Bruner in Washington County, Arkansas (only Brunner, Brawner
+    and Browner households in Pulaski, Arkansas and Chicot counties).
