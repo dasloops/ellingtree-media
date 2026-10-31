@@ -2,28 +2,30 @@ CITATIONS - Clifford records, batch 4: the estate of Israel Clifford of Corinth,
 (Ancestry and FamilySearch, searched 31 Oct 2026)
 
 Folder: inbox/clifford-records-2026-10-31d/
-7 image files. Six are Ancestry's full-size images from "Vermont, U.S., Wills and Probate
-Records, 1749-1999" (the viewer's print image, not a screenshot); one (item 7) is FamilySearch's
-full-size original (dist.jpg). Batches 1-3 are inbox/clifford-records-2026-10-31/, -31b/ and
+8 image files. Six are Ancestry's full-size images from "Vermont, U.S., Wills and Probate
+Records, 1749-1999" (the viewer's print image, not a screenshot); two (items 7 and 8) are
+FamilySearch's full-size originals (dist.jpg). Batches 1-3 are inbox/clifford-records-2026-10-31/, -31b/ and
 -31c/.
 Transcriptions were made from the images. Spelling is kept; legal boilerplate is summarised in
 [square brackets]; [?] marks a doubtful reading.
 
 KEY POINTS
 - 2 Nov 1821: Israel Clifford "of Corinth in Orange County & State of Vermont" made his will,
-  leaving his real estate to his widow Judith for life and then to "my Children Viz Isaac
+  leaving the use of his real estate to his widow Judith while she remained his widow, and then to "my Children Viz Isaac
   Clifford, Moses Clifford, John Clifford, Samuel Clifford, Betsey Thorn, Mary Nutting and
-  Delia [Desia?] Swett", sons taking double shares. Proved at Thetford 29 Jan 1822 (items 1-2).
+  Desia Swett" (Delia in the 1843 papers), sons taking double shares. Proved at Thetford 29 Jan 1822 (items 1-2).
   This answers batch 3's not-found item B.
 - 1843: after Judith's death the land was divided. The court's list of heirs (item 4) gives
   "the Heirs of Moses Clifford deceased", with John "who resides in Pennsylvania", Mary Nutting
   "in York State near Buffalo", Delia Swett "of Washington Vt", and the Thorn children "of
-  Tunbridge". The place where Moses's heirs lived is under an ink blot and cannot be read.
+  Tunbridge". Where Moses's heirs lived is partly under an ink blot: "In", then a "d", a
+  dotted "i" and an "a" running off the edge of the paper, probably "Indiana" (uncertain; see
+  item 4 and judge it from the image).
   The division return (item 6) speaks of an "agent for those heirs that live out of the State".
 - 13 Feb 1844: Stephen Eaton was bonded as agent for the property in the district belonging "to
   the heirs or representatives of the heirs of Moses Clifford deceased who was an heir &
   interested in the Estate of Israel Clifford late of Corinth" (item 7). An agent was still
-  paying taxes on their 12 acres and leasing the land in 1858 (item 10), so the heirs seem never
+  paying taxes on their 12 acres and leasing the land in 1858 (item 11), so the heirs seem never
   to have come to Vermont to claim it.
 - What this does and does not prove. Israel had a son Moses, who was dead by May 1843 and whose
   heirs lived out of Vermont. That fits our Moses: of Washington, Orange County, Vermont, in
@@ -56,9 +58,9 @@ probate-1821-bradford-vt-clifford-israel-will-p214-215.jpg              [item 2]
     Will & Testament, in manner & form following that is to say -- Imprimis, I give to my
     beloved wife Judith Clifford the use & benefit rents & proffits of all my Real estate to
     manage and improve in the way she shall think proper so long as she remains my widow, at the
-    expiration of which time I will & order that all my said Real estate shall be divided
+    expiration of which time I Will & order that my said Real estate shall be divided
     between my Children Viz Isaac Clifford, Moses Clifford, John Clifford, [p. 214] Samuel
-    Clifford, Betsey Thorn, Mary Nutting and Delia [Desia?] Swett, to be divided in such manner
+    Clifford, Betsey Thorn, Mary Nutting and Desia Swett, to be divided in such manner
     that my sons shall have equal shares and my daughters to have equal shares, and that each
     son shall have double to each daughter -- Item I give to my beloved wife Judith Clifford all
     my personal property of what kind or nature soever after my just debts are paid -- Lastly I
@@ -68,7 +70,7 @@ probate-1821-bradford-vt-clifford-israel-will-p214-215.jpg              [item 2]
     signing.
     Signed Sealed published and declared by the above named Israel Clifford to be his Last Will
     and Testament in the presence of us who have hereunto subscribed our names as Witnesses in
-    the presence of the Testator      Israel Clifford [seal]
+    the presence of the Testator      Israel Clifford [L.S.]
     Abel Heath / John Brown 2d / Peter Eaton
   Transcription (probate):
     State of Vermont District of Bradford ss. At a Court of Probate holden at Thetford within &
@@ -83,9 +85,9 @@ probate-1821-bradford-vt-clifford-israel-will-p214-215.jpg              [item 2]
     and of each other -- Whereupon it is considered that the same be & hereby is proved,
     approved, ratified and confirmed as the last Will & Testament of said deceased.
                                          Elisha Thayer Judge of Probate
-  Notes:     Ancestry indexes the youngest daughter as "Desia Sweet" here and "Delila Irvett" in
-             the estate file; the 1843 papers write "Delia Swett" / "Delia Sweat wife of John
-             Sweat". The loose original will is in the estate file (record 664830, below) and was
+  Notes:     The record book clearly reads "Desia"; the 1843 papers call her "Delia Swett" /
+             "Delia Sweat wife of John Sweat". Ancestry indexes her as "Desia Sweet" here and "Delila Irvett" in
+             the estate file. The loose original will is in the estate file (record 664830, below) and was
              not uploaded.
 
 ==========================================================================================
@@ -105,9 +107,9 @@ probate-1843-bradford-vt-clifford-israel-division-application.jpg              [
     division of the said estate & to appoint a committee for that purpose
     May 9. 1843                                   Israel Clifford
     State of Vermont District of Bradford ss -- On the above application an order of notice
-    was issued and is now returned complied with to court at [?] 2 Tuesday of June -- and the
+    was issued and is now returned complied with to court at [Vershire?] 2 Tuesday of June -- and the
     further hearing thereon is continued to 11 July 1843 at [Fares?] in Corinth at which court
-    [?] -- It is ordered and decreed that division be made of the following described real
+    [adjd?] -- It is ordered and decreed that division be made of the following described real
     estate of the late Israel Clifford as follows -- Estate -- all the real estate of which said
     Israel died seized & possessed in said Corinth first deducting what said Israel deeded to
     John Clifford and John to Samuel Clifford and Samuel Clifford to Saml Thorn to Jacob N.
@@ -130,13 +132,13 @@ probate-1843-bradford-vt-clifford-israel-division-notice.jpg              [item 
   Record:    https://www.ancestry.com/search/collections/9084/records/535500
   Image:     004479447_00152 (image 13 of 13)
   Transcription:
-    Israel Clifford before his decease deeded one third of the whole farm to John Clifford and
-    John Clifford deeded the same third to Samuel Clifford -- & Samuel Clifford & John Clifford
+    Israel Clifford before this will deeded one third of the whole farm to John Clifford and
+    John Clifford deeded the same third to Samuel Clifford -- & Samuel Clifford & Sam[?] Clifford
     deeded to Samuel Thorn and Samuel Thorn to Jacob N. Hewitt [?] & Hewitt to Enos Porter who
     now owns it.
     The other two thirds according to the will are to be distributed
     1 To Israel Clifford assignee of Isaac Clifford -- Corinth
-    2 To the Heirs of Moses Clifford deceased who reside in [ink blot; illegible]
+    2 To the Heirs of Moses Clifford deceased who reside in In[diana?] [ink blot]
     3 To John Clifford who resides in Pennsylvania --
     4 To Enos Porter -- assignee by several assignments from Saml Clifford
          To these full shares --
@@ -145,11 +147,15 @@ probate-1843-bradford-vt-clifford-israel-division-notice.jpg              [item 
       Enos Porter
     6 Mary Nutting wife of Abner F. Nutting lives in York State near Buffalo --
     7 Delia Swett wife of John Swett of Washington Vt
-         To these three half shares
+         To these three last 1/2 shares
     Notice to be given to Saml Thorn's children to appear 2 Tuesday of June 1843 & choose
-    guardians [?] -- or 3 weeks [?] [rest illegible]
-  Notes:     Line 2's place name falls under an ink blot at the right edge; one or two letters
-             show on each side of it, not enough to read. FamilySearch has the same file
+    Guardians -- or 3 weeks prior to Court [?]
+  Notes:     Line 2's place name falls under an ink blot at the right edge of the paper. Before
+             the blot is a looped capital I (the same form as in "Israel" on line 1) and an n;
+             after it a looped d, an i with its dot, and an a, running off the edge. "Indiana"
+             fits these letters and nothing else obvious does, but the reading is not certain
+             and it agrees with what we expected, so it should be weighed with care.
+             FamilySearch has the same file
              ("Bradford, Orange, Vermont. Probate Records 1840-1850"), with the same blot.
 
 ==========================================================================================
@@ -162,11 +168,11 @@ probate-1843-bradford-vt-clifford-israel-division-warrant-p2.jpg              [i
   Transcription:
     [the committee to give] timely notice to all persons interested to be present if they see
     cause -- When you have completed said appraisal, and perfected an inventory of said estate
-    you will faithfully and impartially divide and make partition of said estate to & among
+    you will faithfully and impartially divided [sic] and make partition of said estate to & among
     Israel Clifford assignee of Isaac Clifford, to the Heirs of Moses Clifford to John
     Clifford, to Enos Porter assignee of Samuel Clifford, to Betsey Maria Thorn, Benj F. Thorn &
     Melissa Thorn, heirs of Betsey Thorn deceased, to Mary Nutting wife of Abner F Nutting, to
-    Delia Sweat wife of John Sweat the heirs & the legal representatives of the heirs of the
+    Delia Sweat wife of John Sweat the heirs & the legal representatives of the the heirs of the
     said Israel Clifford in the proportions following that is to say -- first to said Israel
     Clifford Two Elevenths Second to the heirs of Moses Clifford Two elevenths Third to John
     Clifford Two elevenths Fourth to Enos Porter assignee of Saml Clifford two elevenths Fifth to
@@ -220,7 +226,7 @@ probate-1844-bradford-vt-clifford-moses-heirs-agent-bond.jpg              [item 
   Transcription:
     Know all Men by these presents that we Stephen Eaton & Jonathan Robie 2d are holden and
     Stand firmly bound & obliged unto the Probate Court for the district of Bradford in the
-    State of Vermont in the penal Sum of One thousand dollars [...] Dated at Corinth this 13.
+    State of Vermont in the penal Sum of One thousand dollars [current money; binding clause] Dated at Corinth this 13.
     day of February A.D. 1844 -- The condition of the above obligation is such that if the
     above bounden Stephen Eaton who has this day been appointed agent to take the care &
     custody of the Real Estate & other property situated within said district which belong to
@@ -236,9 +242,32 @@ probate-1844-bradford-vt-clifford-moses-heirs-agent-bond.jpg              [item 
              this estate's papers). The volume label is FamilySearch's; the paper is dated 1844.
 
 ==========================================================================================
+
+birth-record-1815-londonderry-nh-clifford.jpg              [item 8]
+  Collection: New Hampshire, Birth Records, Early to 1900 (FamilySearch)
+  Index:     https://www.familysearch.org/ark:/61903/1:1:FL25-Y4N
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6S9W-QCJ
+  Held by:   New Hampshire Division of Vital Records, as filmed by FamilySearch
+  Transcription (printed card, handwritten entries; card number 121 at top right):
+    Child's Name: Letotes [?] Clifford
+    Date of Birth: Aug 11th 1815
+    Place of Birth: Londonderry
+    Sex: M   Color: W
+    Father's Name: Moses Clifford
+      Residence: Londonderry
+    Mother's Maiden Name: Esther
+    THE STATE OF NEW HAMPSHIRE. I hereby certify that the above birth record is a correct
+    transcript as required by Chap. 21, Session Laws, 1905.
+    William H. Crowell, Clerk of Londonderry, Date Jan 15th 1906
+  Notes:     A 1906 copy of the town record, like Philander's card (batch 2, item 7). The first
+             name is unusual and may be miscopied from the town book; FamilySearch indexes it
+             "Letotes". Found by searching FamilySearch records for Moses Clifford with spouse
+             Esther; no other children of the couple turned up in that search.
+
+==========================================================================================
 SEEN, NOT UPLOADED (government records; transcribed or summarised here)
 
-8. Israel Clifford estate file, 12 images: Ancestry 9084, record
+9. Israel Clifford estate file, 12 images: Ancestry 9084, record
    https://www.ancestry.com/search/collections/9084/records/664830, images 004478860_00268
    to _00279.
    - Warrant to appraise, 29 Jan 1822, Elisha Thayer, judge, to Abel Heath, Peter Eaton and
@@ -261,13 +290,13 @@ SEEN, NOT UPLOADED (government records; transcribed or summarised here)
      $643.50; signed Stephen Eaton, executor.
    - The appraisers' oath, 1 Feb 1822 (image 10), and the probate certificate of 29 Jan 1822
      (image 12) repeat what items 1-2 say. Images 7-9 (the loose original will) were not read.
-9. Israel Clifford, Ancestry 9084, record
+10. Israel Clifford, Ancestry 9084, record
    https://www.ancestry.com/search/collections/9084/records/540081, 4 images from
    004478844_00325: notice of 4 June 1823 to "the heirs Legatees & all others concerned in the
    estate of Israel Clifford late of Corinth" that Stephen Eaton would render his account at
    Davenport's tavern in Vershire on the last Tuesday of June; given at West Fairlee; to be
    posted in Corinth (image 2). Only that image was read.
-10. Agent's account, "The heirs of Moses Clifford to F. P. Eaton", 1853-1858: one day at probate
+11. Agent's account, "The heirs of Moses Clifford to F. P. Eaton", 1853-1858: one day at probate
     court to receive appointment as agent, 12 July 1853; town, state, school and highway taxes
     paid 1854-1858; "time spent in leasing land". FamilySearch, "Bradford. Probate Records
     1845-1859", https://www.familysearch.org/ark:/61903/3:1:3QS7-8991-P2GK (read from the AI
@@ -276,8 +305,9 @@ SEEN, NOT UPLOADED (government records; transcribed or summarised here)
 ==========================================================================================
 NOT FOUND
 
-A. Where the heirs of Moses Clifford lived in 1843 (item 4, line 2, blotted). The other papers
-   in the file and the full-text hits do not say. A deed from the heirs selling the 12 acres, in
+A. Where the heirs of Moses Clifford lived in 1843 for certain (item 4, line 2, probably
+   "Indiana" but blotted), and who they were. The other papers in the file and the full-text
+   hits do not say. A deed from the heirs selling the 12 acres, in
    the Corinth town land records after 1843, would name them and their residence; not searched.
 B. Moses Clifford's probate in Indiana. Ancestry's "Indiana, U.S., Wills and Probate Records,
    1798-1999": the Rush County general index of estates, 1831-1893, page for C (image
