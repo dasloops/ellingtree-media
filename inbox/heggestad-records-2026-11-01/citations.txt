@@ -1,9 +1,12 @@
-CITATIONS - Heggestad (Hemsedal, Norway) farm records, batch 1 (Digitalarkivet, searched 2026-11-01)
+CITATIONS - Heggestad (Hemsedal, Norway) farm records, batch 1 (Digitalarkivet and
+Nasjonalbiblioteket, searched 2026-11-01; book section added the same afternoon)
 
 Folder: inbox/heggestad-records-2026-11-01/
-3 files. All images are Digitalarkivet's full-size originals, downloaded from
+3 image files. All images are Digitalarkivet's full-size originals, downloaded from
 media.digitalarkivet.no/image/<id> (no login needed; free and public). Nothing came from
 FamilySearch, so no arks.
+Two books (nb.no) were read on screen only: no images taken, facts transcribed below with
+short quotes. They are copyrighted (Bokhylla agreement, reading on screen in Norway).
 
 Subject: the farm Heggestad ("Hæggestad"), Grøndalen, Hemsedal, Buskerud, Norway.
 gnr. 86, bnr. 9, Hemsedal (kommune 0618 then, 3326 today). Address today: Grøndalsvegen 777,
@@ -24,14 +27,25 @@ KEY POINTS
   Anne, Kari and Margit. This names all four of Trond's children, matching the family.
 - There is NO deed to Halvor around 1920 on the folio. His title is registered only in
   1958, by a declaration ("erklæring") that Halvor T. Heggestad holds grunnbok title.
-- The folio is stamped "Overført til grunnboken": from 1958 the property is kept in the
-  grunnbok, which is not on Digitalarkivet. So the transfers after Halvor's death (1975)
-  and Margit's death (1982) are NOT in these images and remain unknown.
-- The register calls Trond, Syver and Halvor "Vestenfor" as well as "Heggestad".
-  "Vestenfor" looks like a by-name used for this holding (meaning "west of");
-  not resolved.
-- Every owner shown 1884-1958 is Halvor's direct line (grandmother Anne, father Trond,
-  mother Kari, Halvor). No outside owner appears before 1958.
+  Rudvin (1976) p. 391 says Halvor took over the farm in 1910.
+- HALVOR SOLD HEGGESTAD OUT OF THE FAMILY: Rudvin p. 391 says that in 1961 he sold the farm
+  to Trond Kirkebøen (p. 267 says 1960). Kirkebøen built a new road and bridge to it and
+  planned a cabin field (hyttefelt) on the property. The book gives no family tie between
+  Kirkebøen and the Heggestads; elsewhere it shows him buying other Grøndalen farms for
+  cabin development (Helgeseth, 1956, now Helgeseth Feriesenter). So unless it came back
+  later, the farm was not Halvor's to leave when he died in 1975, nor Margit's in 1982.
+- Halvor then lived at Bjørklund (gnr. 67 bnr. 86) near Trøym, in the centre of Hemsedal,
+  and entered the old people's home Bygdaheimen in 1975.
+- The 1958 grunnbok declaration came about three years before the sale, which fits
+  formalising his title before selling (an inference, not stated in any source).
+- "Vestenfor" in the register = Vestafør: Rudvin says the farm was also called
+  Vestafør or Surre in everyday speech.
+- Every owner shown 1884-1961 is Halvor's direct line (grandmother Anne, father Trond,
+  mother Kari, Halvor). Rudvin says Halvor's grandfather Halvor Trondson (1820-1881) bought
+  it from his father, the man at Medgarden; Norske gardsbruk (1948) says the farm had been
+  in the family since about 1840.
+- Who owns it NOW (after Kirkebøen) is still unknown: Kartverket's register was down
+  (503, maintenance) on 2026-11-01.
 
 ==========================================================================================
 
@@ -143,29 +157,101 @@ land-register-index-1914-hemsedal-gnr86.jpg                [finding aid, later p
              each parcel's own folio would say "frakommen ...". Not transcribed in full.
 
 ==========================================================================================
+BOOKS READ ON SCREEN (no image; facts transcribed, quotes kept short)
+
+Hemsedals slektshistorie 1693-1975                         [Rudvin 1976]
+  Book:      Hans Flaten (1858-1930), with Ola Rudvin (1899-1978): Hemsedals slektshistorie
+             1693-1975 (Hemsedal kommune, 1976). First edition 1925.
+  Online:    https://www.nb.no/items/60f05aad1fb930f08fee6270001b50d7  (Norway only)
+  Read:      2026-11-01, on screen. Search "Heggestad" gives hits on pp. 267, 271, 355, 357,
+             391 (nb.no page ids _0273, _0277, _0361, _0363, _0397).
+  The book uses the farm-name form "Heggjistad" and nynorsk dialect spellings.
+
+  p. 391, the farm's own entry: Heggjistad, gnr 86, bnr 9, lnr 669 b; written form
+    Heggestad. Also called Vestafør or Surre in everyday speech.
+    - After Nils Arneson Høvdaé ("Hullern", 1767-1832-65) died, the farm was sold at auction.
+      The man at Médgardé (Medgarden) bought it and later sold it to his son Halvor.
+    - Halvor Trondson 1820-81-61 [b. 1820, d. 1881 aged 61] m. 1844 Anne Nilsdtr Stunde
+      1820-87-67. Children: Birgit 1846-91-45 m. 1867 Ivar Rudningji; Barbo 1848 m. 1874 Knut
+      Fløgo; Trond 1851-94-43 farmer at Heggjistad; Kari 1854 rtA [to America]; Nils 1856
+      farmer at nørdre Fékjo; Halvor 1859 d. [died young]; Halvor 1861-1911-50 unmarried,
+      died at Fékjo.
+    - Trond took the farm, m. 1884 Kari Ingvarsdtr Grøndalé. Children: twins Anne and Kari
+      1884 d. [died]; Halvor 1886-1975 farmer at Heggjistad; Anne 1887 m. 1914 farmer Hans
+      Hansen, Hov, Søre Land; Kari 1889-1957 m. Ola Hontvedt, Lærdal (2 boys and 2 girls,
+      one dead); Margit 1890-1955 m. Torstein Vøllo d. 1969.
+    - As a widow Kari m. 2) widower Sjugurd Larsson Stunde. Children: Mari 1897, Margit 1901.
+    - Halvor took over the farm in 1910. He bought Storeluo in 1917 (Stakkestøé had been
+      bought in 1878). Farm described as awkward to reach: only a footbridge over the river
+      Grøndøla. Halvor cleared most of the land and built new houses at home and on the
+      seter. No home seter, but long-distance seters at Føssé and Klanté.
+    - "I 1961 selde Halvor garden til Trond Kirkebøen" and built a house in the centre near
+      Trøym (see Bjørklund 67-86). Kirkebøen built a new road and vehicle bridge to
+      Heggjistad and has planned a cabin field (hyttefelt) on the property.
+  p. 392 (Stakkestøé, gnr. 86 bnr. 10): Stakkestøé lay deserted after its people emigrated
+    to America in 1880 and was merged with Heggjistad. Storeluo (gnr. 86 bnr. 29) is listed
+    as "Nedlagt bruk" (abandoned holding).
+  p. 267, under Bjørklund (gnr. 67 bnr. 86): Halvor T. Heggestad 1885-1975 (see Heggestad
+    86-9) also lived at Bjørklund. He owned and farmed Heggestad until 1960, when he sold
+    it to Trond Kirkebøen, and arranged a house at Bjørklund for his old age. Described as
+    kommunemann (local council member) and doms- og skjønsmann (court and valuation juror).
+    [Note: 1960 here, 1961 on p. 391; 1885 here, 1886 on p. 391.]
+  p. 271, Bygdaheimen (old people's home), residents by year of entry:
+    Halvor Heggestad is among those entering in 1975. (The 1974 list includes Ole N. Fekene.)
+  p. 355, Flatåker (gnr. 82 bnr. 3, newer dwelling): Torstein N. Vøllo 1882-1969 m. 1930
+    Margit Heggestad 1890-1955 [Halvor's full sister]. They bought land from Ola Fékjo and
+    built a home there 1935-36, which they called Flatåker. Childless. Sold out of the
+    family in 1967 (buyer named in the book; not repeated here).
+  p. 357, Rundåkeren (gnr. 82 bnr. 32, new dwelling): Margit Heggestad (86-9), b. 1901
+    [Halvor's half-sister], bought a plot at Flatåker and built a house there for herself
+    in 1968. Unmarried. A younger couple (named in the book, possibly living, not repeated
+    here) built onto the house and lived there from 1973.
+    [Note: the book gives 1901; the family gives 8 Dec 1900.]
+  Trond Kirkebøen elsewhere in the book: pp. 251, 262, 372, 381, 384, 400. On p. 381
+    (Helgeseth/Dekko): the farm was sold to him and laid out as a cabin field with 30
+    rental cabins, shop and cafeteria, named Helgeseth Feriesenter; another holding was
+    sold to him by Birgit Dekko in 1956. No family tie to the Heggestads is stated.
+    Pp. 251, 262, 372, 384, 400 not read.
+
+Norske gardsbruk: Buskerud fylke 3                          [1948 text, 1995 reprint]
+  Book:      Norske gardsbruk : Buskerud fylke. 3 : Flå, Gol, Hemsedal, Hol, Krødsherad,
+             Nes, Ål (1995). The running head reads "NORSKE GARDSBRUK 1948": a reprint of the
+             1948 edition, so the entry describes the farm about 1948.
+  Online:    https://www.nb.no/items/5d88f3794ca9f550e27ec8e37aa242b7  (Norway only)
+  Read:      2026-11-01, on screen, p. 214 (nb.no page id _0216), entry no. 455-4.
+  Entry:     Heggestad, gnr. 86, bnr. 9, postal address Hemsedal.
+             Sk.mk. 2,00. 35 dekar cultivated (mold og myrjord), 25 dekar other farmland,
+             450 dekar productive forest, 15 dekar other outfield. Farmhouse built 1915,
+             outbuilding 1926. Fire insurance kr. 14 000. Klanten seter. 2 horses, 9 cows,
+             1 bull, 2 young cattle, 1 pig, 10 goats, 10 sheep.
+             The farm had been in the family since about 1840.
+             Owner: Halvor Heggestad, b. 1885, son of Trond Halvorsen and Kari Ingvaldsdatter.
+  Notes:     Other "Heggestad" hits in this volume (pp. 230, 235, 270, 281, 729) not read.
+
+==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
 
-1. Owner today, and transfers since 1975 (Kartverket, Se eiendom / eiendomsregisteret).
-   seeiendom.kartverket.no redirected to eiendomsregisteret.kartverket.no and showed a blank
-   page on 2026-11-01. Norgeskart (also Kartverket) was blank too. Not obtained. Try again.
-2. Transfers after the deaths of 1975 and 1982. In the grunnbok from 1958 on; no Hemsedal
-   grunnbok found on Digitalarkivet. The answer will be in Kartverket's register (item 1).
+1. Owner today, and transfers since 1958 (Kartverket, eiendomsregisteret.kartverket.no).
+   Morning of 2026-11-01: blank page. Afternoon: the page loaded with a maintenance notice
+   ("Vi utfører vedlikehold", 10:00-23:59, service may be unstable), and the property search
+   (api/soekEtterEiendom) returned HTTP 503. Not obtained. Try another day: search
+   "Grøndalsvegen 777, Hemsedal" or 3326-86/9.
+2. Transfers after 1961. In the grunnbok from 1958 on; no Hemsedal grunnbok on
+   Digitalarkivet. Kartverket (item 1) should list Kirkebøen's purchase and every later one.
 3. Gol og Hemsedal lensmann, dødsfallsprotokoll nr. 8, 1973-1982 (AV/SAKO-A-510/H),
    https://www.digitalarkivet.no/source/55418. Digitised (1975 section from image 114,
    1982 from image 522) but "klausulert": Digitalarkivet blocks death records from 1935 on
    online (they may contain closed-adoption information). Not viewable. Would name heirs.
 4. Graves, Slekt og Data Gravminner (Halvor 1885-1975, Margit 1900-1982):
    blocked by a Cloudflare human check. Not searched.
-5. Ola Rudvin (ed.), Hemsedals slektshistorie 1693-1975 (Hemsedal kommune, 1976),
-   pp. 267, 271, 355. nb.no item:
-   https://www.nb.no/items/60f05aad1fb930f08fee6270001b50d7
-   "Tilgang for norske IP-adresser" (Norway only). Catalogue: main author Hans Flaten
-   (1858-1930), contributor Ola Rudvin (1899-1978); first edition 1925.
-6. Norske gardsbruk: Buskerud fylke 3 (1995), p. 214. Vol. 3 not found in nb.no search;
-   vols 1 and 4 are Norway-only, so vol. 3 presumably is too.
-7. Hallingdølen (all nb.no, "Tilgjengelig etter bestemte vilkår", not opened):
+5. Hemsedals slektshistorie 1693-1975 and 6. Norske gardsbruk: Buskerud fylke 3: both now
+   READ on screen (see BOOKS READ ON SCREEN above).
+7. Hallingdølen (all nb.no, "Tilgjengelig etter bestemte vilkår", not opened). Tried again
+   from a Norwegian connection on 2026-11-01: the search API confirms the 22 Aug 1975 hit is on
+   page 2, but the page image returns HTTP 403. These need an approved nb.no login
+   ("Logg inn for å søke om tilgang" on the item page), which was not attempted.
    - 17 Dec 1955, p. 4, hit on "Heggestad"
-   - 22 Aug 1975, hit on "Heggestad Hemsedal" (p. 1 per the search):
+   - 22 Aug 1975, p. 2, hit on "Heggestad":
      https://urn.nb.no/URN:NBN:no-nb_digavis_hallingdolen_null_null_19750822_37_124_1
    - 22 Jun 1982, p. 4, hit on "Margit Heggestad"
    - 6 Jul 1982, p. 4, hit on "Margit Heggestad's"
@@ -182,14 +268,17 @@ NOT FOUND OR NOT VIEWABLE (no file)
 FOR THE NEXT SESSION
 
 - Open questions, in order of value:
-  a. Who owns 86/9 now, and every tinglyst document since 1958 (Kartverket, item 1). This
-     settles whether the farm is still in the family.
-  b. Who inherited from Halvor (1975), and whether Margit Heggestad held it 1975-1982.
-     Kartverket's document list should show a skifteattest or hjemmel for each.
+  a. Who owns 86/9 now, and every tinglyst document since 1958 (Kartverket, item 1): above
+     all the date and type of Halvor's sale to Trond Kirkebøen (1960 or 1961; the books
+     disagree), and whether the farm ever came back to the family.
+  b. Whether Kirkebøen built the planned cabin field on Heggestad, and whether parcels were
+     split off 86/9 for it (Kartverket's list of matrikkel units from 86/9).
   c. Whether 86/16 Heggeslaatten was split from Heggestad (its folio: L0002 side 321,
      https://media.digitalarkivet.no/view/14715/355).
-  d. What "Vestenfor" refers to.
-  e. Kari's patronymic: the register's "Ingvaldsdatter [?]" vs. the family's "Ingvarsdatter".
+  d. Kari's patronymic: the land register and Norske gardsbruk (1948) say Ingvaldsdatter;
+     Rudvin (1976) says Ingvarsdtr. Also Halvor's birth year (1885 in Norske gardsbruk and
+     Rudvin p. 267; 1886 on Rudvin p. 391) and sister Kari's (1888 family; 1889 Rudvin).
+  e. Rudvin's other Kirkebøen pages (251, 262, 372, 384, 400) for who he was.
 - Kinship test for any later owner: a Heggestad, Fekene (Fekjo), Flaget (Fløgo),
   Medgarden, Larsen (Stunde) or Syversdatter line.
 - Current owners will be living people: record only what the register shows, and keep their
