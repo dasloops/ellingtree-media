@@ -1,16 +1,14 @@
 CITATIONS - Marvin records, batch 1 (FamilySearch, searched 1 Nov 2026)
 
 Folder: inbox/marvin-records-2026-11-01/
-0 files. NO IMAGES IN THIS BATCH: the step that carries the image from the browser tab into
-the shell (snippet A of FAMILYSEARCH.md) was refused by the agent's permission check in this
-session, so nothing was transferred. Each record below that should be brought in has its
-intended file name, its ark and its image number, so it can be fetched later.
+8 files (5 records). All images are FamilySearch's full-size originals (dist.jpg).
 
-All texts below were read from FamilySearch's AI-generated Full-Text transcripts, not from the
-images line by line. Spellings of names in those transcripts are often garbled; where I give a
-name I have normalised it only when the same page spells it correctly elsewhere, and marked
-the rest [?]. Only one reading was checked against the image (item 1a, the witness Ruth
-Philbrick), and only at low resolution. Quotation marks mark the transcript's wording.
+The texts below were first read from FamilySearch's AI-generated Full-Text transcripts. For the
+five records brought in, the key lines (parties, dates, witnesses, the guardian's recital, the
+divorce petition's marriage date and children) were then checked against the images, and are
+marked [checked on image]. Everything else, including the whole list of other hits, is from the
+AI transcript only: spellings of names there are often garbled, and doubtful readings are
+marked [?].
 
 KEY POINTS
 - NOTHING IN THIS BATCH SETTLES IT. No record found calls Ruth Pickett Marvin's daughter or
@@ -21,14 +19,15 @@ KEY POINTS
   divorce in Jackson County, 26 Dec 1833, and the Supreme Court (sitting at Gallipolis)
   dissolved the marriage on 12 Apr 1834, for wilful absence. Her petition says he left her in
   Fairfield County "three years ago last June" and was living at or about Louisville, Ky.; it
-  names two living children, Pamelia (or Parmelia), 14, and Sarah Ann, 3; and says she had
-  lived in Jackson County the past two years. It names no parent of hers (item 5a).
-- Against the grandfather-gift idea, or at least not for it: the guardian's deed of 23 Mar
-  1857 calls George W. Rice "minor and orphan son of George Rice late of the County ...
-  deceased", and sells only "the interest of the said George W. Rice" in the three tracts. It
-  does not say how he came by it. Ruth herself bought that interest for $1,440 (item 2a), then
-  she and William Cheeseman sold the Jackson tract to Thomas G. Jones for $1,070 and the
-  Gallia tracts for $180 (items 2b, 2c).
+  names two living children, "Pamilia and Sarah Ann, aged Fourteen & three years"; and says
+  she had lived in Jackson County "for more than two years last". It names no parent of hers
+  (item 5a).
+- Not for the grandfather-gift idea: the guardian's deed of 23 Mar 1857 calls George W. Rice
+  "minor and orphan son of George Rice late of the County and State aforesaid deceased", and
+  sells only "the interest of the said George W Rice" in the three tracts. It does not say how
+  he came by it. Ruth herself bought that interest for $1,440 (item 2a), then she and William
+  Cheeseman sold the Jackson tract to Thomas G. Jones for $1,070 (item 2b) and the Gallia
+  tracts for $180 (item 2c).
 - A different George W. Rice, with a wife Cynthia, was alive in Jackson County in Dec 1853
   (item 2d). Don't confuse him with Ruth's husband.
 - Pickett Marvin deeded his home farm (part of NW 1/4 sec. 19, T8, R17, 182 acres) to his son
@@ -39,10 +38,10 @@ KEY POINTS
 ITEM 1. THE "PICKETT MARVIN" HITS IN JACKSON COUNTY (deeds 1816-1843, court 1845-1849)
 
 All Jackson County deed and court hits for "Pickett Marvin" (and "Picket Marvin") were opened
-and read. Two name Ruth's family and should be brought in; the rest are listed after them.
+and read. Two name Ruth's family and are brought in; the rest are listed after them.
 
 ------------------------------------------------------------------------------------------
-deed-1830-jackson-marvin.jpg              [item 1a]  NOT YET IN REPO
+deed-1830-jackson-marvin.jpg              [item 1a]
   Collection: Jackson County, Ohio, deeds (Full-Text)
   Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4Y-Q941-4
              image 466 of 687, "Jackson. Deeds 1816-1832, 1830-1836"; DGS not recorded
@@ -54,25 +53,26 @@ deed-1830-jackson-marvin.jpg              [item 1a]  NOT YET IN REPO
              deeded to said Joseph"
   Dated:     at Bloomfield, 27 Dec 1830; acknowledged before John Stephenson J.P. the same
              day; received 29 Nov 1832, recorded 1 Dec 1832
-  Witnesses: John Stephenson, Ruth Philbrick
-             [The witness line, seen on the image at low resolution, reads "John Stephenson /
-             Ruth Philbrick" under "Signed sealed & delivered in presence of". Worth checking
-             at full size.]
+  Witnesses: John Stephenson, Ruth Philbrick [checked on image: "Signed sealed & delivered in
+             presence of / John Stephenson / Ruth Philbrick"]. Signed "Pickett Marvin" and
+             "Mary [her X mark] Marvin".
   Notes:     Ruth Philbrick witnessing a deed of Pickett and Mary Marvin at Bloomfield in Dec
              1830. That fits the divorce petition (item 5a): Benjamin left her in Fairfield
              County in June 1830, and by Dec 1833 she had lived in Jackson County two years.
              Support, not proof of kinship.
 
 ------------------------------------------------------------------------------------------
-deed-1839-jackson-rice.jpg                [item 1b]  NOT YET IN REPO
+deed-1839-jackson-rice.jpg                [item 1b]
   Collection: Jackson County, Ohio, deeds (Full-Text)
   Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLF-DZKM
              image 388 of 633, "Jackson. Deeds 1836-1840"; DGS not recorded
-  Where:     book page 30 [?]
+  Where:     book pp. 130-131, first deed on p. 130
   Parties:   Allen Rice and Nancy his wife, of Jackson County, to Vincent Radcliff, $150
   Land:      SW 1/4 NW 1/4 sec. 36, T7, R18, 40 acres
-  Dated:     2 Jan 1839, acknowledged before George W. Hale [?] J.P.; recorded 4 Jul 1839
-  Witnesses: Pickett Marvin, James Armstrong
+  Dated:     2 Jan 1839, acknowledged before George [B.?] Hale, J.P.; received 1 Jul,
+             recorded 4 Jul 1839, James McQuality [?] recorder
+  Witnesses: Pickett Marvin, James Armstrong [checked on image: "in the presence of Pickett
+             Marvin and James Armstrong"]. Nancy Rice signs by her mark.
   Next deed on the page: Vincent C. Radcliff to Stephen Radcliff, 5 Jan 1839, $200, 20 acres,
              south end of W 1/2 NW 1/4 sec. 1, T6, R18.
   Notes:     Brought in only because it names a Rice and a Stephen Radcliff beside Pickett
@@ -132,21 +132,29 @@ THE REST OF THE HITS (read whole, nothing on Ruth's family; no image wanted)
 ITEM 2. HOW GEORGE W. RICE JR. CAME BY HIS LAND
 
 ------------------------------------------------------------------------------------------
-deed-1857-jackson-rice/1.jpg, 2.jpg       [item 2a]  NOT YET IN REPO
+deed-1857-jackson-rice-cheeseman/1.jpg, 2.jpg, 3.jpg   [items 2a and 2b, one folder]
   Collection: Jackson County, Ohio, deeds (Full-Text)
-  Images:    https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-3  (image 375, start)
-             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-J  (image 376, end)
+  Images:    https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-3  (1.jpg, image 375)
+             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-J  (2.jpg, image 376)
+             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-6  (3.jpg, image 377)
              of 689, "Jackson. Deeds 1856-1857, 1857-1859", DGS 008330650
-  Where:     book pp. 61-62 [?], margin "Deed. Ralph Hatten to Ruth Cheeseman"
-  What:      Ralph Hatten [Hatton, Hatter in the transcript], "as Guardian of
-             George W Rice minor and orphan son of George Rice late of the County and State
-             aforesaid deceased", by an order of the Probate Court of 12 Jan 1857 to sell "the
-             interest of the said George W Rice" in the land below; sale reported to and
-             confirmed by the court 27 Mar 1857 [the Gallia copy says 23 Mar]; for $1,440 paid
-             by Ruth Cheeseman of Jackson County, the purchaser, conveys to her all George W.
-             Rice's interest in:
+  [Two deeds that run on from one to the next: the guardian's deed (2a) starts at the foot of
+  p. 61 (1.jpg) and ends on p. 62 (2.jpg), where the Cheeseman-to-Jones deed (2b) starts; 2b
+  ends on p. 64 (3.jpg). One folder, so image 376 is not stored twice.]
+
+  [item 2a] Guardian's deed
+  Where:     book pp. 61-62, margin "Ralph Hatton / To Deed / Ruth Cheeseman"
+  What:      [checked on image] "Ralph Hatton of the County of Jackson and State of Ohio as
+             Guardian of George W Rice minor and orphan son of George Rice late of the County
+             and State aforesaid deceased by virtue of an order of the probate Court of said
+             County made on the 12th day of January AD 1857", authorising him "to sell the
+             interest of the said George W Rice in the real estate hereinafter described";
+             sale "duly made and reported to and confirmed by said Court on the 23rd day of
+             March AD 1857" [the AI transcript misread 27th]; for $1,440 paid by "Ruth
+             Cheeseman of said Jackson County Ohio the purchaser", conveys to her all George
+             W. Rice's interest in:
                - E 1/2 SE 1/4 sec. 24, T7, R17, 77 acres, Jackson County;
-               - NW 1/4 NW 1/4 sec. 30, T6, R16, 48.05 [?] acres, Gallia County;
+               - NW 1/4 NW 1/4 sec. 30, T6, R16, "forty Eight and 10/100 acres", Gallia County;
                - about 10 acres on Indian Creek, from the SW corner of sec. 19, T6, R16, east
                  to a small maple on the first small branch, down it to main Indian Creek, up
                  the creek to the quarter line, west, then south to the start.
@@ -159,20 +167,16 @@ deed-1857-jackson-rice/1.jpg, 2.jpg       [item 2a]  NOT YET IN REPO
              the deed does not say that either. The petition itself (Probate Court, Jan 1857)
              is still to be found.
 
-------------------------------------------------------------------------------------------
-deed-1857-jackson-cheeseman/1.jpg, 2.jpg  [item 2b]  NOT YET IN REPO
-  Images:    https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-J  (image 376, start)
-             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSTC-2STH-6  (image 377, end)
-             "Jackson. Deeds 1856-1857, 1857-1859", DGS 008330650, book pp. 62-64
+  [item 2b] Cheeseman to Jones (same folder, 2.jpg and 3.jpg, book pp. 62-64)
   What:      William Cheeseman and Ruth his wife, of Jackson County, to Thomas G. Jones of the
              same, $1,070, E 1/2 SE 1/4 sec. 24, T7, R17, 77 acres. Ruth releases dower.
   Dated:     25 Mar 1857; witnesses Ralph Hatton [Hatten], James Hunt; ack. before James Hunt
              J.P. the same day; received 15 Dec 1857, recorded 11 Jan 1858
   Notes:     Signed two days after the guardian's deed. Ruth sold the whole tract, not a life
-             interest. Same image 376 as item 2a, so 2a and 2b share a picture.
+             interest.
 
 ------------------------------------------------------------------------------------------
-deed-1857-gallia-cheeseman.jpg            [item 2c]  NOT YET IN REPO
+deed-1857-gallia-cheeseman.jpg            [item 2c]
   Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSL4-6SX3
              image 533 of 696, "Gallia. Deeds 1855-1859"; DGS not recorded; book pp. 288-289 [?]
   What:      Two Gallia County records on one image:
@@ -196,22 +200,23 @@ NOT THE SAME MAN                          [item 2d]  list only
 ITEM 5. EARLIER RECORDS OF RUTH'S FAMILY (found while searching "Philbrick")
 
 ------------------------------------------------------------------------------------------
-court-1834-jackson-philbrick/1.jpg, 2.jpg [item 5a]  NOT YET IN REPO
+court-1834-jackson-philbrick/1.jpg, 2.jpg [item 5a]
   Collection: Jackson County, Ohio, Supreme Court record (Full-Text)
-  Images:    https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSK7-Y9Q6-B  (image 145)
-             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSK7-Y9QD-N  (image 146)
+  Images:    https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSK7-Y9Q6-B  (1.jpg, image 145)
+             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSK7-Y9QD-N  (2.jpg, image 146)
              of 595, "Jackson. Complete Probate Records 1818-1847, 1847-1851, Court Records
              1818-1847, 1847-1851, 1852-1858"; DGS not recorded
   Where:     book pp. 255-257, April Term 1834
   Case:      Ruth Philbrick v. Benjamin Philbrick, petition for divorce
-  What:      Filed 26 Dec 1833. Ruth, "now and for two years last an actual resident of said
-             County", married Benjamin Philbrick on 4 May 1818 [so the transcript; the
-             marriage record in hand gives 3 May] in Gallia County. He took to drink and
+  What:      Filed 26 Dec 1833. Ruth, "now and for more than two years last an actual resident
+             of said County" ["more than" written above the line], married Benjamin Philbrick
+             "on the fourth day of May Anno Domini Eighteen hundred and eighteen" in Gallia
+             County [checked on image; the marriage record in hand gives 3 May]. He took to drink and
              gambling, left and returned several times over four or five years, persuaded her
              to move "on the canal" in Fairfield County, where she cooked for the canal hands,
              and three years ago last June [June 1830] left her there, and is living at or
-             about Louisville, Ky. Two children living: "Familie" [Pamelia] and Sarah Ann,
-             aged 14 and 3. He owned a fractional lot with a frame house at Baltimore, west
+             about Louisville, Ky. Two children living [checked on image]: "Pamilia and Sarah
+             Ann, aged Fourteen & three years of age". He owned a fractional lot with a frame house at Baltimore, west
              side of the canal, Fairfield County, worth $200, which he has made some transfer
              of to one John Pugh. She asks for divorce, alimony and dower. Summons returned
              not found. Heard at Jackson 10 Apr 1834 and reserved; decided at Gallia County,
