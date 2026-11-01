@@ -1,7 +1,7 @@
 CITATIONS - Marvin records, batch 2 (FamilySearch, searched 1 Nov 2026)
 
 Folder: inbox/marvin-records-2026-11-01b/
-2 files (2 records). All images are FamilySearch's full-size originals (dist.jpg).
+3 files (3 records). All images are FamilySearch's full-size originals (dist.jpg).
 
 This batch follows batch 1 (inbox/marvin-records-2026-11-01/, already filed into the gallery:
 the 1830 Marvin-Fletcher deed witnessed by Ruth Philbrick, the 1833-34 Philbrick divorce, the
@@ -13,6 +13,12 @@ from FamilySearch's AI transcripts and are marked [?] where doubtful.
 KEY POINTS
 - STILL NOTHING SETTLES IT. No record found calls Ruth Pickett Marvin's daughter or heir, or
   any of her children his grandchild.
+- STRONG SUPPORT, 1880 census: "Cheesman Ruth", 78, widowed, Northfield City, Rice County,
+  Minnesota, born Ohio; her FATHER born "Conn", her MOTHER born "Va." [checked on image].
+  In the 1850 census Pickett Marvin is born "Ct." and his wife Mary "Va." (item 7). The
+  pairing fits Pickett and Mary exactly. It is a census answer, given by an unknown
+  informant, and names no one, so it supports the link; it does not prove it. With her in
+  1880: grandson "Tripp Burtie", 9.
 - 1850 census: Ruth was not in Pickett's household. She was "Ruth Rice", 47, in Madison
   Township, Jackson County, in the house of George Rice, 69, farmer, born Virginia, real
   estate $1,500, with George Rice, 11, and Eliza Howell, 12. So her husband George Rice was
@@ -93,6 +99,30 @@ census-1850-madison-rice.jpg              [item 7]
              Eliza is not obviously hers.
 
 ==========================================================================================
+ITEM 4/7. CENSUS, 1880
+
+------------------------------------------------------------------------------------------
+census-1880-northfield-cheesman.jpg       [items 4 and 7]
+  Collection: United States, Census, 1880
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ9L-L38 (Ruth Cheesman)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GYB6-945C
+             NARA T9, roll 632
+  Header:    Schedule 1, Northfield City, Rice County, Minnesota; Supervisor's Dist. 2,
+             Enumeration Dist. 136, page 21 (stamped 272 A); enumerated 8 June 1880 by
+             D. H. [?] Kelley
+  Where:     lines 1-2 (dwelling 198 [?], family 208), top of the page
+  Transcription [checked on image] (name | color | sex | age | relationship | widowed |
+             occupation | birthplace | father's birthplace | mother's birthplace):
+    1  Cheesman Ruth  | W | F | 78 |         | widowed | Keeping house | Ohio | Conn | Va.
+    2  Tripp Burtie   | W | M |  9 | Gr. Son |         | At School     | Minn | Ohio | Ohio
+  Notes:     Age 78 fits Ruth Marvin, born June 1802; Ohio birth fits. Father's and
+             mother's birthplaces, Connecticut and Virginia, match Pickett Marvin (born
+             Lyme, Conn.; "Ct." in 1850) and Mary (Polly) Warth (born "Va." in 1850). The
+             census does not name the parents and the informant is not known. Burtie Tripp,
+             grandson, both parents born Ohio: the child of one of Ruth's children (a
+             daughter, from his surname), not yet identified.
+
+==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
 
 1. Done in batch 1. Still not read: the opening of the c.1837 Pickett-to-Timothy deed (image
@@ -140,7 +170,8 @@ NOT FOUND OR NOT VIEWABLE (no file)
    Cheeseman, death 1890-1892, Minnesota). The Rice County register was not browsed.
    Indexed censuses found, not opened: Minnesota territorial census 1857 (Ruth Cheeseman,
    b. 1803 Ohio); U.S. 1860, Waterford, Dakota Co. (Ruth Cheesman, b. 1802 Ohio); Minnesota
-   1865, Green Vale, Dakota Co.; U.S. 1870 and 1880, Northfield, Rice Co. (b. 1802 Ohio);
+   1865, Green Vale, Dakota Co.; U.S. 1870, Northfield, Rice Co. (b. 1802 Ohio) [1880 now
+   brought in, above];
    Minnesota 1875, Northfield City (b. 1801 Ohio). Full-text "Ruth Cheesman" also hit Rice
    County, Minn., deeds 1868-1871 and 1874-1878, not read.
 5. Philbrick estate and guardianship: none (Benjamin was divorced, not dead, in 1834; batch 1).
