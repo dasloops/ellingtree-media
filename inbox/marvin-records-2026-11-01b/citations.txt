@@ -1,0 +1,152 @@
+CITATIONS - Marvin records, batch 2 (FamilySearch, searched 1 Nov 2026)
+
+Folder: inbox/marvin-records-2026-11-01b/
+2 files (2 records). All images are FamilySearch's full-size originals (dist.jpg).
+
+This batch follows batch 1 (inbox/marvin-records-2026-11-01/, already filed into the gallery:
+the 1830 Marvin-Fletcher deed witnessed by Ruth Philbrick, the 1833-34 Philbrick divorce, the
+1857 guardian's deed and Cheeseman sales, the 1839 Rice-Radcliff deed). It holds the 1850
+census pages and the results of the deeper search for a record calling Ruth Pickett Marvin's
+daughter or heir. Readings marked [checked on image] were read on the image; the rest come
+from FamilySearch's AI transcripts and are marked [?] where doubtful.
+
+KEY POINTS
+- STILL NOTHING SETTLES IT. No record found calls Ruth Pickett Marvin's daughter or heir, or
+  any of her children his grandchild.
+- 1850 census: Ruth was not in Pickett's household. She was "Ruth Rice", 47, in Madison
+  Township, Jackson County, in the house of George Rice, 69, farmer, born Virginia, real
+  estate $1,500, with George Rice, 11, and Eliza Howell, 12. So her husband George Rice was
+  alive in July 1850 and died between then and her remarriage in Feb 1853. He owned land
+  himself, which makes it likely that the boy's land in 1857 was his father's, not a gift
+  from Pickett.
+- In the same census Pickett ("Picket Marvin", 82) has NO real estate entered; Dr. Timothy
+  Marvin, three houses on, has $4,600. Pickett had deeded his farm to Timothy in 1840. There
+  may have been no land left for heirs to divide, which would explain why no heirs' deed or
+  partition turns up.
+- Pickett's death date: the Find a Grave index (not checked against the stone) gives
+  8 June 1852, not June 1853. Six Brothers Cemetery, Jackson County.
+  https://www.familysearch.org/ark:/61903/1:1:QV2R-HYKS
+- No partition 1851-1856: the index to Common Pleas Journal G has no case under Marvin,
+  Cheeseman, Philbrick or Radcliff.
+- The Jackson County Probate Court's records for the 1850s are not filmed at all (see NOT
+  FOUND, 2). George Rice's estate (1850-53), the 1857 guardian's petition, and any
+  administration of Pickett's estate can only be had from the court.
+
+==========================================================================================
+OTHER RECORDS OF RUTH'S FAMILY SEEN, no image wanted        [item 5, list only]
+- Gallia County marriages: "Benjamin Philbrick and Ruth Marvin, of lawful age", married 3 May
+  1818 by David C. Sayre J.P., return dated 4 May. No consent or parent noted. (The record
+  already in hand.) Image 49, "Gallia. Marriage Records 1803-1843, 1843-1862".
+  https://www.familysearch.org/ark:/61903/3:1:33SQ-GRMD-S223
+- Gallia County marriages: Stephen Ratliff [Radcliff] and "Permelia Philbrick", married 16
+  Apr 1835 by licence, by George Payne J.P. [? the transcript is unclear which J.P.]. Image
+  146, same film. https://www.familysearch.org/ark:/61903/3:1:33SQ-GRMD-SL69
+- Gallia marriages performed by Pickett Marvin J.P. at Letart, 1809-1815 (Beebe-Persons
+  1809; Scott-Weaver 1814; Wolf-Batz, Hayman-Willbarger, Statts-Evans, Clark-Sayre 1815):
+  images 17, 31, 33. They show him at Letart, nothing more.
+
+==========================================================================================
+ITEM 7. CENSUS, 1850
+
+------------------------------------------------------------------------------------------
+census-1850-bloomfield-marvin.jpg         [item 7]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MXQF-28M (Picket Marvin)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-DHW4-WX2
+             NARA M432, roll 698
+  Header:    Schedule I, Bloomfield Township, Jackson County, Ohio, enumerated 18 July 1850 by
+             Thos. R. Matthews; page 233 (stamped 465)
+  Where:     lines 2-4 (dwelling 100), and lines 21-25 (dwelling 104)
+  Transcription [checked on image] (dwelling-family | name | age | sex | occupation |
+             real estate | birthplace):
+    2  100-100 Picket Marvin   | 82 | M | Farmer    |       | Ct.
+    3          Mary Marvin     | 76 | f |           |       | Va.
+    4          Matilda Fletcher| 14 | f |           |       | O  [attended school]
+   21  104-104 Timothy Marvin  | 37 | M | Phicician | 4600  | O
+   22          Matilda Marvin  | 34 | f |           |       | O
+   23          Watson Marvin   |  7 | M |           |       | O  [attended school]
+   24          Eberle Marvin   |  4 | M |           |       | O
+   25          Marietta Marvin | 6/12 | f |         |       | O
+  Notes:     Pickett's real-estate column is blank. Ruth is not in the household.
+
+------------------------------------------------------------------------------------------
+census-1850-madison-rice.jpg              [item 7]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MXQF-Q16 (Ruth Rice)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-DHW4-WX9
+             NARA M432, roll 698
+  Header:    Schedule I, Madison Township, Jackson County, Ohio, enumerated 31 July 1850 by
+             Thomas R. Matthews; page 247 (stamped 493)
+  Where:     lines 13-16 (dwelling 289)
+  Transcription [checked on image]:
+   13  289-289 George Rice     | 69 | M | farmer | 1500 | Va.
+   14          Ruth Rice       | 47 | [sex left blank] |  |  | O
+   15          George Rice     | 11 | M |        |      | O  [attended school]
+   16          Eliza Howell    | 12 | f |        |      | O
+  Notes:     Ruth 47 is about right for a birth on 1 June 1802 (the census day was 1 June
+             1850, her 48th birthday). George, 11, is George
+             W. Rice, born 1839, the ward of 1857. This is Ruth's second husband, George
+             Washington Rice, married 1834: he was alive in July 1850, so "dead by 1853"
+             means he died between July 1850 and Feb 1853. He was a landowner (real estate
+             $1,500). Eliza Howell, 12, is unidentified; Parmelia's second husband was a
+             Howell, but Parmelia was married to Stephen Radcliff from 1835 to 1847, so
+             Eliza is not obviously hers.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Done in batch 1. Still not read: the opening of the c.1837 Pickett-to-Timothy deed (image
+   121 of "Jackson. Deeds 1836-1840") and the witness lines of the 1839 Elias Long deed
+   (image 381).
+2. Guardian's petition, Ralph Hatten v. George W. Rice et al., Probate Court, Jan 1857: NOT
+   ONLINE. The FamilySearch catalog for Jackson County has no Probate Court journals or
+   estate records for the 1850s: under "Probate records" it lists only "Wills (Jackson
+   County, Ohio), 1819-1885", "Jackson County, Ohio administrators, executors and
+   guardians dockets, 1879-1924" and a general index 1896-1913. The "Court records 1852-1858"
+   film is the District Court. So the petition (order 12 Jan 1857, sale confirmed 23 Mar
+   1857), and George Rice's own estate (he died between July 1850 and Feb 1853), have to be
+   asked for at the Jackson County Probate Court.
+   Deeds INTO the family for E 1/2 SE 1/4 24-7-17 and the two Gallia tracts: none found.
+   Full-text searches tried: "George W. Rice" (Jackson, Gallia), "Rice George", "Rice George
+   W", "Ruth Rice", "Rice Ruth" (Jackson), "Ruth Cheeseman", "Ruth Cheesman", "William
+   Cheeseman", "Cheeseman" and "Cheesman" (Jackson), and the boundary phrase "small maple on
+   the first small branch" (2 results: the 1857 Gallia Cheesman-Jones deed of batch 1, and Isaac Newton Jones and wife to Daniel T.
+   Jenkins, 7 Apr 1880, $3,000, all three tracts, which recites no earlier title; image 146,
+   "Jackson. Deeds May 1879-June 1881", 3:1:3Q9M-CS1S-598M-C). The deed indexes 1816-1877
+   (film "Jackson. Deed Indexes 1816-1877") are online; their OCR is too scrambled to search
+   by name, and I did not browse the R grantee pages. That is the next place to find how
+   George Rice acquired the 77 acres.
+3. Pickett Marvin's estate: full-text searches "heirs of Pickett Marvin" (0), "Pickett
+   Marvin" deceased (0), Pickett Marvin estate (0), Marvin partition (0), Marvin heirs (0),
+   "Mary Marvin" and "Marvin Mary" (Jackson; only the deeds already listed, nothing after
+   1851). No deed by his heirs and no partition turned up.
+   Common Pleas Journal G, 1851-1856 (DGS 8140061, "Jackson. Diaries 1851-1856, 1816-1822"):
+   its own index (images 8-21) was read through, including the M continuations on images
+   19 and 20. No case under Marvin, Cheeseman, Philbrick or Radcliff. Rice appears once:
+   "Farrar James v. G. W. Rice & J. H. McClintick", journal p. 528 (not read; probably the
+   other George W. Rice, who had a wife Cynthia in 1853; see batch 1).
+   Probate Court: not filmed for these years (see 2). Wills 1819-1871: of the five "Timothy
+   Marvin" hits, the two read are Timothy as a witness (will of William Garvin, proved 20 Jun
+   1863, image 203; codicil of F. M. Clark, proved 15 Jul 1867, image 255, where E. W.
+   Marvin witnessed the will). Three not read: 3:1:3QS7-89ML-81Q1, 3:1:3QSQ-G9ML-89MQ-9,
+   3:1:3QS7-L9ML-8183.
+   Timothy Marvin's deeds 1855-1873 read for a deed from an heir: none (Ratcliff to Marvin
+   1854; Stephenson to Marvin 1859; Marvin to Clark 1859; Marvin to Johnson 1855; Denney to
+   Marvin and Marvin to Ketstaff 1869).
+   Note from the 1850 census (item 7): Pickett had no real estate entered in 1850, having
+   deeded his farm to Timothy in 1840. There may have been no land left for heirs to divide,
+   which would explain why no heirs' deed or partition exists.
+4. Ruth's death, Minnesota 1891: no indexed death record found (record search, Ruth
+   Cheeseman, death 1890-1892, Minnesota). The Rice County register was not browsed.
+   Indexed censuses found, not opened: Minnesota territorial census 1857 (Ruth Cheeseman,
+   b. 1803 Ohio); U.S. 1860, Waterford, Dakota Co. (Ruth Cheesman, b. 1802 Ohio); Minnesota
+   1865, Green Vale, Dakota Co.; U.S. 1870 and 1880, Northfield, Rice Co. (b. 1802 Ohio);
+   Minnesota 1875, Northfield City (b. 1801 Ohio). Full-text "Ruth Cheesman" also hit Rice
+   County, Minn., deeds 1868-1871 and 1874-1878, not read.
+5. Philbrick estate and guardianship: none (Benjamin was divorced, not dead, in 1834; batch 1).
+   George Rice's estate (1850-1853), Radcliff's estate, Hatten's guardian bond: Probate
+   Court, not online (see 2).
+6. Dr. Timothy Marvin's estate (1875): not searched beyond the will hits above. Will Book
+   1819-1871 ends before his death.
+7. 1850 done (two pages, above). 1820, 1830, 1840 not done; the 1840 index entry is
+   https://www.familysearch.org/ark:/61903/1:1:XHRN-X4J.
