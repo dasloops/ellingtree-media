@@ -1,0 +1,196 @@
+CITATIONS - Heggestad (Hemsedal, Norway) farm records, batch 1 (Digitalarkivet, searched 2026-11-01)
+
+Folder: inbox/heggestad-records-2026-11-01/
+3 files. All images are Digitalarkivet's full-size originals, downloaded from
+media.digitalarkivet.no/image/<id> (no login needed; free and public). Nothing came from
+FamilySearch, so no arks.
+
+Subject: the farm Heggestad ("Hæggestad"), Grøndalen, Hemsedal, Buskerud, Norway.
+gnr. 86, bnr. 9, Hemsedal (kommune 0618 then, 3326 today). Address today: Grøndalsvegen 777,
+3560 Hemsedal. OpenStreetMap node 9620052403 (name "Heggestad", place=farm,
+60.9295861 N, 8.3984445 E, stedsnr 372613).
+Family in question: Halvor Trondsen Heggestad (b. 17 Dec 1885, d. Hemsedal 21 Aug 1975),
+unmarried, owner from about 1920; his parents Trond Halvorsen (1850-1894) and Kari
+[Ingvars/Ingvalds]datter (b. 1859), who married secondly Syver (Sjugurd) Larsen of Stunde;
+his sisters Anne (b. 1887), Kari (b. 1888), Margit (b. 1890); half-sisters Mari and
+Margit Syversdatter ("Margit Heggestad", b. 8 Dec 1900, d. 17 Jun 1982).
+
+KEY POINTS
+- Heggestad's own folio in the Hemsedal land register (panteregister) is found: gnr. 86
+  bnr. 9, "Hæggestad", løpenr. 669b, split off from løpenr. 669 Medgaarden. Side 315.
+- 1884: the widow Anne Nilsdatter Haggestad deeded the farm to her son Trond Halvorsen.
+- 1897: after Trond's death the estate settlement laid the farm out to his widow Kari
+  (then remarried to Syver Larsen), with sums secured on it for the children Halvor,
+  Anne, Kari and Margit. This names all four of Trond's children, matching the family.
+- There is NO deed to Halvor around 1920 on the folio. His title is registered only in
+  1958, by a declaration ("erklæring") that Halvor T. Heggestad holds grunnbok title.
+- The folio is stamped "Overført til grunnboken": from 1958 the property is kept in the
+  grunnbok, which is not on Digitalarkivet. So the transfers after Halvor's death (1975)
+  and Margit's death (1982) are NOT in these images and remain unknown.
+- The register calls Trond, Syver and Halvor "Vestenfor" as well as "Heggestad".
+  "Vestenfor" looks like a by-name used for this holding (meaning "west of");
+  not resolved.
+- Every owner shown 1884-1958 is Halvor's direct line (grandmother Anne, father Trond,
+  mother Kari, Halvor). No outside owner appears before 1958.
+
+==========================================================================================
+
+land-register-1884-1958-hemsedal-heggestad.jpg            [the farm's folio]
+  Collection: Hallingdal sorenskriveri, Tinglysing, Panteregistre, Rekke IX: Hemsedal
+  Volume:    AV/SAKO-A-121/G/Gb/Gbi/L0002, Panteregister nr. IX 2 (Hemsedal hovedregister,
+             registrations from 01.01.1861; authorised 05.03.1855 and 30.01.1894)
+  Source:    https://www.digitalarkivet.no/source/14715
+  Image:     https://media.digitalarkivet.no/view/14715/349  (image 349 of 583, side 315)
+             original: https://media.digitalarkivet.no/image/eec02701-fdcb-4f35-aa4e-869300148e0a
+  Held by:   Nasjonalarkivet (Kongsberg)
+  Header:    "Hemsedals Annex. Gnr. 86 Brnr. 9. Løbe No. 669b, Hæggestad, af Skyld [gl./ny,
+             figures not read], frakommen Løbe No. 669, Medgaarden, under Mtr. No. gl. 188"
+  Transcription. Left column = entry; then date registered; then book/folio (protokoll/fol.).
+  Old hand; [?] = doubtful. Mortgages are condensed.
+
+    Skjøde fra Enken Anne Nilsdatter Haggestad til Sønnen Trond Halvorsen paa d. Ed.
+      for 600 Kr. og Livøre [?] til Selgeren efter en derom oprettet Kontrakt
+      dat. 13 Novbr. 1884.                                   | 1884 Novb. 25 | 16 / 253
+      [Deed from the widow Anne Nilsdatter Haggestad to her son Trond Halvorsen, 600 kr.
+      plus support for the seller.]
+
+    [Three contracts, all grouped under one registration: about a seter/ground lease
+      dated 22 [?] 1883, and two about upkeep of a road [?] dated 4 and 5 Mai 1887.
+      Not fully read.]                                       | 1889 Novb. 22 | 17 / 438-440 [?]
+
+    Skifte i afd. Trond Halvorsen Vestenfors og efterl. Hustru Kari Ingvaldsdatter's [?
+      could be Ingvarsdatter] Fællesbo, hvorunder d. ed. m. fl. for 6800 Kr. er udlagt til
+      Enken, der er gift med Syver Larsen [surname unclear, possibly Stunde],
+      som panteheftelse at svare [?] ... til Fællesbørnene Halvor, Anne, Kari og Margit.
+      Sluttet 18 Septbr. 1897.  Cfr. fl. 432 og 448.         | 1897 Septbr. 25 | 19 / 590
+      [Estate settlement after Trond Halvorsen (Vestenfor) and his widow Kari. The farm is
+      laid out to the widow, now married to Syver Larsen, with an amount secured for the
+      four children. A struck-through note in the right margin reads "Slettet ... 1925 [?]",
+      apparently the children's security cancelled.]
+
+    Veistykke-inddelings-forretning ... [road-section division] Dat. 17 Juni 1903.
+                                                             | 1904 Mars 5 | 21 / 1146
+    Kommissionsforretning ... [about Grøndalen and fencing by the river] Dat. 29 Febr. 1904 [?].
+                                                             | 1906 Decbr. 1 [?] | 23 / 238
+    Obligation fra Syver Larsen Vestenfor [?] til Hemsedals Sparebank ... med Pant i d. ed.
+      og m. 86 [?] ... dat. 14 [?] Marts 1908.               | 1908 Marts 28 | 23 / 1050
+    Kontrakt ang. deling av gjerdeholdet mellem Grøndalens og Storehaugs [?] sæterlag,
+      dat. 7 Mai 1902.                                       | 1909 Decbr. 18 | 24 / 661
+    Utskiftning av dyrkningsmark i felles havnegang, sl. 23 Jul. 1919.
+                                                             | 1920 Febr. 21 | [?] / 242
+    Skadesløsbrev fra Halvor T. Heggestad til Hemsedals Kommune for 1300 [?] Kr.
+      dat. 15 Novbr. 1921.                                   | 1922 Mars 18 | 32 / 734
+    Obligasjon fra Halvor T. Vestenfor til Hemsedals Sparebank for 5200 Kr.
+      dat. 31 Mars 1928.                                     | 1928 April 11 | 34 / 1201
+    Skadesløsbrev fra Halvor T. Heggestad til Hemsedals Meieri for 600 Kr. med transport [?]
+      til Hemsedals Sparebank, dat. 21 Januar 1930.          | 1930 Mars 5 | 38 / 232
+    Obligasjon fra Halvor T. Vestenfor til Hemsedals Sparebank for 1800 Kr.
+      dat. 20 Decbr. 1930.                                   | 1931 Januar 7 | 38 / 448
+    Obligasjon fra Halvor T. Heggestad til Hemsedals [Sparebank ?] ... [amount not read]
+                                                             | 1932 [?] | 38 / 962 [?]
+  Right-hand page (continuation):
+    Utskiftning av Grøndalens utmark, sl. 9 Aug. 1935.       | 22/1 1936 | 46
+    Overutskiftning av [place not read] ... 1937.            | 1937 | 131 [?]
+    Utskiftning av [place not read, "Buledalen"?] ... 1938, 1939. | 1939 | 52 [?]
+    Erklæring om at Halvor T. Heggestad har grunnbokshjemmel til eiend. m. fl.
+      dat. 7/9 [?] og 9/10 1958.                             | 1958 (dagbok 1707/1958 [?]) | 112 / 711 [?]
+    [Stamp:] Overført til grunnboken
+  Notes: The right-hand margin also has later notes on several mortgages (names of
+    officials, "avlyst" / cancellation dates). Not transcribed. The 1958 declaration is
+    the only registration of Halvor's title found. Nothing later is entered here.
+
+land-register-index-hemsedal-gnr86.jpg                     [finding aid, gnr. 86]
+  Volume:    same as above (L0002), typed index "register etter gårdsnr." inserted at the front
+  Image:     https://media.digitalarkivet.no/view/14715/18  (image 18 of 583, index page 17)
+             original: https://media.digitalarkivet.no/image/0e681d1d-ca87-4866-b946-e53b1352adbe
+  Transcription (Gnr | Bnr | Gårdsnavn | Bruksnavn | Side), the gnr. 86 lines:
+    86 | 6  | Grøndalen | Træsmoen               | 368
+    86 | 7  | Grøndalen | Grøndalen søndre       | 310
+    86 | 8  | Grøndalen | Medgaarden             | 314
+    86 | 9  | Grøndalen | Hæggestad              | 315
+    86 | 10 | Grøndalen | Stakkestøen            | 432
+    86 | 11 | Grøndalen | Grøndalen              | 316
+    86 | 12 | Grøndalen | Grøndalshaugen         | 317
+    86 | 13 | Grøndalen | Grøndalshaugen øvre    | 318
+    86 | 14 | Grøndalen | Ager m.v. Fra Grøndalshaugen | 319
+    86 | 15 | Grøndalen | Sæter Lien             | 320
+    86 | 16 | Grøndalen | Heggeslaatten          | 321
+    86 | 17 | Grøndalen | Botten øvre og nedre   | 322
+    86 | 18 | Grøndalen | Hjelmen                | 364
+    86 | 19 | Grøndalen | Enden                  | 376
+    86 | 20 | Grøndalen | Hjelmen nordre         | 449
+    86 | 21 | Grøndalen | Värstølen [?]          | 458
+    86 | 22 | Grøndalen | Doksæteren             | 459
+    86 | 23 | Grøndalen | Vente og Ventefossen m.v. | 460
+    86 | 24 | Grøndalen | Stunde                 | 461
+    86 | 25 | Grøndalen | Stundevolden           | 462
+    86 | 26 | Grøndalen | Hjelmebraaten          | 509
+    (bnr. 1-5 are on the previous index page, image 17, not downloaded.)
+  Notes: 86/8 Medgaarden (the cousins' farm) and 86/24 Stunde (Syver Larsen's farm) are
+    both bnr. of the same gnr. 86 Grøndalen. 86/16 "Heggeslaatten" (Heggestad meadow?)
+    may be connected to Heggestad; its folio (side 321, image 355) was not read.
+
+land-register-index-1914-hemsedal-gnr86.jpg                [finding aid, later parcels]
+  Volume:    Hallingdal sorenskriveri, AV/SAKO-A-121/G/Gb/Gbi/L0003, Panteregister nr. IX 3
+             (Hemsedal supplement, authorised 20.05.1914; gnr. index at the back)
+  Source:    https://www.digitalarkivet.no/source/14716
+  Image:     https://media.digitalarkivet.no/view/14716/341  (image 341 of 345)
+             original: https://media.digitalarkivet.no/image/21e26ec2-19f3-44cd-bd32-a45c86b7070d
+  Contents:  handwritten index of parcels added after 1914, gnr. 75-88. For gnr. 86 it lists
+             bnr. 26 upward (Hjelmebraaten etc.), with folio numbers; bnr. 9 is NOT in it.
+  Notes:     Kept as the place to look for parcels split from gnr. 86 between 1914 and the
+             change to the grunnbok. Which (if any) came from bnr. 9 is not stated here;
+             each parcel's own folio would say "frakommen ...". Not transcribed in full.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Owner today, and transfers since 1975 (Kartverket, Se eiendom / eiendomsregisteret).
+   seeiendom.kartverket.no redirected to eiendomsregisteret.kartverket.no and showed a blank
+   page on 2026-11-01. Norgeskart (also Kartverket) was blank too. Not obtained. Try again.
+2. Transfers after the deaths of 1975 and 1982. In the grunnbok from 1958 on; no Hemsedal
+   grunnbok found on Digitalarkivet. The answer will be in Kartverket's register (item 1).
+3. Gol og Hemsedal lensmann, dødsfallsprotokoll nr. 8, 1973-1982 (AV/SAKO-A-510/H),
+   https://www.digitalarkivet.no/source/55418. Digitised (1975 section from image 114,
+   1982 from image 522) but "klausulert": Digitalarkivet blocks death records from 1935 on
+   online (they may contain closed-adoption information). Not viewable. Would name heirs.
+4. Graves, Slekt og Data Gravminner (Halvor 1885-1975, Margit 1900-1982):
+   blocked by a Cloudflare human check. Not searched.
+5. Ola Rudvin (ed.), Hemsedals slektshistorie 1693-1975 (Hemsedal kommune, 1976),
+   pp. 267, 271, 355. nb.no item:
+   https://www.nb.no/items/60f05aad1fb930f08fee6270001b50d7
+   "Tilgang for norske IP-adresser" (Norway only). Catalogue: main author Hans Flaten
+   (1858-1930), contributor Ola Rudvin (1899-1978); first edition 1925.
+6. Norske gardsbruk: Buskerud fylke 3 (1995), p. 214. Vol. 3 not found in nb.no search;
+   vols 1 and 4 are Norway-only, so vol. 3 presumably is too.
+7. Hallingdølen (all nb.no, "Tilgjengelig etter bestemte vilkår", not opened):
+   - 17 Dec 1955, p. 4, hit on "Heggestad"
+   - 22 Aug 1975, hit on "Heggestad Hemsedal" (p. 1 per the search):
+     https://urn.nb.no/URN:NBN:no-nb_digavis_hallingdolen_null_null_19750822_37_124_1
+   - 22 Jun 1982, p. 4, hit on "Margit Heggestad"
+   - 6 Jul 1982, p. 4, hit on "Margit Heggestad's"
+   Newspaper text is copyrighted: if opened later, transcribe the lines in citations,
+   don't upload images.
+8. NIBIO Gårdskart for 3326/86/9 (land use): the property lookup never finished loading.
+9. The farm today. Google satellite (date unknown) shows one light-roofed building labelled
+   "777" with two small dark-roofed outbuildings just north, at a bend of Grøndalsvegen;
+   the clearing is partly grown in with young spruce; meadows nearby look mown, but which
+   are 86/9's is unknown. No Street View there. Imagery not uploaded (Google's copyright).
+   Farmed, home or holiday property: undetermined.
+
+==========================================================================================
+FOR THE NEXT SESSION
+
+- Open questions, in order of value:
+  a. Who owns 86/9 now, and every tinglyst document since 1958 (Kartverket, item 1). This
+     settles whether the farm is still in the family.
+  b. Who inherited from Halvor (1975), and whether Margit Heggestad held it 1975-1982.
+     Kartverket's document list should show a skifteattest or hjemmel for each.
+  c. Whether 86/16 Heggeslaatten was split from Heggestad (its folio: L0002 side 321,
+     https://media.digitalarkivet.no/view/14715/355).
+  d. What "Vestenfor" refers to.
+  e. Kari's patronymic: the register's "Ingvaldsdatter [?]" vs. the family's "Ingvarsdatter".
+- Kinship test for any later owner: a Heggestad, Fekene (Fekjo), Flaget (Fløgo),
+  Medgarden, Larsen (Stunde) or Syversdatter line.
+- Current owners will be living people: record only what the register shows, and keep their
+  names out of this public repo.
