@@ -1,0 +1,74 @@
+CITATIONS - Mollie Frances (Holbrook) Pfeiffer records, batch 1 (FamilySearch and other sites, searched 2 Nov 2026)
+
+Folder: inbox/mollie-records-2026-11-02/
+[KEY POINTS AND FILE COUNT TO FOLLOW]
+
+==========================================================================================
+
+census-1950-coupeville-pfeiffer.jpg              [item 2]
+  Collection: United States, Census, 1950
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6X14-8Y6H (Frances H Pfeiffer)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QHK-9QHW-F91N-D
+             image 17 of 17, DGS 108913531 ("Island, Washington, United States records")
+  Held by:   National Archives and Records Administration
+  Header:    Form P1, 1950 Census of Population and Housing. State: Wash. County: Island.
+             Place: Coupeville. E.D. 15-11. Sheet no. 74. Date completed [?]/4/51 [?].
+  Where:     lines 1-6, at the top; the rest of the sheet is blank.
+  Transcription (columns 1-3, 7, A, 9-12, 13, 15, 20a):
+    1  [written across the line:] Persons transcribed from ICR's
+    2  Rt. 1 Box 301A [?] | 901 | Munson, Robert J. | A: 1 | 1 | 1 | 45 | 1
+    3                     |     | [ditto], Lorraine L. [?] | A: 2 | 1 | 2 | 57 | 1
+    4                     | 902 | Pfeiffer, Frances H. | A: 1 | 1 | 2 | 79 | 2 | birthplace blank
+                                                | col. 15: 4 | occupation blank
+    5  [written across the line:] Persons not assigned to dwelling units
+    6  Box 131 [?] |  | Finley, Patricia M. | A: 3 | 1 | 2 | 28 | 5
+  Notes:     The entries are in the clerk's numeric codes, not words: column 10 "2" is
+             female, column 12 "2" is probably widowed [code reading, not written as Wd].
+             Column 15 "4" is the coded answer to "what was this person doing most of last
+             week" [probably "other"/not in labor force; code meaning not confirmed].
+             Line 4 has no relationship, birthplace, occupation or housing data: an "ICR"
+             (Individual Census Report) was a form filled in by a person missed or not at home,
+             and copied onto this supplementary sheet, apparently in 1951 [?]. So this sheet
+             does not say whether she owned her house.
+             FamilySearch's index gives her the address "Rt 1, Box 302A"; on the sheet the
+             only address in that group is written on line 2 with household 901 (Munson),
+             and it reads to me as "301A" [?]. Her household number 902 is separate.
+             Age 79 fits a birth in Dec 1870, not 1861.
+
+==========================================================================================
+
+birth-record-1942-coupeville-pfeiffer.jpg              [item 3, found through Full-Text Search]
+  Collection: Island County, Washington, Delayed Birth Certificates 1942-1943
+             (Full-Text Search: "Birth Certificates, Delayed Registration")
+  Record:    no indexed record (found by Full-Text Search for "Frances H. Pfeiffer")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-L9LS-R67T
+             image 172 of 341, DGS 100664268 ("Island, Washington, United States records")
+  Held by:   Washington State Archives, Puget Sound Regional Branch
+  Header:    In the Superior Court of the State of Washington, In and for Island County,
+             Washington. In the matter of the Application of Richard Michael Hastie, For
+             Delayed Certificate of Birth. N[o]. ____ APPLICATION. State of Washington,
+             County of Island. SS
+  Where:     the whole page: a typed affidavit, signed.
+  Transcription:
+    Frances H. Pfeiffer, of Coupeville, Washington, after being first duly sworn on oath
+    deposes and says; that her maiden name was Frances H. Holbrook, and that she was born
+    at San de Fuca, Island County, Washington, on December 4th, 1870 [the "0" typed over
+    another figure, perhaps "9" [?]]; that she recalls the birth of the above applicant
+    about the date November 2nd, 1977 [sic, for 1877 [?]]; that she has known of his
+    parents from that time until their death; that she has read the application for
+    Delayed Certificate of Birth of said applicant and believes the statements therein
+    contained are true; that the applicant and his family now reside in the home occupied
+    by his parents at the time of their death; that to the best of affiant's information
+    and belief the said applicant has resided in Island County, Washington ever since his
+    birth.
+        [signed] Frances H. Pfeiffer [her signature]
+    Subscribed in my presence and sworn to before me this 7th day of May, 1942.
+        [signed] A. N. Corbin [?]  Notary Public for the State of Washington,
+        Residing at Coupeville, Washington.  [embossed notarial seal, lower left]
+  Notes:     Her own sworn statement, in her own hand at the foot. It gives her maiden name
+             as Frances H. Holbrook and her birth as 4 Dec 1870 at San de Fuca (the old
+             townsite on Penn Cove), which agrees with the 1871 territorial census and not
+             with the 1861 on her death certificate. It places her at Coupeville in May 1942.
+             The applicant, Richard Michael Hastie, was born about Nov 1877 by her account,
+             so no one living is named. The rest of his file (his application and other
+             affidavits) is on the neighbouring images and was not brought in.
