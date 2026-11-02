@@ -37,7 +37,7 @@ census-1950-coupeville-pfeiffer.jpg              [item 2]
 
 ==========================================================================================
 
-birth-record-1942-coupeville-pfeiffer.jpg              [item 3, found through Full-Text Search]
+birth-record-1942-coupeville-pfeiffer-hastie.jpg             [item 3, found through Full-Text Search]
   Collection: Island County, Washington, Delayed Birth Certificates 1942-1943
              (Full-Text Search: "Birth Certificates, Delayed Registration")
   Record:    no indexed record (found by Full-Text Search for "Frances H. Pfeiffer")
@@ -72,3 +72,39 @@ birth-record-1942-coupeville-pfeiffer.jpg              [item 3, found through Fu
              The applicant, Richard Michael Hastie, was born about Nov 1877 by her account,
              so no one living is named. The rest of his file (his application and other
              affidavits) is on the neighbouring images and was not brought in.
+
+==========================================================================================
+
+birth-record-1942-coupeville-pfeiffer-hancock.jpg              [item 3, found through Full-Text Search]
+  Collection: Island County, Washington, Delayed Birth Certificates 1942-1943
+  Record:    no indexed record (Full-Text Search for "Frances Holbrook Pfeiffer")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-L9LS-RD1M
+             image 167 of 341, DGS 100664268 ("Island, Washington, United States records")
+  Held by:   Washington State Archives, Puget Sound Regional Branch
+  Header:    AFFIDAVIT OF BIRTH For Use in Cases Where Certificates of Birth Cannot Be
+             Supplied. State of Washington, Department of Health, Vital Statistics.
+             [form S. F. No. 4514-2-18-41]
+  Where:     the whole page (the court cover of the same file is folded over the top).
+  Transcription (the parts that bear on her, then the child's details in brief):
+    1. Place of birth: County of Island, City or town of Coupeville
+    2. Full name of child: Eugene Ammon Hancock   3. Sex: Male   7. Legitimate: Yes
+    8. Date of birth: Nov. 24, 1886
+    9. Father: Ernest Justus Hancock, of Coupeville, white, 31, born Lynchburg, Virginia,
+       Farmer
+    15. Mother: Julia Etta Kinney, of Coupeville, white, 26, born Yarmouth, Nova Scotia,
+       Teacher. Children of this mother: one; now living: one.
+    Attending: Mary E. Kinney
+    AFFIDAVIT OF ATTENDING PHYSICIAN, MIDWIFE, PARENT, NEAREST RELATIVE OR OTHER PERSON
+    HAVING KNOWLEDGE OF THE FACT OF THIS BIRTH. State of Washington, County of Island, ss.
+    Frances Holbrook Pfeiffer, being first duly sworn upon oath deposes and says that
+    [she] is not related to Eugene Ammon Hancock, but w[as] Neighbor of family, tim[e of
+    birth] [text runs off the right edge of the image]; that the statements contained in
+    the foregoing Affidavit of Birth are true and correct, as affiant is informed and
+    verily believes.
+        (Signed) Frances Holbrook [Pfeiffer; the end of the signature is off the edge]
+        (Address) Coupeville
+    Subscribed and sworn to before me ... this 1[?] day of May, 1942.
+        [signed] J. O. Libbey [?], Island County Auditor
+  Notes:     Her own signature again, as "Frances Holbrook Pfeiffer". She swears she was a
+             neighbour of the Hancocks when Eugene was born at Coupeville in Nov 1886, when
+             she was 15. Eugene was born in 1886, so no one living is named.
