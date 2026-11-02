@@ -1,7 +1,28 @@
 CITATIONS - Mollie Frances (Holbrook) Pfeiffer records, batch 1 (FamilySearch and other sites, searched 2 Nov 2026)
 
 Folder: inbox/mollie-records-2026-11-02/
-[KEY POINTS AND FILE COUNT TO FOLLOW]
+11 files in 7 records. All images are FamilySearch's full-size originals (dist.jpg). Other
+records (DAR typescript, Credo, Ancestry voter registers) are transcribed below with no image.
+
+KEY POINTS
+- Her own birth certificate, filed late in May 1930 on her brother Horace's affidavit:
+  Mollie Frances Holbrook, born 4 Dec 1870 at Penn's Cove / Coveland (San de Fuca), to
+  Richard Blackmer Holbrook (b. Plymouth, Mass.) and Harriet Phillips Low (b. Deer Isle, Me.).
+- Her own sworn statements of 1942 give the same date and place and her maiden name
+  "Frances H. Holbrook"; she signs "Frances H. Pfeiffer" / "Frances Holbrook Pfeiffer",
+  of Coupeville.
+- Horace's will (19 Apr 1939) and the decree of distribution (25 Apr 1940) give her a LIFE
+  ESTATE in his house and lot in Block 9, Kiester's Alteration Plat of Alexander's Glenwood,
+  Coupeville, with its furniture, remainder to his son Melvin; Alice Carter got the
+  adjoining corner lot. This is how she came to live in that house, but it was not hers
+  outright.
+- 1950 census: at Coupeville, age 79, female, widowed [coded], from an individual census
+  report copied onto a supplementary sheet; no birthplace, occupation or tenure given.
+- Emil's death certificate (25 Nov 1934, 3715 Keystone Ave, Palms) has her as wife and
+  informant.
+- Oct 1899 deed: "M. F. Pfeiffer (nee Holbrook) and E. C. Pfeiffer her husband of Tacoma"
+  sell Lot 4, Sec. 18, T32N R1E (Island County) to E. J. Hancock.
+- Her will and estate of 1954-55 were NOT found (see the end of this file).
 
 ==========================================================================================
 
@@ -367,8 +388,8 @@ will-1939-island-holbrook/1.jpg, 2.jpg              [item 4]
              (roughly 160 x 166 ft, less Alice's corner and a strip sold earlier) and Alice's
              60 x 85 ft corner in the same Block 9. The "dwelling house on said lands" is
              Horace's own house, so in 1939-40 she was living, or to live, in the house
-             Horace occupied. Alice Carter is called "niece" but is Frances's daughter [the
-             task's Alice Phillips Pfeiffer, Mrs. Robert H. Carter], so strictly his niece.
+             Horace occupied. "My beloved niece, Alice Carter" is Frances's daughter [the
+             task's Alice Phillips Pfeiffer, Mrs. Robert H. Carter], his niece by blood.
              Below the end of his will on 2.jpg is the will of Bartol Johnson of Stanwood
              (1939), not about this family.
 
@@ -561,3 +582,61 @@ deed-1899-island-pfeiffer.jpg              [item 5; found by Full-Text Search]
              Registers often carried a voter until the roll was purged, so this does not
              prove she lived there [no conclusion drawn].
              The register entries for 1924-28 were not found under these names.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Obituary, Feb-Mar 1954: not found. Washington Digital Newspapers could not be searched
+   from the browser pane (a Cloudflare check on every search); the owner searched
+   "Pfeiffer" there for 1954 by hand and found nothing related. Newspapers.com: the pane is
+   not subscribed (0 results shown for "Pfeiffer", Washington, 1954, without a
+   subscription). GenealogyBank, NewspaperArchive and FamilySearch's catalog of filmed
+   Island County newspapers: not searched.
+3. Her will and estate, 1954-55: not found. FamilySearch Full-Text Search, restricted to
+   Island County, Washington, for "Pfeiffer", "Pheiffer", "Pfeifer", "Pfiffer", "Pfifer",
+   "Frances Pfeiffer", "Frances H. Pfeiffer", "Frances H. Pheiffer", "Frances Holbrook
+   Pfeiffer": no entry after 1942 that is hers. The county's Probate Journals for 1950-54
+   and 1954-61 and the Record of Wills v. B (1904-1960) are on FamilySearch and
+   full-text indexed, so either her estate was not probated in Island County, or the OCR
+   missed it. The Record of Wills v. B (DGS 100589198) reaches April 1955 at image 330 of
+   406 and Jan 1954 is near image 528 of 637 in the 1950-54 journal: a page-by-page look at
+   images about 300-330 of the will book, and the end of the 1950-54 journal and start of
+   the 1954-61 journal, is the next step [not done]. Washington State Digital Archives and
+   the Northwest Regional Branch catalogue: not searched (the Digital Archives search form
+   did not respond in the pane).
+4. Island County deeds 1934-40 with Pfeiffer as grantee: none in the Full-Text index
+   (Pfeiffer and variants, Island County). The will's exception "tract conveyed by deed of
+   record at page 184 in Volume 51" is a lead for the Block 9 lot's history [not looked up].
+5. Washington State Digital Archives (state censuses 1887/1889/1892, teachers' records,
+   Josephine's death): not searched; see 3. Find a Grave's memorial for Josephine
+   Holbrook (https://www.findagrave.com/memorial/271836744) says born 1865 in Washington,
+   died Aug 1870 in Island County, buried Sunnyside, with the note "Age 5, white, female,
+   diptheria" [sic] [this looks like an 1870 mortality-schedule entry; no such entry was
+   found indexed on FamilySearch for Josephine Holbrook, deaths in Washington 1869-71].
+6. Washington Digital Newspapers (Island County Times 1889-98 and 1935-54; Seattle Times and
+   Tacoma Daily Ledger, Nov 1900 and Jan 1895): not searchable from the pane (see 1).
+7. City directories; 1910 census (Emil, Reno?); 1920 census MH7W-P7Z: not done.
+8. archive.org: the pane is not signed in to archive.org. Search-inside of the Oberlin
+   catalogue 1893-94 (catalogueofoberl0000ober_j6v1) for "Holbrook", "Pfeiffer",
+   "Coupeville", "Whidby", "Wash.", "Washington" and "Frances" found no Frances Holbrook,
+   but the OCR of the student lists is badly garbled, so this does not rule her out. The
+   1894-95 catalogue (_y2x4), Cook's "A Particular Friend" (aparticularfrien0000cook) and
+   Rose's "A Great Blessing" (greatblessingfir0000rose) refused search-inside ("Item not
+   available") without signing in. Told by the Pioneers v. 2: not searched.
+10. DAR Genealogical Research System and Mayflower Society: the DAR site shows a Cloudflare
+   check in the pane; not searched.
+11. HathiTrust full-text search: Cloudflare check in the pane; not searched. WorldCat for the
+   pamphlet "Cinema lyceum" (1916): no hit by web search; WorldCat itself not searched.
+12. Find a Grave, Sunnyside Cemetery (cemetery 562612), surname search: Holbrook gives Ada
+   Marie James Holbrook (1877-1935), Harriet L. (1834-1918), Horace (1865-1939 [sic; he gave
+   his birth as 3 Jan 1863]), Josephine (1865-1870) and Capt. Richard B. (1830-1898 [sic]);
+   no Nathan Gideon Holbrook. Pfeiffer gives Emil Charles (2 May 1865 - 1935 [sic; he died
+   1934]; lot 59, space B; inscription "In memoriam") and Mollie Frances Holbrook Pfeiffer
+   (4 Dec 1870 Coveland - 24 Feb 1954 Mount Vernon; lot 59, space A; inscription
+   "Daughter"; the memorial notes the gravestone gives 1952 as the death date). Capt.
+   Richard B. Holbrook's memorial gives lot 59, space A, inscription "In memoriam;
+   Pioneers". Nellie Louise (Cotton) Doubleday: not found by web search; Find a Grave's own
+   search is behind a Cloudflare check in the pane.
+13. WorldCat for her Holbrook / Low typescript and for "Mother Goose broom rhymes" (1913):
+   web search only, nothing found; library catalogues not searched.
+14. Emerson College Archives: not searched.
