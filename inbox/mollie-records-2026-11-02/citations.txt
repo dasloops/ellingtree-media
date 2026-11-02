@@ -523,3 +523,41 @@ deed-1899-island-pfeiffer.jpg              [item 5; found by Full-Text Search]
 - Coupe heirs to George M. Coupe, deed of 20 June 1887 for Block 40 of Thomas Coupe's plat
   of Coupeville (https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9GV-8F61, DGS 100770667,
   image 154): "Mollie Holbrook" signs as a witness, aged 16.
+
+==========================================================================================
+
+[no file]  California, U.S., Voter Registrations, 1900-1968 (Ancestry, collection 61066)  [item 7]
+  Source: California State Library, Great Register of Voters. Index entries only were read
+  (no images brought in: Ancestry). Record URLs are
+  https://www.ancestry.com/search/collections/61066/records/<id>.
+  Searched: "Frances Pfeiffer" (all California) and "E C Pfeiffer"; read every entry for
+  Mrs Frances H Pfeiffer and Emil C Pfeiffer. Fields as indexed (abbreviations as given):
+    Mrs Frances H Pfeiffer
+      1912  619 Fifteenth, Alameda          Republican   Advertising     #43511022
+            [indexed without "Mrs"; may not be her: no other sign of Alameda]
+      1916  237 E Adams St, Los Angeles     Progressive  Advrtsng        #30130888
+      1920  909A Winfield St, Los Angeles   Progressive  Adv             #32408351
+      1922  1117 S [Burlington av], LA      ["Burlington" indexed as the party]
+                                                         Bldng Slsmn [?] #33148288
+      1930  3725 Motor av, Los Angeles      Republican   Wtr [writer]    #27022863
+      1932  3715 Keystone av, Los Angeles   Republican   [none]          #55122806
+      1934  3715 Keystone av, Los Angeles   Republican   [none]          #44429930
+      1936  1648½ S Berendo St, Los Angeles Republican   Retired         #60889091
+            [street number indexed "164854"]
+      1938  1648½ S Berendo St, Los Angeles Republican   Retired         #63901246
+            [street number indexed "1648#"]
+    Emil C Pfeiffer
+      1900-1918 [register span]  221 Equestrian ave, Santa Barbara; age 41 [birth "abt
+            1859" by the index]; Accountant                              #16309854
+      1920  909A Winfield St, Los Angeles   Progressive  Accntnt         #32408350
+      1922  1117 S Burlinton av, Los Angeles  Declines to State  Bkkpr   #33148287
+      1930  3725 Motor av, Los Angeles      Republican   Rtrd            #27022862
+  Notes:     The 1920 and 1922 addresses are the same for both, so they were living
+             together then (bears on the 1920 census question in item 7: Emil's census
+             entry as a boarder can be compared with 909A Winfield St).
+             Her occupation is given as advertising in 1916 and 1920 and "writer" in 1930.
+             She is still registered in Los Angeles in 1936 and 1938, at 1648½ S. Berendo
+             St., "Retired", although the 1940 census has her in Coupeville in 1935. Great
+             Registers often carried a voter until the roll was purged, so this does not
+             prove she lived there [no conclusion drawn].
+             The register entries for 1924-28 were not found under these names.
