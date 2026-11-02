@@ -108,3 +108,41 @@ birth-record-1942-coupeville-pfeiffer-hancock.jpg              [item 3, found th
   Notes:     Her own signature again, as "Frances Holbrook Pfeiffer". She swears she was a
              neighbour of the Hancocks when Eugene was born at Coupeville in Nov 1886, when
              she was 15. Eugene was born in 1886, so no one living is named.
+
+==========================================================================================
+
+death-certificate-pfeiffer-1934.jpg              [item 7 (Emil), found through Full-Text Search]
+  Collection: Los Angeles County, California, Death Certificates 1934
+  Record:    no indexed record used (Full-Text Search for "Frances Holbrook Pfeiffer")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-L9SV-LF7S
+             image 1313 of 2660, DGS 005599375 ("Los Angeles, California, United States records")
+  Held by:   Los Angeles County (California). County Clerk
+  Header:    State of California, Department of Public Health, Vital Statistics, Standard
+             Certificate of Death. Form 5. Dist. No. 1901 [?]. Local Registered No. 13707.
+             [stamped 1178 [?] on the binding margin]
+  Transcription:
+    1. Place of death: County of Los Angeles; City Los Angeles; Street and no. 3715 Keystone
+       Avenue - Palms
+    2. Full name: Emil Charles Pfeiffer. Residence: 3715 Keystone Avenue - Palms
+    3. Sex: Male  4. Color or race: Cauc.  5. Married
+    5A. Name of husband or wife: Frances Holbrook Pfeiffer
+    6. Date of birth: May 2, 1865   7. Age: 69 yr 6 mo 23 days
+    8. Occupation: Advertising [M[an] ?]  9. Industry: Newspaper Off[ice]
+    10. Date deceased last worked: 11-1915 [?]; total years in this occupation: 15 [?]
+    12. Birthplace: Portsmith [sic], New Hampshire
+    13. Father: Joseph S. Pfeiffer  14. Birthplace: Unknown, Bohemia
+    15. Mother's maiden name: Genevieve Karche [?]  16. Birthplace: Unknown, Bohemia
+    17. Length of residence: in city 6 yrs; in California 29 yrs
+    18. Informant: [signed] Frances H. Pfeiffer, Address 3715 Keystone Av[e], Palms
+    19. Cremation, Los Angeles Crematory, 11-28-34 [?]
+    20. Funeral director: Francis J. Hall & Son [?], 1607 So. Flower St.
+    21. Filed Nov 26 [?] 1934, George Parrish [?], Registrar
+    22. Date of death: November 25, 1934
+    24. Coroner's certificate: autopsy. Principal cause: Hemorrhage from Chronic Duodenal
+        Ulcer. Autopsy: yes. [signed] Frank R. Webb [?] M.D., Coroner's Office L.A.;
+        Frank A. Nance, Coroner, by W. A. Macdonald [?], Chief Deputy
+  Notes:     Emil's death certificate, with Frances as wife and as the informant, in her own
+             hand, at the same address. It confirms the date, the place and the Keystone
+             Avenue address in the task. The birth date matches the task (2 May 1865).
+             "29 yrs" in California would put his arrival about 1905, which fits the move to
+             Santa Barbara and Los Angeles.
