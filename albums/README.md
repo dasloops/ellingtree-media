@@ -11,6 +11,9 @@ albums/<slug>/IMG_####.JPEG    every photograph of the album: whole pages, close
 albums/<slug>/<part>/…         photographs of other books kept with it as an addendum
 ```
 
+The photographs are as the camera made them, but for the place they were taken, which is taken out of
+each file before it is pushed (`tools/strip-location.py`).
+
 Nothing here is a Gallery picture. Which photograph shows which page, and what each holds, is
 kept with the archive (`research/` and `books/<slug>/`). A picture or clipping chosen for the
 Gallery is cropped from these originals and filed in `gallery/files/` under its record's id.

@@ -15,6 +15,7 @@ albums/<slug>/                a family album photographed page by page (albums/R
 inbox/                        new uploads, waiting for their records (inbox/README.md)
 FAMILYSEARCH.md               how agents bring record images in from FamilySearch
 tools/fs-join.py              its helper: rebuilds and checks an image sent from the browser
+tools/strip-location.py       finds, and takes out, the location a camera wrote into a photograph
 ```
 
 ## Adding pictures
@@ -24,6 +25,12 @@ tools/fs-join.py              its helper: rebuilds and checks an image sent from
 - Only pictures the archive publishes as they are (`access: public` in their record). A private
   picture stays in the archive's own repo: whatever is pushed here is public for good, even if
   it is taken out again.
+- **No picture here carries the place it was taken.** A phone writes its location into every
+  photograph, and this repo is public. Before committing any photograph, run
+  `python3 -I tools/strip-location.py --write <files>`: it takes out the location and nothing else
+  (the picture, the date and the camera stay as they were). `python3 -I tools/strip-location.py .`
+  lists any picture in the repo that still has one. Uploading from a phone, turn off Location in the
+  share sheet's Options first, since an upload is public the moment it lands.
 - Push here first, then the archive's records, so its build finds the pictures.
 - Commit with a GitHub no-reply email address: commit details are public here.
 - GitHub refuses single files over 100 MB.
