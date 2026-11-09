@@ -1,0 +1,224 @@
+CITATIONS - Dwyer records, batch 3 (Ancestry and FamilySearch, searched 9 Nov 2026)
+
+Folder: inbox/dwyer-records-2026-11-09/
+4 files. All images are FamilySearch's full-size originals (dist.jpg). Records found on Ancestry
+are transcribed below and cited by Ancestry's collection, record and image numbers; no Ancestry
+image was copied into this repo.
+
+KEY POINTS
+- Kate (Dwyer) Dalton's Montana death certificate, 1908, names her father John Dwyer, born
+  Ireland, and her mother's maiden name Mary Ryan, born Ireland. She was born in New York.
+- John J. Dwyer's Montana marriage license, 1905, names his parents John Dwyer and Mary Dwyer,
+  maiden name Mary Ryan. His bride, Sarah A. Corbett, was born at Black Brook, New York.
+- Mary Ann Dwyer's Vermont marriage card, 1879 (Ancestry only), says she was born at Moriah, N.Y.,
+  daughter of John Dwyer and Mary (Ryan).
+- Minnesota census, 1885, Birch Cooley: John Dwyer 71 and Mary 62, both born Ireland, with a girl
+  Mary J. Ryan, 2, born Minnesota, listed directly after them.
+- Minnesota census, 1885, Bandon township (next to Birch Cooley): Cornelius Ryan, 57, born Ireland,
+  no wife listed, with seven children, the youngest Mary Jane, 3. This is very likely the same
+  child counted twice. In 1875 this Cornelius Ryan ("Ragen" in the index) had a wife Anna, 30,
+  born New York; in 1880 a wife Jane, 35. His children were all born in Minnesota from about 1872.
+- Whether this Cornelius Ryan is the Cornelius Ryan of Black Brook (native of Co. Limerick, 37 in
+  1862; sold lots 42-46 to the Rogers company in May 1870) is NOT proved. The ages agree within
+  three years and the timing fits, but no record yet ties them.
+- Cornelius S. Dwyer's household in the 1895 Minnesota census (Norfolk, Renville) has no parent
+  living with it. No 1895 record of John or Mary Dwyer was found anywhere in Minnesota.
+
+==========================================================================================
+
+death-certificate-dalton-1908.jpg              [item 9]
+  Collection: Montana, County Births and Deaths, 1840-2004
+  Record:    https://www.familysearch.org/ark:/61903/1:1:QKNR-WP45 (Kate Dalton, with parents)
+             (also indexed from the register: https://www.familysearch.org/ark:/61903/1:1:QKNT-CZG4,
+             page 78, image 3:1:33S7-8B2L-9VG, not copied)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-LB2K-FQX
+             image 2117 of 2458, DGS 005204257 (Silver Bow, Death certificates 1906-1909
+             no 10351-12784)
+  Also on Ancestry: Montana, U.S., County Births and Deaths, 1830-2011 (collection 61255),
+             record 600278396, image 47429_550709-02117.
+  Held by:   Silver Bow County; State of Montana, Bureau of Vital Statistics
+  Header:    Form V. S. No. 4. DUPLICATE. Commonwealth of Montana, Bureau of Vital Statistics,
+             Certificate of Death. No. 12449.
+  Transcription:
+    County of: Silver Bow | Registration District No.: 22 | City of: Butte
+    No.: St. James Hospital | Registered No.: 857
+    Full name: Mrs. Kate Dalton
+    Sex: Female | Color: White | Age: 49 years | Married
+    Birthplace: New York, N. Y.
+    Name of father: John Dwyer | Birthplace of father: Ireland
+    Maiden name of mother: Mary Ryan | Birthplace of mother: Ireland
+    Occupation: housewife | How long resident of Montana: five years
+    Informant: J. J. Dalton, 312 E. Granite St.
+    Filed Oct. 24, 1908, C. T. Pigot, Registrar
+    Date of death: October 23, 1908. Attended Oct. 21, 1908 to Oct. 23, 1908; last saw her
+      alive [ditto]; death about 1:15 P.[?] M.
+    Cause: surgical shock; "fatty heart". Contributory: Sarcoma [?] of breast
+    Signed: E. T. Maginn, M.D., address Phoenix [?]
+    Usual residence: 312 E. Granite; how long at place of death: 3 days; disease contracted: Butte
+    Burial: Catholic Cem., Oct. 26, 1908 | Undertaker: M. J. Walsh, Butte
+  Notes:     The informant was her husband. Butte street and house are the ones in the brief
+             (Malachi J. Dwyer was buried from 312 East Granite in 1899).
+
+------------------------------------------------------------------------------------------
+
+marriage-record-dwyer-corbett-1905.jpg              [item 9]
+  Collection: Montana, County Marriages, 1865-1950
+  Record:    https://www.familysearch.org/ark:/61903/1:1:F3SR-C8C (John J. Dwyer and Sarah A.
+             Corbett, 01 Oct 1905; the index gives his age as 35, the license says 41)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6Q6S-RDR
+             image 746 of 841, DGS 004278842 (microfilm 1906800), license no. 9318, book pages 308-309
+  Also on Ancestry: Montana, U.S., County Marriage Records, 1865-1993 (collection 61375), record 40811.
+  Held by:   Silver Bow County, Clerk of the District Court
+  Where:     left-hand page (308), license and certificate. The right-hand page is license 9319,
+             John J. Holland and Laura M. Bessette, not this family.
+  Transcription:
+    The State of Montana, County of Silver Bow. Marriage License. No. 9318.
+    John J. Dwyer, a white man aged 41 years, born at Muirville [?] in the County of [blank] and
+      State of New York, now residing at Butte, Silver Bow County; not previously married;
+      son of John Dwyer and Mary Dwyer, whose maiden name was Mary Ryan.
+    With Sarah A. Corbett, a white woman aged 35 years, born at Black Brook in the County of [blank]
+      and State of New York, now residing at Butte; not previously married; daughter of Edward
+      Corbett and Alice Corbett, whose maiden name was Alice Kummiskey.
+    Sworn 27 Sept 1905. William E. Davies, Clerk, by F. W. Noyes [?], Deputy Clerk.
+    Marriage Certificate: John J. Dwyer and Sarah A. Corbett joined in marriage 1st day of October
+      A.D. 1905 at Butte. In presence of Joseph O'Donnell and Nina [?] Dalton, witnesses.
+      A. D. Leitham [?], officiating Priest. Filed for record May 17, A.D. 1906, William E. Davies,
+      Clerk, by W. L. [?] Hawley, Deputy Clerk.
+  Notes:     His birthplace is hard to read. It is not Black Brook, which the same clerk wrote
+             plainly for the bride a few lines lower. The brief has him born at Black Brook about
+             May 1860; 41 in 1905 gives about 1864. Nina [?] Dalton, a witness, is presumably of
+             J. J. Dalton's household.
+
+------------------------------------------------------------------------------------------
+
+census-1885-birch-cooley-dwyer.jpg              [items 6 and 9]
+  Collection: Minnesota, State Census, 1885
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MQXP-5SB (John Dwyer; FamilySearch places
+             it in Bandon, because its film waypoint is Bandon)
+             https://www.familysearch.org/ark:/61903/1:1:MQXP-53M (Mary J Ryan, indexed as her
+             own household)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6PN3-DP6
+             image 31 of 206, DGS 004437191 (Renville, Bandon)
+  Also on Ancestry: Minnesota, U.S., Territorial and State Censuses, 1849-1905 (collection 1058),
+             record 5307085, image mnsc_40-0139, roll MNSC_40; Ancestry places it in Birch Cooley.
+  Held by:   Minnesota Historical Society
+  Header:    right-hand page: Page No. 16. Inhabitants in Birch Cooley, County of Renville, State
+             of Minnesota, enumerated 25 May 1885. Post Office Birch Cooley. Philip H. Miller,
+             Assessor. (Stamped 69.) The page header is written, so this is Birch Cooley.
+  Where:     right-hand page, lines 5-7, and lines 29, 36-37 (no family numbers on this page)
+  Transcription (name | age | sex | colour | place of birth):
+    5  John Dwyer      | 71 | M | W [ditto] | Ireland
+    6  Mary [ditto]    | 62 | F | [ditto]   | [ditto, Ireland]
+    7  Mary J Ryan     | 2  | F | [ditto]   | Min
+    8  Henry Su[?]elt [?] | 26 | M | [ditto] | Min
+    ...
+    29 Con Dwyer       | 2[4?] | M | [ditto] | N.Y.
+    ...
+    36 Martha D[?]  [indexed Dorweiler] | 21 | [F, ditto] | [ditto] | Wis [?]
+    37 Mary [ditto]    | 4/12 | F | [ditto] | Min
+    38 Henry T[?]  [indexed Tortell] | 48 | M | [ditto] | [ditto]
+    39 Elizabeth T[?]  [indexed Testella] | 45 | F | [ditto] | [ditto]
+  Notes:     The 1885 census names no relationships, and no family numbers are written on this
+             page. Mary J. Ryan, 2, follows John and Mary Dwyer directly. A Mary Jane Ryan, 3,
+             is also listed in Cornelius Ryan's household in Bandon (next file): very likely the
+             same child counted twice. "Con Dwyer" is the son Cornelius, then about 23; Martha and
+             the infant Mary further down are probably his wife (Martha Tisdell in the brief) and
+             daughter, and Henry and Elizabeth, 48 and 45, may be her parents. The index's
+             surname readings for lines 36-39 are poor.
+
+------------------------------------------------------------------------------------------
+
+census-1885-bandon-ryan.jpg              [items 6 and 7]
+  Collection: Minnesota, State Census, 1885
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MQXR-QMT (Cornelius Ryan)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6PN3-ZQS
+             image 8 of 206, DGS 004437191 (Renville, Bandon)
+  Also on Ancestry: collection 1058, record 5305794 (Cornelius), 5305801 (Mary Jane), image
+             mnsc_40-0116; Ancestry places it in Bandon.
+  Held by:   Minnesota Historical Society
+  Header:    left-hand page: Page No. 15. Township, date, post office and assessor left blank.
+  Where:     left-hand page, lines 30-37 (family 95); also line 17
+  Transcription (family | name | age | sex | place of birth):
+    95 30 Cornelius Ryan | 57 | M | Ireland
+       31 Wm             | 13 | M | Minn
+       32 Isabelle [?]   | 10 | F | [ditto]
+       33 Thomas         | 9  | M | [ditto]
+       34 Patrick        | 8  | M | [ditto]
+       35 John           | 6  | M | [ditto]
+       36 Loris [?]      | 5  | M | [ditto]
+       37 Mary Jane      | 3  | F | [ditto]
+    92 17 Wm Dwire       | 39 | M | N.Y.  [in the household of Margaret D[?]mand, 65, Ireland]
+  Notes:     No wife is listed with Cornelius Ryan. Wm Dwire, 39, born New York about 1846, does
+             not fit the son William (born Ohio about 1851-54); recorded only because of the name.
+             Earlier records of the same Cornelius Ryan, from Ancestry and FamilySearch indexes
+             (no image copied):
+             - Minnesota census 1875, Bandon, Renville (FamilySearch 1:1:MKNR-JKT; Ancestry 1058
+               record 4149671, image mnsc_14-0270, lines 31-35, family 49), indexed "Ragen":
+               Cornelius 47, Ireland; Anna 30, New York; Velern [William] 3, Minnesota;
+               Margaret 2, Minnesota; Louesa 0, Minnesota.
+             - US census 1880, Bandon, Renville (FamilySearch 1:1:MZ9L-Z6R; Ancestry 6742 record
+               48092336), dwelling 96: Cornelius Ryan 51, farmer, Ireland; Jane 35, wife;
+               William 9; Elizabeth 6; Thomas 4; Patrick 3; John 1.
+             - Minnesota census 1895: no Cornelius Ryan of this age found in Renville County.
+             The 1875 wife Anna, born New York, may connect with "a Cornelius Ryan of the town of
+             Clinton [who] had a wife Ann and a son James in 1864" (brief, item 7). Not proved.
+
+==========================================================================================
+FROM ANCESTRY, TRANSCRIBED (NO IMAGE)
+
+Vermont, U.S., Vital Records, 1760-1954 (Ancestry collection 4661), record 106095826,
+image 41269_312828-01351 (image 1352 of 4616, "1871 and Later, Dutelle-Edgerton").
+Marriage card, filed under the bride:
+  Bride: Dwyer, Mary | Groom: McCauley, John | Residence of bride: Burlington
+  Married: January 7, 1879 | Age: 24 | First marriage
+  Born: Moriah, N.Y. | Father: John Dwyer | Mother: Mary (Ryan) | Parents' birthplaces: blank
+  Officiant: Thomas Lynch, Cath. Priest | Town: Burlington | Wm H. Root, City Clerk | No. 359 [?]
+  [Not yet looked for on FamilySearch, which holds the same Vermont cards.]
+
+Minnesota, U.S., Territorial and State Censuses, 1849-1905 (collection 1058), 1895, Norfolk,
+Renville, roll V290_92, image MNV290_92-0502, lines 1-4, family 66 (record 1472712):
+  Cornelius Dwyer 33, New York | Martha 32, Minnesota | Henry 6, Minnesota | Agnes 2, Minnesota.
+  The next family (67) is Joseph and Kate Reger. No older Dwyer on the page.
+
+1880 US census, Birch Coolie, Renville (Ancestry 6742 record 24326959), dwelling 192:
+  John Dwire 63, farmer, Ireland, cannot write | Mary 54, wife | John 20, son | Cornelius 18, son.
+  [Already known; checked here for completeness.]
+
+1850 US census, Cincinnati Ward 6, Hamilton, Ohio (Ancestry 8054 record 13770115, image
+4204478_00165, roll 689, page 157a), dwelling 883, family 1138:
+  John Dwyer 36, laborer, Ireland | Mary 26, Ireland | Kate 6, Ireland | Mary A 1, Ohio.
+  Rejected: Ellen was born in New York, and a Kate of 6 born in Ireland does not fit.
+
+U.S., Newspapers.com Obituary Index (collection 61843), index entries only:
+  - Malachi Dwyer, age 68, born about 1831, died 8 Dec 1899; Waterbury Evening Democrat,
+    Waterbury, Connecticut, 8 Dec 1899; residence indexed as Minneapolis, Minnesota
+    (record 1114638410; Newspapers.com image 886446231).
+  - Malachi J. Dwyer, The Butte Miner, 9 Dec 1899 (record 593255231; Newspapers.com image 348423460).
+  Neither article was read: Newspapers.com showed a CAPTCHA, which was left alone. Clippings
+  from Newspapers.com would in any case be transcribed only.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+- John J. Dwyer's death at Butte: Montana, County Births and Deaths (Ancestry 61255), name John
+  Dwyer with parents John Dwyer and Mary Ryan: no match. Several Butte John Dwyers died 1909-1967,
+  all with other parents.
+- Cornelius S. Dwyer, died San Francisco 1941: not in the Newspapers.com Obituary Index under
+  Cornelius Dwyer born 1862 (the near matches are a Cornelius Dwyer of Sioux Falls, died 1943,
+  born 4 Jan 1862, and a Cornelius J. Dwyer of Buffalo, died 1942; neither fits).
+- Cornelius S. Dwyer's 1900 household (Morton, Birch Cooley, Norfolk): not found in Ancestry's 1900
+  index under Con, Cornelius or the children's names (Veronica born about 1895).
+- John or Mary Dwyer in the 1895 Minnesota census: not found in Renville County or, among Irish-born
+  Dwyers born 1810-1830, anywhere that fits (a Mary Dwyer, 68, in Goodhue County was not examined).
+- Mary Ann (Dwyer) McCauley's death in Vermont: not found; the search on John McCauley's wife Mary
+  is too broad without a death year.
+- 1855 New York census, Moriah (Ancestry 7181): only Malachi and Bridget Dwyer, and Jas and Alice
+  Dwyer. John and Mary's household is not indexed under Dwyer, Dwire or by the children's names.
+- 1865 New York census, Black Brook: Clinton County's 1865 schedules are not in Ancestry's
+  collection 7218 (Ancestry lists Clinton among the counties not available).
+- New York, County Marriage Records 1847-1849 (Ancestry 61377): no John Dwyer and Mary Ryan.
+- Emigrant Savings Bank, New York City (Ancestry 8760): 127 John Dwyer entries with a Mary. The four
+  test-book entries (accounts 5781, 1 Nov 1853; 6248, 6 Jan 1854; 10542, 27 Dec 1855; 12007,
+  7 Jul 1856) show nothing in the index but name, date and account. Not opened: the family was
+  upstate at Moriah and Black Brook in those years, so a New York City account is unlikely.
+- Passenger lists 1846-1849: not searched this round.
