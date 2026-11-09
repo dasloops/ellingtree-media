@@ -1,0 +1,20 @@
+CITATIONS - Dwyer records, batch 4 (FamilySearch, Ancestry and the NLI, searched 9 Nov 2026)
+
+Folder: inbox/dwyer-records-2026-11-09b/
+[in progress]
+
+==========================================================================================
+
+deed-1873-renville-ryan.jpg              [item 2]
+  Collection: United States, Bureau of Land Management Tract Books, 1800-c. 1955
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6KGS-9TFJ (Cornelius Ryan, "14 Jul")
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-99W3-9VLC
+             image 213 of 247, DGS 007113515 (Tract Books, Minnesota, Vol 106)
+  Held by:   U.S. Bureau of Land Management
+  Header:    page 207. Township No., Range No., District of [blank]. Section 8, Township 112, Range 33.
+
+census-1870-camp-ryan.jpg              [item 2]
+  Collection: United States, Census, 1870
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MDHZ-9LG
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-DCF3-YM4
+             image 4 of 7, DGS 004257584 (Minnesota, Renville, Camp)
