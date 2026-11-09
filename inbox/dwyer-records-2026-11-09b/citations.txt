@@ -1,7 +1,31 @@
 CITATIONS - Dwyer records, batch 4 (FamilySearch, Ancestry and the NLI, searched 9 Nov 2026)
 
 Folder: inbox/dwyer-records-2026-11-09b/
-[in progress]
+4 files. All images are FamilySearch's full-size originals (dist.jpg). Records seen only on
+Ancestry, Find a Grave or the NLI are transcribed below, with no image.
+
+KEY POINTS
+- Doon has a Ryan family with both a Cornelius and a Mary of the right ages: Mary, baptized
+  18 Mar 1825, and Cornelius, baptized 10 Jul 1826, children of Patrick Ryan and Catherine Ryan,
+  of the same townland (read on the NLI image as Commondulea [?] / Commonalin [?]). Cornelius's
+  sponsors were Cornelius and Mary Ryan.
+- Pallasgreen, next to Doon, has a second such pair: Cornelius, 31 Oct 1824, and Mary, 20 Aug 1826,
+  children of Cornelius Ryan and Bridget Breen. Neither pair is proved to be ours.
+- Doon also has Malachy, baptized 4 Dec 1831, son of Malachy Dwyer and Margaret Ryan, with a sister
+  Mary baptized 5 Dec 1828, same townland (Garthoun [?]). He is the only Malachy Dwyer baptized
+  1826-1837 in the Co. Limerick or Co. Tipperary index whose age fits Malachi of Butte.
+- Cornelius Ryan was in Renville County, Minnesota, by July 1870: a Cornelius Ryan, born Ireland,
+  is in the 1870 census of the Town of Camp, Renville, alone, next to Timothy Carline, and the
+  tract book shows a Cornelius Ryan claim on section 8 in Aug 1870 beside Carline's land. The
+  census gives his age as 25, which does not fit a man born about 1825-29.
+- The Bandon Cornelius Ryan took a homestead (W half NE quarter, section 8, T112 R33) on
+  14 Jul 1873 and proved it 9 Jul 1880 (final certificate 1988; patent 10 May 1882).
+- His wife's maiden name was Fox: two of his children's death records name the mother as
+  Mary Ann Fox and Jane Fox. He is buried at St. Patrick Catholic Cemetery, Franklin, Renville
+  County, death date not recorded on the memorial. No Dwyer is recorded in that cemetery.
+- Malachi Dwyer was naturalized in Essex County, New York, on 10 Oct 1858 (Butte Great Register,
+  1899). A Patrick Dwyer, 47, born New York, registered at the same address, 241 E. Granite, Butte,
+  in March 1899.
 
 ==========================================================================================
 
@@ -11,10 +35,255 @@ deed-1873-renville-ryan.jpg              [item 2]
   Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-99W3-9VLC
              image 213 of 247, DGS 007113515 (Tract Books, Minnesota, Vol 106)
   Held by:   U.S. Bureau of Land Management
-  Header:    page 207. Township No., Range No., District of [blank]. Section 8, Township 112, Range 33.
+  Header:    page 207. Township No. [blank], Range No. [blank], District of [blank]. [The book is a
+             tract book, not a deed; named "deed" for want of a closer kind.]
+  Where:     left page, the two entries for section 8, and the pencil notes between them
+  Transcription (part of section | section | township | range | acres | rate | purchase money |
+                 purchaser | date of sale | receipt no. | remarks):
+    Home | E 1/2 NE 1/4 [struck through] | 8 | 112 | 33 | 80.00 | 2.50 | 10.00 | Patrick Ryan |
+      July 14/73 | 467 [struck through] | Cancelled May 26. 1875. "G."
+    Home | W 1/2 NE 1/4 | [ditto] | [ditto] | [ditto] | 80.00 | 2.50 | 10.00 | Cornelius Ryan |
+      July 14/73 | 466 | Final Certif. 1988 - July 9 - 1880 -
+    [pencil, between the lines:]
+      NE DS 19387 John Gago [?] Nov 7.12.1868
+      [ditto] 2000 2 NE 1/4 James Durrin [?] Oct 25 & 27 - 1869
+      NE Cornelius Ryan 20433 Aug 6-8-70
+      NW 1/4 DS 19386 Timothy Carline Nov 7.12.1868
+    T.C. | NW 1/4 | [ditto] | 160 | 2 | 50 | 10 | Timothy Carline | July 12. 73 | 27 |
+      Cancelled April 19/81 Relinq'd
+    Home | N W 1/4 | 160.00 | 2.50 | 10.00 | Timothy Carline | April 19 1881 | 3006 |
+      Final No. 3619 - June 30/87
+  Notes:     The patent for this claim is on Ancestry ("U.S., General Land Office Records,
+             1776-2015", collection 1246, record 2035742): Cornelius Ryan, issued 10 May 1882,
+             Redwood Falls land office, 5th Principal Meridian, Township 113-N [the tract book says
+             112], Range 33-W, Section 8, accession MN1500__.280, document no. 1988. The patent
+             image is on glorecords.blm.gov, not FamilySearch, and was not copied.
+             The pencil note "NE Cornelius Ryan 20433 Aug 6-8-70" looks like an earlier filing on
+             the same quarter in August 1870, three months after the Black Brook Cornelius Ryan
+             sold his land (May 1870). "DS" is presumably a declaratory statement (pre-emption).
+             Patrick Ryan's claim, cancelled 1875, may be the Patrick Ryan born about 1812
+             in Renville County in the 1875 census, with Catharine, born about 1827 (Find a Grave: Patrick Ryan, 29 Dec 1812 - 20 Oct 1891,
+             St. Patrick Catholic Cemetery, Franklin). Kinship to Cornelius unknown.
+
+------------------------------------------------------------------------------------------
 
 census-1870-camp-ryan.jpg              [item 2]
   Collection: United States, Census, 1870
-  Record:    https://www.familysearch.org/ark:/61903/1:1:MDHZ-9LG
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MDHZ-9LG (Cornelius Ryan, 25)
   Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-DCF3-YM4
              image 4 of 7, DGS 004257584 (Minnesota, Renville, Camp)
+  Held by:   U.S. National Archives (NARA M593)
+  Header:    Page No. 2 (stamped 120; 259). Schedule 1, Inhabitants in the Town of Camp, County of
+             Renville, State of Minnesota, enumerated 9 July 1870. D. H. Dear [?], Ass't Marshal.
+  Where:     left page, lines 35-40, at the bottom
+  Transcription (dwelling | family | name | age | sex | colour | occupation | real estate |
+                 birthplace | parents foreign):
+    35  17 | 17 | Carline Timothy | 29 | m | w | farmer | 175 | New York | / /
+    36            Hannah | 21 | f | w | keeping house | | New York | / /
+    37            Ellen | 2 | f | w | | | Minnesota
+    38            John | 8/12 | m | w | | | Minnesota [born in] Jun
+    39  18 | 18 | Ryan Cornelius | 25 | m | w | [blank] | | Ireland | / /
+    40  19 | 19 | Hanson Lewis | 46 | m | w | farmer | | Norway | / /
+  Notes:     Upload because of the tract book: Timothy Carline held the NW quarter of the same
+             section 8, and a Cornelius Ryan claim on the NE quarter is noted for Aug 1870.
+             Against: the age, 25, is clearly written, and the Bandon Cornelius was 47 in 1875.
+             Either the age is an error or this is another Cornelius Ryan. Not proved.
+
+------------------------------------------------------------------------------------------
+
+census-1860-moriah-dwyer.jpg              [item 5]
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MCWL-FQQ (Malachi Dwyer, 27)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSW-HS7
+             image 20 of 87, DGS 005170345 (New York, Essex, Moriah)
+  Held by:   U.S. National Archives (NARA M653)
+  Header:    Page No. 20. Schedule 1, Free Inhabitants in Moriah, County of Essex, State of New
+             York, enumerated 20 June 1860. W. A. G. Arthur [?], Ass't Marshal. Post Office
+             [illegible, perhaps Ticonderoga or Port Henry].
+  Where:     lines 7-13 and 26-36
+  Transcription (dwelling | family | name | age | sex | colour | occupation | real |
+                 personal | birthplace | cannot read/write):
+    7   220 | 199 | James Dwyer | 35 | m | w | [ditto, labourer] | | 100 | Ireland | 1
+    8             Alice [ditto] | 25 | f | | | | | [ditto]
+    9             Mary [ditto] | 5 | f | | | | | New York
+    10            William [ditto] | 3 | m | | | | | [ditto]
+    11            Timothy [ditto] | 1 | [ditto] | | | | | [ditto]
+    12            James Anderson | 24 | [ditto] | | [ditto] | | | Ireland
+    13            Bridget [ditto] | 23 | f | | | | | [ditto]
+    26  222 | 201 | Jeremiah Ryan | 24 | m | w | [ditto] | | | Ireland
+    27            Mary [ditto] | 20 | f | | | | | [ditto]
+    28            John C. [ditto] | 2 | m | | | | | New York
+    29            Margarett [ditto] | 16 | f | | | | | Ireland | 1
+    30            Malachi Dwyer | 27 | m | | | | | [ditto]
+    31            Thomas Kearn | 40 | [ditto]
+    32            Thomas Caton | 22 | [ditto]
+    33            Thomas Kearn | 20 | [ditto]
+    34            John Ryan | 21 | [ditto]
+    35            John McRay | 50 | [ditto]
+    36            Mary Ryan | 55 | f | | | | | [ditto]
+  Notes:     Malachi is a boarder in Jeremiah Ryan's household, with no wife listed (in the 1855
+             state census he was at Moriah with a wife Bridget, 24). Kinship to these Ryans is
+             unknown. James and Alice Dwyer are the couple of the 1855 Moriah census.
+             1880: FamilySearch 1:1:MZ83-KRL, Malachi Dwyer, 45, single, school teacher, born
+             Ireland, parents born Ireland, in Patrick L. Ryan's household at Mineville, Moriah
+             (ED 56, sheet 239D). Image not copied.
+
+------------------------------------------------------------------------------------------
+
+voter-register-1899-butte-dwyer.jpg              [items 5 and 6]
+  Collection: Montana, County Voting Records, 1884-1992
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6Z7V-RM63 (Malachi Dwyer, 67, 1899)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QHV-N3ZG-85WN
+             image 147 of 818, DGS 008686917 (index gives folder 008686917_002, image 38)
+  Held by:   Silver Bow County, Montana
+  Header:    "Great Register of Butte City", 1898 (left page) and 1899 (right page). Columns:
+             no. on register | date of registration | name of elector | age | where born |
+             no. of ward | description of residence | certificate of naturalization | remarks.
+  Where:     left page, lower section headed 1899, line 3; right page, line 6
+  Transcription:
+    [left, 1899] 97 | Mch 14 [ditto] | Dwyer Malachi | 67 | Ire. | | 241 E Gran[ite] Rm 12 |
+      Cop. [?] Essex Co N.Y. Oct 10-58
+    [right, 1899] 1070 | Mch 16 [ditto] | Dwyer Patrick | 47 | N.Y. | | 241 E Granite |
+  Notes:     Malachi's naturalization: Essex County, New York, 10 Oct 1858 ("Cop." perhaps the
+             Court of Common Pleas). Essex County court naturalization papers of 1858 would be
+             the next record to look for; they may give his county of birth.
+             Patrick Dwyer, 47, born New York (about 1851-52), at the same house, is very likely
+             the "nephew Patrick Dwyer" of the 1899 obituaries. Born in New York, he is not the
+             Patrick Dwyer born in Ireland about 1849 (Philip Dwyer's son), unless the register
+             is wrong. Not proved either way.
+             Other entries for Malachi in this collection (index only): 1896, born 1835
+             (1:1:6Z7L-FJPD); 1897, born 1837 (6Z35-52S9) and 1834 (6ZWZ-S44S); 1898, born 1835
+             (6Z45-NBJK).
+
+==========================================================================================
+CHURCH REGISTERS (TRANSCRIBED, NO IMAGE)
+
+Doon and Castletown, Co. Limerick (Diocese of Cashel and Emly), baptisms. NLI register
+vtls000632704 (microfilm 02497/05), https://registers.nli.ie/registers/vtls000632704.
+English, one entry over two lines: day, child "of" parents, townland, sponsors.
+
+1. Image 11, March 1825, right page:
+   "18 Mary of Pat Ryan & Catherine Ryan - Commonde[?]lea [?] - Michael Ryan & Margaret Corbet [?]"
+   FamilySearch index 1:1:6KR8-9MVC and 1:1:627Y-LMF1 (18 Mar 1825).
+2. Image 18, July 1826, left page:
+   "10 Cornelius of Patrick Ryan & Catherine Ryan - Commondulea [?] - Cornelius & Mary Ryan"
+   FamilySearch 1:1:6KBC-DKMC, 62QY-GS7V; Ancestry 61039 record 4866184.
+3. Image 27, April 1828, left page:
+   "1 Catherine of Pat Ryan & Catherine Ryan - Commonan-lin [?] - Daniel & Catherine Ryan"
+   FamilySearch 1:1:62QH-99K7.
+   [The townland in 1-3 is written differently each time; it appears to be the same place.
+   A Bridget of Patrick Ryan and Catherine Ryan, 15 Feb 1832 (1:1:6KTV-41G1), was not read.]
+4. Image 31, December 1828, left page:
+   "5 Mary of Malachy Dwyer & Margaret Ryan - Garthoun [?] - John Connors Jun[?] & Mary Ryan"
+   FamilySearch 1:1:62X4-BLFK.
+5. Image 48, December 1831, right page:
+   "4 Malachy of Malachy Dwyer & Margaret Ryan - Garthoun [?] - John Connors & Catherine Darcy [?]"
+   FamilySearch 1:1:62JY-HDJ7, 6KTR-X42P, 6KTR-X425.
+6. Image 117, May 1841, left page:
+   "2 Michael of Philip Dwyer & Mary Shanahan - Glengar - Michael & Bridget Shanahan"
+7. Image 153, August 1846, left page:
+   "23 Bridget of Phil Dwyer & Mary Shanahan - Glengar - Ned Dwyer & Bridget Ryan"
+   [Seen in passing on image 117: "1 [June 1841] Thomas of Cornelius Ryan & Catherine Burke".]
+
+Pallasgreen and Templebredin, Co. Limerick (Diocese of Cashel and Emly), baptisms. NLI register
+vtls000632760 (microfilm 02498/02). Latin.
+
+8. Image 85, October 1824, right page:
+   "31 Cornelius ex Cornelio Ryan & Brigida Breene. Sp. Thomas Griffin & Maria Beary"
+   FamilySearch 1:1:6BSG-2MNX; Ancestry 61039 record 4879012. No townland given.
+9. Image 98, August 1826, left page:
+   "20 Maria ex Cornelio Ryan & Brigida Breene. Sp. Franciscus Kennedy & Margarita Breene"
+   FamilySearch 1:1:6B9B-HRXS.
+   [Other children of Cornelius Ryan and Bridget Breen in the FamilySearch index, not read:
+   Patrick 11 Mar 1821, Bridget 26 Jan 1823, Catherine 4 May 1828, Margaret 11 Mar 1830,
+   Winifred 12 Jan 1832, John 14 Nov 1833, Ellen 11 Oct 1835.]
+
+==========================================================================================
+ITEM 1 TABLE - every Cornelius / Connor / Con Ryan baptized 1823-1829 in the parishes named
+(FamilySearch "Ireland, Catholic Parish Registers, 1740-1900" index; Ancestry "Ireland,
+Catholic Parish Registers, 1655-1915" index), and any Mary of the same parents 1820-1832
+
+date        | parish        | townland      | parents                         | Mary of same parents
+10 Jul 1826 | Doon          | Commondulea[?]| Patrick Ryan & Catherine Ryan   | 18 Mar 1825 (read, above)
+8 Apr 1827  | Doon          | not read      | William Ryan & Mary Ryan        | 12 Jul 1831 (index only)
+31 Oct 1824 | Pallasgreen   | none given    | Cornelius Ryan & Bridget Breen  | 20 Aug 1826 (read, above)
+1 Dec 1829  | Pallasgreen   | not read      | Patrick Ryan & Mary Beary       | 6 Sep 1825 and 14 Oct 1827
+27 Apr 1823 | Oola [FS] / Sologhead [Ancestry] | not read | John Ryan & [blank] Forhy | none found
+29 Dec 1824 | Oola / Sologhead | not read   | Patrick Ryan & Mary Connors     | none in range (one 1840)
+20 Mar 1824 | Boher (Murroe)| not read      | Connor Ryan & Judy Madden       | none found
+4 Aug 1823  | Kilteely      | not read      | Cornelius Ryan & Catherine Ryan | none found [Ancestry only,
+            |               |               |                                 |   record 5021456]
+15 Apr 1824 | Emly          | not read      | John Ryan & Mary Carroll        | none in range (1840)
+29 May 1826 | Emly          | not read      | John Ryan & Anne Spelman        | none found
+22 May 1828 | Emly          | not read      | Con Ryan & Joanna Maher         | none found
+28 Dec 1828 | Kilcommon     | not read      | Cornelius Ryan & Catherine Carroll | none found
+22 Mar 1824 | Cappawhite    | not read      | John Ryan & Kitty Burry         | none found
+25 Apr 1826 | Cappawhite    | not read      | Tim Ryan & Nancy Ryan           | none found
+3 Sep 1827  | Cappawhite    | not read      | James Ryan & Margaret Ryan      | none found
+29 Dec 1828 | Cappawhite    | not read      | Connor Ryan & Kate Lysaght      | none found
+None found in Cappamore (registers begin 1843), Hospital, Kilteely (FamilySearch) or Murroe itself.
+Connor Ryan and Kitty Darcy of Cappawhite (the family of the tree's Mary, 1825): children John
+24 Jun 1829 and Susan 27 Mar 1838 in the index; no Cornelius.
+
+==========================================================================================
+TRANSCRIBED FROM INDEXES AND ANCESTRY (NO IMAGE)
+
+Cornelius Ryan's household, Bandon, Renville County, Minnesota:
+- 1875 Minnesota census, FamilySearch 1:1:MKNR-JKT (indexed "Ragen"; Ancestry 1058 record
+  4149671, image mnsc_14-0270, family 49): Cornelius 47, Ireland; Anna 30, New York; Velern
+  [William?] 3; Margaret 2; Louesa 0; children born Minnesota.
+- 1880 US census, 1:1:MZ9L-Z6R, dwelling 96: Cornelius 51, farmer, Ireland; Jane 35, wife,
+  New York; William 9; Elizabeth 6; Thomas 4; Patrick 3; John 1.
+- 1885 Minnesota census: already held (census-1885-bandon-ryan.jpg, batch 2026-11-09).
+- 1895 Minnesota census, Renville County: no Cornelius Ryan. His sons were in other households:
+  William Ryan, 23, in Daniel Brick's, Bandon (1:1:MQDS-BWB, birthplace indexed "Canda");
+  John Ryan, 15, in Joseph Rourke's, Beaver Falls (MQDS-ZNV); Pat Ryan, 17, in Patrick Murphy's,
+  Birch Cooley (MQD3-6XL).
+
+His children's deaths (indexes; the images were not viewed):
+- John Ryan, born 1879 Renville, died 4 Feb 1937 at Saint Peter, Nicollet County; father Cornelius
+  Ryan, mother Mary Ann Fox; spouse Rose. "Minnesota, Deaths, 1887-2001", 1:1:ZX9B-HL6Z and
+  ZX9B-HLZM. Find a Grave: John Ryan, Jan 1880 - 1937, buried Morton, Renville (1:1:QV2F-XT5L).
+- Elizabeth "Bessie" Ryan, born 1875, died 5 Jan 1959 at Los Angeles; father Cornelius Ryan,
+  mother Jane Fox. 1:1:QPWX-8S7S.
+- Jeanette T. Miller, born 1885 or 1886 ("New York" in one index), died 22 or 26 Jan 1922 at
+  Minneapolis; father "Cornillis Ryan", mother [blank] Fox; husband John Miller. 1:1:FD8Q-1VR,
+  Z8GC-P36Z, ZZD6-J1PZ. [Possibly the Mary Jane of the 1885 census. Not proved.]
+- Edward J. Ryan, born 1873, died 27 Jan 1944, Rochester Township, Olmsted; parents Cornelius Ryan
+  and Anna. 1:1:QPCQ-QBSX. [May be another family.]
+
+Find a Grave, St. Patrick Catholic Cemetery, Franklin, Renville County (cemetery 81948;
+transcribed from the memorial pages, no photo):
+- Cornelius Ryan, born 1829, Ireland; death unknown; spouse Jane Ryan; child John Ryan 1880-1937.
+  Memorial 239050207 (FamilySearch index 1:1:6FKQ-7THV).
+- Jane Ryan, 1845 - unknown, memorial 239050221. Gracie M Ryan, no dates, memorial 239050270.
+- No Dwyer, Dwire or Dwyre memorial in this cemetery.
+
+Malachi Dwyer, Montana: see the voter register above.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+- Cornelius Ryan's death: no date on Find a Grave; not found in "Minnesota, County Deaths,
+  1850-2001" for Renville under Ryan, 1885-1900 (the county is not standardized in that index,
+  so a page-by-page browse of the Renville death register, 1885-1895, is still needed).
+- Cornelius Ryan's marriage to Anna / Jane / Mary Ann Fox: not in "Minnesota, Marriages,
+  1849-1950" (Cornelius Ryan, 1864-1876), nor in any FamilySearch index with spouse Fox.
+- Cornelius Ryan's naturalization in Minnesota: "Minnesota, Naturalization Records and Indexes,
+  1872-1962" has no Cornelius Ryan.
+- Other land: a Cornelious Ryan homestead in T106 R44 (Pipestone County), entered 1 Jun 1880,
+  final 4 Aug 1885 (FamilySearch 1:1:6KF8-21FX; Ancestry 1246 record 2030379), is another man.
+- John and Mary Dwyer's burials: not at St. Patrick, Franklin; no Find a Grave memorial in
+  Minnesota for a John or Mary Dwyer or Dwire born 1810-1829 that fits. Two county death entries
+  checked and rejected: John Dwyer, 74, died 18 Nov 1893, Anoka (1:1:7WXB-4FW2); Ellen Dywer, 68,
+  died 3 Sep 1896, Rice County (1:1:7R1Q-K8PZ). A Jane Dwyer, died 21 Jun 1895, county not given
+  (1:1:QPSC-LZY9), was not opened.
+- Malachi Dwyer in 1870: not found (FamilySearch, born 1826-1840, any spelling of Malachi).
+- Malachi's son in Minnesota: not identified.
+- Patrick Dwyer in the 1900 census of Silver Bow County: not found under Dwyer (FamilySearch).
+- Malachi Dwyer's baptism outside Doon: the index has no other Malachy Dwyer baptized 1826-1837 in
+  Co. Limerick, and none in Co. Tipperary born 1829-1835 except as fathers.
+- Doon baptisms 1838-1849 with a John Dwyer, Mary Ryan, Cornelius Ryan or Pickham as sponsor:
+  sponsors are not indexed; only the two Philip Dwyer entries above were read.
+- glorecords.blm.gov: the site's new map interface would not take a search by name from the
+  browser; the patent was found through Ancestry's copy of the index instead.
