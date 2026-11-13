@@ -188,6 +188,165 @@ marriage-record-borell-helferich-1857.jpg              [item 1]
              the eldest son of the second marriage; he died at Strasbourg in 1903 (family
              book). Not one of the brothers who emigrated.
 
+census-1850-dubuque-haberkorn.jpg              [item 2]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ4D-YVC (Adam Havercorn)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-XCW3-F6Y
+             image 155 of 260, DGS 004181031 (Iowa, Dubuque County; NARA M432)
+  Held by:   National Archives and Records Administration
+  Header:    Schedule I, Free Inhabitants in Dist. No. 1 [?], County of Dubuque, State of
+             Iowa, enumerated 7 Nov 1850 by Jesse M. Harrison [?], Ass't Marshal; stamped
+             page 78 [handwritten 153 [?]].
+  Where:     lines 1-3, top of the page.
+  Transcription (dwelling | family | name | age | sex | occupation | real estate | birthplace):
+    1  1128 | 1172 | Adam Havercorn | 50 | M | Farmer | 800 | Germany
+    2       |      | Eve Havercorn | 50 | F | | | do. [Germany]
+    3       |      | George Havercorn | 20 | M | Laborer | | do. [Germany]
+    [next: 1129 | 1173 | Gottlieb Witman, 39, Wheelwright, $300, Germany; Elizabeth 37;
+    Gottlieb 9; Barbara 7]
+  Notes:     Adam, his wife Eve (Eva) and their son George, the three the brief names, in
+             Dubuque County, Iowa: the names of husband, wife and son agree, with the ages
+             (Adam about 1799-1800, George about 1827-30) and Germany. The index spells
+             it Havercorn. Juliana (about 21) and Ursula (about 17) are not in the household;
+             no Juliana, Ursula or Georg Mathias Haberkorn/Havercorn is indexed anywhere in
+             Iowa in 1850. The township is not named on the page (the index gives only
+             "Dubuque county").
+
+passenger-list-1859-new-york-kuchenmeister/1.jpg, 2.jpg              [item 3]
+  Collection: New York, Passenger Lists, 1820-1920
+  Record:    https://www.familysearch.org/ark:/61903/1:1:27T9-SK4 (indexed as Huchenmeisher)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:939V-529G-XV (image 400 of 574)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:939V-529P-3D (image 401 of 574)
+             DGS 004679861 (NARA M237, roll 193, 14 Jun 1859 - 14 Jul 1859)
+  Held by:   National Archives and Records Administration
+  Header:    1.jpg: District of New-York - Port of New-York. "I, J. Horstmann, Master of the
+             Bark 'Union' do solemnly, sincerely and truly swear that the following List or
+             Manifest ... is a full and perfect list of all the passengers taken on board of
+             the said Bark at Bremen ..." Sworn to this July 2nd 1859. "List or Manifest of
+             all the Passengers taken on board the Bark Union whereof J. Horstmann is Master,
+             from Bremen, burthen 450 tons." The page lists first and second cabin.
+             2.jpg: the next filmed page of the same list, steerage, numbered 66 [in pencil];
+             all "Germany" to "United States".
+  Where:     2.jpg, lines 4-11 (Kuchenmeister) and 12-19 (Oehrlein).
+  Transcription (name | age years | months | sex | occupation | country of origin |
+                 intended country | died on the voyage):
+     4  Johann Huchenmeister [sic] | 41 | 7 | Male | Farmer | Germany | United States
+     5  Magdalene d[itto] | 40 | 3 | fem.
+     6  Franz d[itto] | 14 | 6 | M
+     7  Dorothe d[itto] | 12 | 6 | fem
+     8  Jacob d[itto] | 10 | 3 | M
+     9  Valentin d[itto] | 7 | 6 | [ditto: M]
+    10  Barbare d[itto] | 5 | 2 | [ditto]
+    11  Christine d[itto] | - | 11 | fem
+    12  Andreas Oehrlein | 28 | 9 | M | farmer
+    13  Margarethe d[itto] | 28 | | fem
+    14  Barbara d[itto] | 11 | 2 | [ditto]
+    15  Johann d[itto] | 7 [?, blotted] | 6 | M
+    16  Anna d[itto] | 6 | 5 | fem
+    17  Margaretha d[itto] | 4 | 1 | [ditto]
+    18  Maria d[itto] | 3 | 5 | [ditto]
+    19  Adam d[itto] | - | 3 | Male | | | | x died on the passage
+  Notes:     The family the brief describes, every age as given (Johann 40-41, Magdalena 40,
+             Franz 14, Dorothea 12, Jacob 10, Valentin 7, Barbara 5), listed with Andreas
+             Oehrlein's family directly after them. The ship was the bark Union, Captain J.
+             Horstmann, from Bremen, arriving at New York on 2 July 1859; leaving home on
+             12 May and 46 days at sea puts the sailing about 17 May. The list adds a child
+             not in the brief: Christine Kuchenmeister, 11 months old (born about Aug 1858).
+             Adam Oehrlein, 3 months, died on the passage. The written name is
+             "Huchenmeister" (the index has Huchenmeisher); Barbare is indexed as a brother.
+             FamilySearch's Family Tree has this record attached to Valentine Kuchenmeister
+             (1851-1942, LZT5-QGJ) [a lead from the Tree only].
+
+land-petition-index-1815-lochaber-mcmillan/1.jpg - 4.jpg              [item 5]
+  Collection: Nova Scotia, Department of Crown Lands, Land records, 1763-1914; index,
+             1784-1877 (FamilySearch catalog https://www.familysearch.org/search/catalog/koha:82415;
+             browsed film, not indexed)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39B-J31F-4 (image 2791)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39B-J3LF-3 (image 2793)
+             3.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39B-J3R2-V (image 2792)
+             4.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39B-J3LJ-2 (image 2794)
+             of 4310, DGS 008486894 (Index, 1800-1877, McIn - Mar; FHL film 1378577)
+             [filmed in the order 1, 3, 2, 4; numbered here by the card's own "card n"]
+  Held by:   Nova Scotia Archives (Public Archives of Nova Scotia), Halifax
+  Header:    typed index cards: "MCMILLAN, MALCOLM & OTHERS 1815", cards 1-4.
+  Transcription (typed; copied in full):
+    1  MCMILLAN, MALCOLM & OTHERS 1815. Petition: Dated 1809. John McDonald, born in
+       Argile-Shire, Scotland. Resided in Antigonish the past 3 years, and at East River,
+       Pictou, the 3 years previous to that. Asks land at Antigonish. Petition: Dated 1815.
+       Malcolm & John McMillan of Lochaber & Ohio, County of Sydney, are natives of North
+       Britain. About 1808 or 1809 Malcolm McMillan obtained a Warrant of Survey for 250
+       acres which he located & settled on at Lochaber & made many improvements. In 1812
+       he obtained a subsequent warrant for an additional 150 acres. The petitioner's fat-
+       (cont'd)
+    2  (card 2) her obtained a warrant for & located 250 acres adjoining petitioner's
+       aforesaid 250 acre lot which he left to his son, the petitioner. Malcolm has 5 sons
+       & 1 daughter & wants land to provide for them. Asks for a grant for 500 acres - 2
+       aforesaid lots. John McMillan is an unmarried man & about 1812 obtained a warrant
+       for 200 acres. When his father arrived in this country, about 1807, he purchased 250
+       acres from John MacDonald which had been previously surveyed & laid out for him on
+       the Ohio [hole] or west branch of Anti- (cont'd)
+    3  (card 3) gonish. MacDonald died about 1811 & the petitioner settled on the land &
+       made considerable improvements in consequence of his father having made it over to
+       him. Desires grant of same. Warrants to Survey (3). Surveyor's Certificate.
+       Surveyor's Report. Draft Grant: 1150 acres, Sydney County.
+       Malcolm McMillan, Lochaber, -500 acres. John McMillan, Lochaber [?, overtyped],
+       -250 acres. John McDonald, [hole] Pomket, -400 acres. (cont'd)
+    4  (card 4) Petitions (2). Warrants to Survey (3). Surveyor's Certificate. Surveyor's
+       Report. Draft Grant.
+  Notes:     Malcolm McMillan of Lochaber, the man the brief names. Ties: Lochaber, County of
+             Sydney (now Antigonish County), the place in the brief; and his father, who had
+             his own warrant for the 250 acres next to Malcolm's and left it to him. Malcolm
+             had 5 sons and 1 daughter in 1815. The John McMillan joined with him is unmarried
+             in 1815 and his father came "about 1807"; the card does not say whether John is
+             Malcolm's brother (the brief's John, about 1793) [unproven]. These are the
+             archive's index cards, typed abstracts; the petitions themselves are on the land
+             records films of this collection (not fetched).
+
+land-petition-index-1819-antigonish-mcmillan.jpg              [item 5]
+  Collection: as above
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39B-J3RF-B
+             image 2772 of 4310, DGS 008486894
+  Held by:   Nova Scotia Archives
+  Transcription (typed):
+    MCMILLAN, HUGH 1819. Petitioner was born in Argyle, Scotland, on the estate of Col.
+    MacLean Ardgour. Petitioner emigrated to this province on 1806, has lived ten years in
+    Antigonish, has served five years in the 79th, Regiment. He has wife, seven sons
+    living, and one daughter. He asks a grant of confirmation for land he purchased from
+    a Mr. Harris of Pictou.
+    (McDonalds have a claim to this land. Mr McMillan may have 500 acres anywhere else.)
+  Notes:     A Hugh McMillan of Antigonish, emigrated 1806, born on the Ardgour estate (on
+             Loch Linnhe, across from Kilmallie in Lochaber). The brief has Hugh in the 1820s;
+             nothing on the card ties him to Malcolm or William beyond surname, county and
+             years [unproven]. Other Hugh McMillan cards in the same run (not fetched):
+             1813 (as administrator of the late Duncan McMillan of Antigonish, image 2770);
+             1819 warrant, Sugar Camp, River Inhabitants Road (2771); 1827 see McKenzie,
+             Donald & others (2773); 1830 plan, 500 acres, Long Point (2774); 1831 petition,
+             "39 years old, emigrated from Scotland 4 years before ... married, has seven
+             children ... land at the Sugar Camp, seven miles from Gut of Canso, on road to
+             River of Inhabitants" (2775) - a different, younger Hugh.
+
+land-petition-index-1831-pictou-campbell.jpg              [item 5]
+  Collection: as above
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSV2-24ZH
+             image 2323 of 5611, DGS 008126753 (Index, 1800-1877, Be - Do; FHL film 1378557)
+  Held by:   Nova Scotia Archives
+  Transcription (typed):
+    CAMPBELL, DONALD & OTHERS 1831. Warrants to Survey (5). Plan. Surveyor's Report.
+    Draft Grant: 700 acres, Pictou District.
+      Donald Campbell -150 acres.
+      Duncan McDonald -200 acres.
+      Thomas Fraser -100 acres.
+      Alpin McDougal -200 acres.
+      Patrick English - 50 acres.
+    Warrants to Survey (5). Surveyor's Report. Plan. Draft Grant.
+  Notes:     Donald Campbell and Alpin McDougal in one joint grant in Pictou District, 1831:
+             the two names the brief pairs. Found from Alpin's own card, "MCDOUGAL, ALPIN,
+             see CAMPBELL, DONALD & OTHERS 1831" (DGS 008181639, image 4224,
+             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS21-N9V3-8). No petition
+             abstract is on the card: no birthplace, ship or family. The Donald Campbell card
+             of 1826 in the same run (image 2315), a man of 48, late sergeant in the 104th
+             Regiment, with land at Arichat, is a different man (age and place).
+
 INDEX-ONLY (no image fetched)
 
 Elisabetha Bauer Borell, burial              [item 1]
