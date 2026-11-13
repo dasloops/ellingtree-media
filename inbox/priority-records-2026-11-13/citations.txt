@@ -335,6 +335,50 @@ probate-1787-roxbury-foster.jpg                  [item 3]   ** SETTLES IT **
              "Martha" may be a slip. Mary's sum is smaller than her brothers' (perhaps part paid
              already).
 
+------------------------------------------------------------------------------------------
+
+deed-1711-boston-kneeland-hawkins.jpg            [item 3, James Hawkins]
+  Collection: Suffolk County (Massachusetts) deeds, Deeds 1711-1713 (recorded copies)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z3-MHSK
+             image 18 of 638 [DGS number not read; volume number not read; right-hand folio
+             numbered 12]
+  Held by:   Suffolk County Registry of Deeds, Boston
+  Where:     left-hand page, top (marginal "Kneeland &c to Hawkins").
+  Transcription:
+    Know all men by these presents, That We John Kneeland, Solomon Kneeland, Mary Kneeland and
+    Rachel Kneeland Children of John Kneeland and Mary his Wife One of the Daughters of James
+    Hawkins formerly of Boston within the County of Suffolk in New England Bricklayer deced, for
+    and in Consideration of the Sum of Five pounds in money to us at and before the Ensealing
+    hereof well and truly paid by Lidia Hawkins Relict Widow and Admin[istra]trix of the Estate of
+    Our late Uncle James Hawkins Bricklayer deced, and for Divers other good Causes and
+    Considerations us thereto moving, Have Given granted bargained Released and Quit Claimed, and
+    for Our Selves and every of us and for Our Several and respective heirs, Do fully and
+    absolutely give grant bargain Release assigne Quit Claim and Confirm unto the said Lidia
+    Hawkins her heirs and Assignes forever, in her possession now being, all Every and Each of
+    Our Respective parts and portions Estate Title Interest Inheritance Challenge and demand in
+    Right of Our Mother aforesaid of in and to all that Certain Close or pasture Ground of Our
+    aforenamed Grandfather, and whereof Our said Uncle James Hawkins dyed Seized lying Scituate
+    nigh to the Mill Pond in Boston aforesaid and to every or any part thereof, And to all and
+    every other the Lands and Estate of Our aforesaid Uncle for any matter Cause or thing
+    whatsoever. To Have and To Hold all the said granted and Released premisses unto the said
+    Lidia Hawkins her heirs and Assignes, To her and their only proper use benefit and behoof
+    forever. In Witness whereof We have hereunto Sett Our hands and Seals the Twenty first Day of
+    March, Anno Domini One Thousand Seven hundred and Ten Eleven, Annoq Regni Reginae Annae Magnae
+    Britanniae &c Decimo.
+      John Kneeland and a Seal. Solomon Kneeland and a Seal. Mary [her W mark] Kneeland Signe
+      and a Seal. Rachel Kneeland [her] Signum and a Seal.
+    Signed Sealed and Delivered in the presence of us Thomas Robinson, Joseph Marion.
+    Suffolk ss. Boston 21st March 1710/11. The abovenamed John Kneeland, Solomon Kneeland, Mary
+    Kneeland and Rachel Kneeland personally appearing, Severally acknowledged this Instrument to
+    be their Act and Deed. Before me Isaac Addington J. Pacis. May the 26th 1711 Received and
+    accordingly Entred and Examined. p[er] Addington Davenport Regr.
+  Notes:     Not the will asked for, but it answers the question: Mary, wife of John Kneeland,
+             was "One of the Daughters of James Hawkins formerly of Boston", the grandfather of
+             the four Kneeland grantors; their uncle James Hawkins, bricklayer, was his son. The
+             rest of the page is other Hawkins estate business (the Fosdick release of 1711 and
+             the widow Lidia's sale to John Borland, which mentions "the Land of John Kneeland"
+             near the Mill Pond).
+
 ==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
 
@@ -384,3 +428,6 @@ NOT FOUND OR NOT VIEWABLE (no file)
    (https://www.familysearch.org/ark:/61903/3:1:3QS7-897M-Y12W). No Gideon and no family of
    Elisha in pages 2-11; the rest of the book was not read. A full-text search for "Gideon
    Holbrook" with Wellfleet found nothing in it either.
+3. Not reached: the 1773 guardianships, Suffolk probate nos. 15400, 15401 and 15599, and James
+   Hawkins's will of 25 June 1669 itself (the 1711 deed above names Mary Kneeland as his
+   daughter instead).
