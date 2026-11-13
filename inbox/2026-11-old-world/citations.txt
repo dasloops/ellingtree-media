@@ -1,0 +1,209 @@
+CITATIONS - Old World records, batch 1 (FamilySearch, searched 13 Nov 2026)
+
+Folder: inbox/2026-11-old-world/
+@@COUNT@@ files. All images are FamilySearch's full-size originals (dist.jpg).
+
+KEY POINTS
+@@KEYPOINTS@@
+
+==========================================================================================
+
+family-book-waldhambach-borell.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+             (browsed film; this page is not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-XGTZ
+             image 52 of 310, DGS 008110735 (Katholische Kirche Waldhambach, Kirchenbuch
+             1735-1959: Familienbuch 1744-1925, 1812-1933; FHL film 400461)
+  Held by:   Stadtarchiv Speyer (filmed by the Genealogical Society of Utah, 1961)
+  Header:    Familienbuch of the Catholic parish of Waldhambach (includes Waldrohrbach),
+             page 36 (left; the right-hand page 37, Wegmann family, is unrelated). Printed
+             columns: Familien-Namen | Geburtsort | Datum der Geburt | Trauung | Kinder
+             vermählt mit | Sterbe-Datum | Ausgezogen aus Seite | Uebertragen auf Seite |
+             Bemerkungen. Found through the book's own index (image 12 of 310,
+             https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-XP97): "Borell Jac.
+             1) A. M. Götz 2) Elisab. Bauer 36".
+  Where:     left page, the whole page.
+  Transcription (dates as written, day/month in Roman numerals/year):
+    Borell Jacob. | [born] Hainfeld | [birth blank] | [married] 15/XI [?]/1829 |
+        [died] 5 II 1886 in Eschbach | Bemerkungen: Ludimagister
+      S[ohn] v[on] Heinrich B. u[nd] Francisca Hauck
+    u[nd]
+    Anna Maria Götz | Blankenborn | | | [died] 7/IV 1830
+      T[ochter] v[on] Philipp Jacob u[nd] Catharina Lang
+      1.) Maria Amalia | | 30/III 1830 | | + | [died] c. 1829 [sic; for 1830]
+    II. Ehe:
+    Elisabetha Bauer | W.rohrbach [Waldrohrbach] | 23/IX 1809 | [married] 9 [?]/VI 1830 |
+        [died] 21 XII 1878 | [Ausgezogen aus Seite] VIII
+      T[ochter] v[on] Michael u[nd] Maria Eva Schumacher
+      2.) Georg Jacob | | 10/VIII 1831 | | A. M. Helferich | VIII 1903 | | Straßburg
+      3.) Elisab. Amalia | | 26/XII [?] 1832 | — | — | 23 XI 1848
+      4.) Georg Joseph | " | 23/VII 1834 | | | | | Amerika
+      5.) Pet. Gustav | " | 26/X 1835 | — | — | 26 III 1846
+      6.) Christoph Eduard | " | 11/VI 1837 | 5 III 1867 | Cath. Häffner | 8 VI 1901 | 97
+      7.) [Joseph, struck through] Joh. Philipp | " | 1/VII [?] 1839 | | ledig | | |
+            Straßburgweiler [?]
+      8.) Carl Nicolaus | " | 14/VIII [?] 1841 | — | — | 14 XII 1848
+      9.) Ludwig Wilhelm | " | 20/II [?] 1844 | | ? verh. [?] | | | Amerika
+      10.) Maria Margaretha | " | 8/XI 1846 | | " | | | " [Amerika]
+      11.) Christina Ludovica | " | 20/XI 1848 | | " | | | " [Amerika]
+      12.) Charlotte | " | 22 III 1852 | 11 VI 1875 | Paul Wolfer | | 112
+  Notes:     This is the family the brief asks for: Jacob Borell, schoolteacher
+             (Ludimagister), and Elisabetha Bauer of Waldrohrbach. It names Ludwig Wilhelm,
+             born 1844, "Amerika", with brothers and sisters marked the same way: Georg
+             Joseph (1834, Amerika), Maria Margaretha (1846, Amerika) and Christina Ludovica
+             (1848, Amerika). The baptism of Ludwig gives 20 Feb 1844 (see below), so the
+             family book's month, hard to read, is February. Jacob was born in Hainfeld,
+             son of Heinrich Borell and Francisca Hauck, and was married first to Anna Maria
+             Götz of Blankenborn (died 7 Apr 1830). Elisabetha's parents were Michael Bauer
+             and Maria Eva Schumacher; her own family is on page VIII of this book (index:
+             "Bauer ... Michael | M. Eva Schumacher | VIII"), not fetched. Christina Ludovica
+             (b. 1848) may be the sister the archive knows as Elisabetha Louise (Louise E.
+             Peyer), born "about 1851": the book has no Elisabetha Louise, and Ludovica is
+             Louise. The two names and dates do not match exactly [unproven].
+
+birth-record-1844-waldrohrbach-borell.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+             (browsed film; this entry is not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-896D-T
+             image 499 of 597, DGS 008110734 (Katholische Kirche Waldhambach, Kirchenbuch:
+             Taufen, Heiraten, Tote 1735-1858, 1772-1858; FHL film 400459)
+  Held by:   Stadtarchiv Speyer (filmed by the Genealogical Society of Utah, 1961)
+  Header:    Baptisms of Waldrohrbach (the Waldrohrbach section of the Waldhambach books),
+             right-hand page 105 [stamped 235], "1844", entry No. 4. Margin: "Ludovicus
+             Guilielmus Borell 20 Febr."
+  Where:     right-hand page, middle.
+  Transcription (Latin):
+    Anno Domini millesimo octingentesimo quadragesimo quarto, die vigesima Februarii natus
+    et vigesima prima Februarii a me infra scripto parocho baptizatus est filius legitimus
+    Jacobi Borell ludimagistri in Waldrohrbach et Elisabethae Bauer conjugum catholicorum,
+    cui nomen Ludovicus Guilielmus impositum. Patrinus fuit Georgius Bauer civis in
+    Waldrohrbach. Ita testor Laurentius Trapp parochus in Eschbach.
+    [In the year of the Lord 1844, on 20 February was born, and on 21 February baptized by
+    me the undersigned parish priest, the legitimate son of Jacob Borell, schoolteacher in
+    Waldrohrbach, and Elisabetha Bauer, Catholic spouses, to whom the name Ludwig Wilhelm was
+    given. The godfather was Georg Bauer, citizen of Waldrohrbach. So I attest, Laurentius
+    Trapp, parish priest in Eschbach.]
+  Notes:     Ludwig (Louis) Borell. Ties: father Jacob Borell, schoolteacher, and mother
+             Elisabetha Bauer, the parents the Minnesota death index gives as "Jacob Borell,
+             Barbara Bauer" (Louis Borell, d. Waverly 1936); Waldrohrbach, the place in the
+             brief; the godfather Georg Bauer is of the mother's family name. The family book
+             (above) lists him among the children who went to "Amerika". Born 20 Feb 1844,
+             not 22 Feb.
+
+birth-record-1846-waldrohrbach-borell.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+             (browsed film; not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-8966-Z
+             image 502 of 597, DGS 008110734 (as above)
+  Held by:   Stadtarchiv Speyer
+  Header:    Waldrohrbach baptisms, right-hand page 111 [stamped 261], "1846. 1847", No. 8.
+             Margin: "Ma[ri]a Marg. Borell 8 Nov."
+  Where:     right-hand page, top entry.
+  Transcription (Latin):
+    Anno Domini millesimo octingentesimo quadragesimo sexto, die octava Novembris nata et
+    nona Novembris a me infra scripto parocho baptizata est filia legitima Jacobi Borell
+    ludimagistri in Waldrohrbach et Elisabethae Bauer conjugum catholicorum, cui nomen datum
+    Maria Margaretha. Matrina fuit Margaretha Rau [?] obstetrix in Waldhambach. Ita testor
+    Laurentius Trapp parochus in Eschbach.
+    [Born 8 Nov 1846, baptized 9 Nov; daughter of Jacob Borell, schoolteacher in
+    Waldrohrbach, and Elisabetha Bauer; godmother Margaretha Rau [?], midwife in
+    Waldhambach.]
+  Notes:     Margaret Borrell (archive page margaret-borrell-1846). Same parents and house as
+             Ludwig's; marked "Amerika" in the family book.
+
+birth-record-1848-waldrohrbach-borell.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+             (browsed film; not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-896D-V
+             image 504 of 597, DGS 008110734 (as above)
+  Held by:   Stadtarchiv Speyer
+  Header:    Waldrohrbach baptisms, left-hand page 114 [stamped 264], "1848. 1849", No. 11.
+             Margin: "Christina Ludovica Borell 20 Nov."
+  Where:     left-hand page, middle.
+  Transcription (Latin):
+    Anno Domini millesimo octingentesimo quadragesimo octavo, die decima nona Novembris nata
+    et vigesima Novembris a me infra scripto baptizata est Christina Ludovica, Jacobi Borell
+    ludimagistri et Elisabethae Bauer conjugum catholicorum in Waldrohrbach filia legitima.
+    Matrina fuit Elisabetha Müller in Waldrohrbach. [Ita testor Laurentius Trapp parochus
+    in Eschbach.]
+    [Born 19 Nov 1848, baptized 20 Nov; godmother Elisabetha Müller of Waldrohrbach.]
+  Notes:     Possibly the sister the archive calls Elisabetha Louise (Louise E. Peyer), see
+             the family book's note. Marked "Amerika" in the family book.
+
+birth-record-1834-waldrohrbach-borell.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+             (browsed film; not indexed)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-896D-Y
+             image 490 of 597, DGS 008110734 (as above)
+  Held by:   Stadtarchiv Speyer
+  Header:    Waldrohrbach baptisms, left-hand page 86 [stamped 236], "1834", No. 4; and on
+             the right-hand page, "1834-35", No. 5 [of 1835].
+  Where:     left page, top entry (Georg); right page, bottom entry (Peter Gustav).
+  Transcription (Latin):
+    4  Georgius Borell [margin]. Anno Domini millesimo octingentesimo trigesimo quarto, die
+       vigesima tertia Julii natus et vigesima quinta ejusdem mensis renatus est filius
+       legitimus Jacobi Borell Ludimagistri et Elisabethae [Bauer] conjugum et civium in
+       Waldrohrbach, levante e sacra fonte [?] Metzger [?] pastore [?]. Ita teste Antonio
+       Dosier [?]. Ita testor [signature].
+       [Born 23 Jul 1834, baptized 25 Jul; son of Jacob Borell, schoolteacher, and
+       Elisabetha, citizens of Waldrohrbach. The sponsor's line is hard to read: the
+       baptizing priest of these years signs "Metzger".]
+    5  Petrus Gustavus Borell [margin; with a cross and "1846"]. Anno Domini millesimo
+       octingentesimo trigesimo quinto, die vigesima octava Octobris natus et altera die
+       renatus est Petrus Gustav[us] filius legitimus Jacobi Borell Ludimagistri et
+       Elisabethae Bauer conjugum et civium in Waldrohrbach, levante e sacra fonte Petro
+       Frey [?]. Ita testor [signed] Metzger.
+       [Born 28 Oct 1835, baptized the next day; godfather Peter Frey [?]. Died 1846.]
+  Notes:     Georg is the Georg Joseph of the family book, born 23 Jul 1834 and marked
+             "Amerika": the Joseph Borell who died at Waverly, Minnesota, in 1911 (born 1834,
+             parents "Jacob Borell, Elsbeth B?" in the Minnesota death index). The baptism
+             gives only "Georgius". Peter Gustav (1835-1846) died a child.
+
+marriage-record-borell-helferich-1857.jpg              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6VP9-P23V (Georgium Jacobum Borell)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-X914-2
+             image 309 of 459, DGS 008110730 (Katholische Kirche Goßersweiler, Kirchenbuch:
+             Heiraten 1732-1961; FHL film 400452)
+  Held by:   Stadtarchiv Speyer (filmed by the Genealogical Society of Utah, 1961)
+  Header:    "Copulati anno 1857", pages 52-53 [stamped 563-564], entry No. 5 [-70].
+  Where:     foot of the left page, continued at the top of the right page.
+  Transcription (Latin):
+    Margin: Georgius Jacobus Borell ex Waldrohrbach et Anna Maria Helferich ex Stein. +
+    5-70. Anno Domini millesimo octingentesimo quinquagesimo septimo, die decima septima
+    Februarii, praeviis trinis proclamationibus nulloque detecto impedimento canonico, nec
+    non exhibitis pro parte sponsi litteris dimissoriis a Plur. Reverendo parocho in
+    Eschbach, ego Ludovicus Karbeck [?] pastor ad sanctum Cyriacum Martyrem in Gossersweiler
+    matrimonio junxi in ecclesia filiali ad sanctum Martinum in Stein Georgium Jacobum Borell,
+    filium solutum catholicum Jacobi Borell et Elisabethae Bauer, conjugum in Waldrohrbach,
+    et Annam Mariam Helferich, filiam solutam catholicam Friderici Helferich defuncti et
+    Margarethae Bonillon [Bouillon?], viduae superstitis in Stein, praesentibus testibus
+    [names not written]. Ita testor Ludovicus Karbeck [?] pastor.
+    [17 Feb 1857, at Stein, filial church of Gossersweiler: Georg Jacob Borell, single,
+    son of Jacob Borell and Elisabetha Bauer, married couple in Waldrohrbach, married Anna
+    Maria Helferich, single, daughter of the late Friedrich Helferich and of Margaretha
+    Bonillon, widow, of Stein.]
+  Notes:     The record that led to the family: indexed with the parents' names, it names
+             Waldrohrbach and the groom's parish of Eschbach. Georg Jacob (b. 10 Aug 1831) is
+             the eldest son of the second marriage; he died at Strasbourg in 1903 (family
+             book). Not one of the brothers who emigrated.
+
+INDEX-ONLY (no image fetched)
+
+Elisabetha Bauer Borell, burial              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+  Record:    https://www.familysearch.org/ark:/61903/1:1:6KD4-J14N
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS55-3SNK-5 (viewable; not fetched)
+  Index:     Elisabetha Bauer Borell, female, age 69 years, birth year (estimated) 1809;
+             death 21 Dec 1878; burial 23 Dec 1878; place "Königreich Bayern, Deutsches
+             Reich" [parish not given in the index]; husband Jacobi Borell.
+  Notes:     Agrees with the family book (born 23 Sep 1809, died 21 Dec 1878).
+
+Charlotta Borell, marriage              [item 1]
+  Collection: Germany, Bavaria, Catholic and Lutheran Church Records, 1591-1963
+  Record:    https://www.familysearch.org/ark:/61903/1:1:J41H-Q83 (Germany, Marriages,
+             1558-1929); the same marriage in the Bavaria collection is reached from the
+             father's entry, https://www.familysearch.org/ark:/61903/1:1:6KD4-L16R
+  Index:     Charlotta (Charlottam Elisabetham) Borell, bride, 11 Jun 1874, Sankt Martin,
+             Landau; parents Jacobi Borell, Elisabethae Bauer; groom Paulus Wolfer.
+  Notes:     The youngest daughter (b. 22 Mar 1852); the family book gives 11 VI 1875.
