@@ -1,10 +1,31 @@
 CITATIONS - Old World records, batch 1 (FamilySearch, searched 13 Nov 2026)
 
 Folder: inbox/2026-11-old-world/
-@@COUNT@@ files. All images are FamilySearch's full-size originals (dist.jpg).
+21 files. All images are FamilySearch's full-size originals (dist.jpg).
 
 KEY POINTS
-@@KEYPOINTS@@
+- Louis (Ludwig Wilhelm) Borell was born at Waldrohrbach on 20 Feb 1844 and baptized the
+  next day, son of Jacob Borell, schoolteacher, and Elisabetha Bauer (Waldhambach Catholic
+  parish books, Waldrohrbach section). The parish family book lists the whole family:
+  Jacob (born Hainfeld, son of Heinrich Borell and Francisca Hauck, died at Eschbach 1886),
+  his two wives, and twelve children, four of them marked "Amerika": Georg Joseph (1834),
+  Ludwig Wilhelm (1844), Maria Margaretha (1846) and Christina Ludovica (1848). Baptisms
+  of all four are here, with the 1857 marriage of their brother Georg Jacob.
+- Adam Haberkorn ("Havercorn"), 50, farmer, his wife Eve and son George, 20, were in
+  Dubuque County, Iowa, in 1850. Alois Lang was not found.
+- The Kuchenmeisters arrived at New York on 2 Jul 1859 in the bark Union, Captain J.
+  Horstmann, from Bremen, with Andreas Oehrlein's family; the list adds an infant,
+  Christine, 11 months, and records that Adam Oehrlein, 3 months, died at sea.
+- The Haberkorns' 1844 arrival was not found.
+- Nova Scotia land petition index cards: Malcolm McMillan of Lochaber settled about 1808-9
+  on land beside his father's, had 5 sons and 1 daughter in 1815; a Hugh McMillan born on
+  the Ardgour estate, Argyll, came in 1806 and served in the 79th; Donald Campbell and
+  Alpin McDougal shared a grant in Pictou District in 1831.
+- Henry Stultz, blacksmith, born New Jersey about 1807, is found in every census asked
+  for: Beaver Dam 1850, 1860 and 1870, Hastings 1880, with his wife Sally and their
+  children. His 1840 entry was not identified.
+- Peter Teisen ("Tyson") and Dorothea Kuchenmeister ("Dorrita Coochinmaster") married in
+  Carver County on 1 Jan 1864.
 
 ==========================================================================================
 
@@ -347,6 +368,146 @@ land-petition-index-1831-pictou-campbell.jpg              [item 5]
              of 1826 in the same run (image 2315), a man of 48, late sergeant in the 104th
              Regiment, with land at Arichat, is a different man (age and place).
 
+census-1850-beaver-dam-stultz/1.jpg, 2.jpg              [item 6]
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:M4DF-RM3 (Henry Stultz)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:S3HT-63YQ-WT4 (image 22 of 37)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:S3HT-63YQ-QVD (image 23 of 37)
+             DGS 004191533 (Wisconsin, Dodge County; NARA M432)
+  Held by:   National Archives and Records Administration
+  Header:    1.jpg: Schedule I, Free Inhabitants in Beaver Dam (Dis. No. 11 [?]), County of
+             Dodge, State of Wisconsin, enumerated 29 Jul 1850 [?, "twenty ninth"] by Daniel
+             O. Connor Jr. [?], Ass't Marshal. 2.jpg: the next page, enumerated the thirtieth
+             [?] day of July 1850, stamped 77.
+  Where:     1.jpg lines 37-42 (foot of the page); 2.jpg lines 1-2.
+  Transcription (dwelling | family | name | age | sex | occupation | birthplace | school):
+    37  407 | 417 | Henry Stultz | 43 | M | Blk. Smith | N. J.
+    38          | | Sally A. Stultz | 36 | F | | N. Y.
+    39          | | Virginia [ditto] | 15 | F | | [ditto N. Y.] | 1
+    40          | | Lear [?] [ditto] | 11 | F | | [ditto] | 1
+    41          | | George [ditto] | 8 | M | | Wis. | 1
+    42          | | Mary [ditto] | 6 | F | | [ditto Wis.] | 1
+    2.jpg:
+     1          | | Laura Shultz | 3 | F | | Wis.
+     2          | | Charly H. [ditto] | 1 | M | | [ditto]
+  Notes:     Henry Stultz, blacksmith, born New Jersey about 1807, with his wife Sally A.
+             (born New York) and six children; the household runs over the page. The two
+             eldest daughters were born in New York (about 1835 and 1839), so the family was
+             in New York around 1835-1839; George (about 1842) is the first born in Wisconsin.
+
+census-1860-beaver-dam-stultz.jpg              [item 6]
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MWMP-3G4 (Sally Ann Stoltz; Henry
+             is indexed as Henry Stoltz on the same record)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSF-S94H
+             image 11 of 24, DGS 005171772 (Wisconsin, Dodge, 3rd Ward City of Beaver Dam)
+  Held by:   National Archives and Records Administration
+  Header:    Page No. 39 [stamped 119]. Schedule 1, Free Inhabitants in 3rd Ward City of
+             Beaver Dam, County of Dodge, State of Wisconsin, enumerated 14 Jun 1860 by Roswell
+             Judson [?], Ass't Marshal. Post Office Beaver Dam (Wis).
+  Where:     lines 10-19.
+  Transcription (dwelling | family | name | age | sex | occupation | real estate |
+                 personal estate | birthplace | school):
+     9  [previous family] William Meiggs | 50 | M | Gentleman Boarder | | | N.Y.
+    10  73 | 73 | Henry Stoltz | 53 | M | [ditto: Gentleman] | 2000 | 1000 | [ditto: N.Y.]
+    11          | | Sally Ann (Wife) | 44 | F | | | | [ditto]
+    12          | | George [ditto] | 17 | M | Clerk in Store | | | Wisconsin
+    13          | | Mary [ditto] | 15 | F | | | | [ditto] | 1
+    14          | | Laura [ditto] | 13 | F | | | | [ditto] | 1
+    15          | | Charles [ditto] | 11 | M | | | | [ditto] | 1
+    16          | | Sally Ann [ditto] | 9 | F | | | | [ditto] | 1
+    17          | | John [ditto] | 6 | M | | | | [ditto] | 1
+    18          | | Sabina McGuire | 21 | F | Servant Girl | | | London England
+    19          | | Robert L. Bassett | 23 | M | Merchant [&] Boarder | | | Mass.
+  Notes:     The same family (Sally Ann, George, Mary, Laura, Charles, Beaver Dam). Henry's
+             occupation and birthplace are ditto marks from the boarder above him, so this
+             page makes him a "Gentleman" born in New York: a ditto error for blacksmith and
+             New Jersey, most likely, against 1850, 1870 and 1880. Tallman (about 1851) is
+             missing from this household.
+
+census-1870-beaver-dam-stultz.jpg              [item 6]
+  Collection: United States, Census, 1870
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MN9C-MZJ (Henry Stultz)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-D4G4-8QZ
+             image 17 of 28, DGS 004268455 (Wisconsin, Dodge, Beaver Dam, ward 3)
+  Held by:   National Archives and Records Administration
+  Header:    Page No. 17 [stamped 50]. Schedule 1, Inhabitants in the 3rd Ward of Beaver Dam,
+             County of Dodge, State of Wisconsin, enumerated 14 Jun 1870. Post Office:
+             Burnett [?] Wisconsin. Lorenzo Merrill, Ass't Marshal.
+  Where:     lines 30-36.
+  Transcription (dwelling | family | name | age | sex | colour | occupation | real estate |
+                 personal estate | birthplace | school):
+    30  141 | 142 | Stultz, Henry | 63 | M | W | Blacksmith | 3000 | 3000 | New Jersey
+    31          | | [ditto] Sally | 56 | F | W | Keeping House | | | New York
+    32          | | [ditto] Charlotte | 23 | F | W | At Home | | | Wisconsin
+    33          | | [ditto] Tallman | 19 | M | W | Painter | | | Wisconsin
+    34          | | [ditto] John | 16 | M | W | At School | | | Wisconsin | 1
+    35          | | Bassett, Mary | 25 | F | W | School Teacher | | | Wisconsin
+    36          | | [ditto] Mary E. | 6 | F | W | At School | | | Wisconsin | 1
+  Notes:     Henry, blacksmith, born New Jersey, 63; Sally; Charlotte (the Laura of 1850-60,
+             it seems, about 1847), Tallman and John at home, and Mary Bassett (the daughter
+             Mary of 1850-60, now married, most likely to the Robert L. Bassett boarding with
+             the family in 1860) with her daughter Mary E.
+
+census-1880-hastings-stultz.jpg              [item 6]
+  Collection: United States, Census, 1880
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ93-35J (indexed as Sallie Shiltz)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBX-KCT
+             image 23 of 39, DGS 005161047 (Minnesota, Dakota, Hastings, ED 195)
+  Held by:   National Archives and Records Administration
+  Header:    Page No. 13 [?], Supervisor's Dist. No. 2, Enumeration Dist. No. 195 [stamped
+             156]. Schedule 1, Inhabitants in Hastings 1st & 2nd Wards, County of Dakota,
+             State of Minnesota, enumerated 9 Jun 1880 by E. L. Winslow [?], Enumerator.
+  Where:     lines 13-16; and lines 32-33 (a second household).
+  Transcription (dwelling | family | name | colour | sex | age | relationship | married |
+                 occupation | birthplace | father's birthplace | mother's birthplace):
+    13  196 | 205 | Shiltz [Stultz], Henry | W | M | 73 | | 1 | Blacksmith | N. Jersey |
+                    N. Jersey | N. Jersey
+    14          | | [ditto] Sallie | W | F | 66 | Wife | 1 | Keeps House | New York | New York
+                    | New York
+    15          | | [ditto] Lottie | W | F | 32 | Daughter | | At Home | | New Jersey [?] |
+                    [the rest of the line is hard to read]
+    16          | | Bassett, Minnie | W | F | 16 | Granddaughter | | At School | Wis. | Conn. |
+                    Wis.
+    32  201 | 210 | Stultz [?], Tallman | W | M | 29 | | 1 | Painter | Wis. | New Jersey |
+                    New York
+    33          | | [ditto] Emma | W | F | 25 | Wife | | Keeps House | | England | England
+  Notes:     Henry, blacksmith, 73, born New Jersey of New Jersey parents; Sallie, born New
+             York of New York parents; Lottie (Charlotte); the granddaughter Minnie Bassett
+             (the Mary E. Bassett of 1870); and nearby the son Tallman, painter, with his wife
+             Emma. Henry's birthplace, given three times as New Jersey, settles the brief's
+             question against New York (1860 being a ditto error).
+
+marriage-record-teisen-kuchenmeister-1864.jpg              [item 9]
+  Collection: Minnesota, County Marriages, 1853-1983
+  Record:    https://www.familysearch.org/ark:/61903/1:1:X2T2-8ZR (Peter Tyson); also indexed
+             at https://www.familysearch.org/ark:/61903/1:1:X2TQ-MZ3,
+             https://www.familysearch.org/ark:/61903/1:1:X2T3-DJP (the county's marriage
+             index, image https://www.familysearch.org/ark:/61903/3:1:939Z-YGTG-4: "242 |
+             Tyson, Peter | Dorrita Coochinmaster | 1 1 1864 | A | 121") and Minnesota,
+             Marriages, 1849-1950, https://www.familysearch.org/ark:/61903/1:1:FD6N-D65
+  Image:     https://www.familysearch.org/ark:/61903/3:1:939Z-YGBY-7
+             image 455 of 841, DGS 004539692 (Carver County marriage records)
+  Held by:   Carver County, Minnesota
+  Header:    right-hand page 121, "Marriage Certificate", No. 242 [over 241].
+  Where:     right-hand page, top entry.
+  Transcription:
+    Peter Tyson and Dorrita Coochinmaster. 242 [altered from 241]. State of Minnesota,
+    County of Carver } ss. I the undersigned do hereby certify that on the first day of
+    January A.D. 1864 [written so it looks like 1804], that Peter Tyson and Dorrita
+    Coochinmaster were married by me before the undersigned Witnesses.
+    Witnessed: Christina Single, Christian Single. Adam Morrison, Justice of the Peace.
+    Filed for Record, February 24th A.D. 1864. G. Krayenbuhl [?], Clerk.
+    Transferred from Record Book A page 64 of Ordinations & Marriage Certificates,
+    [date not read].
+  Notes:     Peter Teisen and Dorothea Kuchenmeister, written by an English-speaking clerk as
+             he heard them (Tyson, Coochinmaster), in Carver County on 1 Jan 1864, the
+             county and year the brief gives. FamilySearch's Family Tree has the record
+             attached to Peter Tiesen (1839-1939, K8C3-47X) [a lead from the Tree only].
+             A Minnesota death index entry for a Peter Teisen names his parents as John
+             Teisen and Dora Kuchmeister (search result, not opened) [worth checking: a son
+             of this couple, or a second marriage].
+
 INDEX-ONLY (no image fetched)
 
 Elisabetha Bauer Borell, burial              [item 1]
@@ -366,3 +527,56 @@ Charlotta Borell, marriage              [item 1]
   Index:     Charlotta (Charlottam Elisabetham) Borell, bride, 11 Jun 1874, Sankt Martin,
              Landau; parents Jacobi Borell, Elisabethae Bauer; groom Paulus Wolfer.
   Notes:     The youngest daughter (b. 22 Mar 1852); the family book gives 11 VI 1875.
+
+Louis Borell, death              [item 9]
+  Collection: Minnesota, Deaths, 1887-2001
+  Record:    https://www.familysearch.org/ark:/61903/1:1:CBS4-WVW2
+  Index:     Louis Borell, male, age 92, born 1844 Germany; died 29 Sep 1936, Waverly,
+             Wright, Minnesota; certificate number 18973; father Jacob Borell; mother Barbara
+             Bauer; spouse Catherine.
+  Notes:     No image on FamilySearch ("Check Image Availability" only). The certificate
+             (1936-MN-018973) is not viewable here. The mother's name is Elisabetha in every
+             German record; "Barbara" is the informant's error.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. The parents' marriage (Jacob Borell and Elisabetha Bauer, 9 [?] Jun 1830, per the family
+   book) was not found in the time: the Waldrohrbach part of DGS 008110734 holds baptisms
+   from about 1829 (images 485 on) and then blank pages and Waldhambach deaths (image 525,
+   1815); the Waldrohrbach marriages were not located. Jacob's first marriage (15 Nov [?]
+   1829, to Anna Maria Götz of Blankenborn) was not searched. Elisabetha Bauer's own family
+   page (VIII) in the family book (DGS 008110735) was not fetched. No Elisabetha Louise
+   Borell is in the family book; see the note on Christina Ludovica.
+   Sisters not fetched: Elisab. Amalia (b. 26 Dec [?] 1832), Charlotte (b. 22 Mar 1852).
+2. Alois (Aloys, Louis) Lang with a Theresia about 14 in the 1850 census: not found. Searched
+   United States, Census, 1850 (Iowa): surname Lang, Lange, Long and close spellings in
+   Dubuque County; given name Alois/Aloys/Louis in Iowa; given name Theresia/Teresa born
+   1833-1839 in Dubuque County. Only Conrad Lange (b. 1823) is a Lang in Dubuque County.
+   Juliana, Ursula and Georg Mathias Haberkorn are not in Adam's 1850 household and were not
+   found elsewhere in Iowa in 1850.
+4. The Haberkorns' arrival in 1844: not found. Searched Maryland, Baltimore Passenger Lists,
+   1820-1948 (surname Haberkorn with close spellings, all years: only arrivals of 1852 and
+   later); 1844 arrivals at Baltimore with given names Adam (born 1795-1803), Juliana and
+   Ursula (Ursula Baumer, 11, ship Latrobe, 20 Nov 1844, is with Christ., Cathr. and Hugh
+   Baumer: unrelated); all FamilySearch records for Haberkorn 1843-1845 (no immigration
+   record). No ship Schiller was found in the index. The Baltimore cards are filmed
+   alphabetically and could be browsed under H for 1844 [not done].
+5. William McMillan of the South River / Blue Mountain: his own cards in the index are only
+   cross-references, "MCMILLAN, WILLIAM, see FRASER, THOMAS & OTHERS 1827" (DGS 008486894,
+   image 2797) and "see LIVINGSTONE, JAMES & OTHERS 1829" (image 2798); those joint
+   petitions are filed under Fraser and Livingstone (index films Do-Jol, DGS 008126754, and
+   McIn-Mar / Jon-McIn) and were not reached. The petitions themselves (as opposed to the
+   index cards) were not fetched for anyone.
+6. Henry Stultz in 1840: not identified. Searched United States, Census, 1840 for Henry
+   Stultz and close spellings in New York and New Jersey: no Henry Stultz in Rockland County,
+   New York, or Bergen County, New Jersey. Henry Stults (two: Henry P. and Henry H.) in
+   Monroe Township, and Henry A. Stults in South Brunswick, Middlesex County, New Jersey,
+   are possible but nothing ties them to him (the 1840 census names only the head).
+   The children's birthplaces put the family in New York about 1835-1839.
+7. Scotland, the parish registers (Urquhart and Glenmoriston; Kilmallie and Kilmonivaig):
+   not searched this session.
+8. German and Slovenian church books (Veitshöchheim, Zell am Main, Thüngersheim, Waldthurn,
+   Podsreda): not searched this session.
+9. Frank Kuchenmeister's death (Barron County, 1938?), Mary (Haberkorn) Panian's death and
+   Louise E. Peyer's death certificate (1929-MN-023694): not searched this session.
