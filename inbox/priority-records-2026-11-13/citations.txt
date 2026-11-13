@@ -217,6 +217,124 @@ death-record-1891-northfield-cheesman/1.jpg, 2.jpg      [item 1c]
              and month are a day apart, so the informant knew her birthday but perhaps not the
              year. Worth weighing against the censuses.
 
+------------------------------------------------------------------------------------------
+
+probate-1773-roxbury-foster/1.jpg, 2.jpg         [item 3]
+  Collection: Suffolk County (Massachusetts) probate records, 1636-1899 (recorded copies),
+             Probate Records vol. 73, 1773-1774
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YR-JKJY (folios 14-15)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YR-JKJR (folios 16-17)
+             images 380 and 381 of 742, DGS 7703701
+  Held by:   Suffolk County Probate Court, Boston
+  Where:     fol. 14, foot (warrant, marginal "John Foster Warrant &c 12403"), fol. 15 (return
+             and the start of the settlement, marginal "Foster John Real Estate settled upon his
+             Son 12403"), fol. 16 (the settlement). The case is no. 12403, "Lib. 73, fol. 14".
+  Transcription:
+    [fol. 14, top: the end of the preceding account, of Tabitha Steward on James Steward's
+    estate, case 15080; not this case]
+    [fol. 14, marginal] John Foster Warrant &c 12403.
+    Suffolk ss: By the Judge of Probate &c. To Messrs William Heath Samuel Heath & Jeremiah
+    Parker all of Roxbury in said County & sufficient Freeholders Greeting. You are hereby
+    desired and impowered to make a just and Equal Division or Partition of the Real Estate
+    whereof John Foster late of Roxbury aforesaid Cordwainer died seized, by setting off to his
+    Widow her Dower or thirds therein, & Divide the Remainder amongst his six children or their
+    legal Representatives assigning to the eldest Son a Double Share provided the same is
+    capable of a Division, if not you are to report how many the same will accommodate &
+    appraise the remainder according to your best skill & Judgement in order to a settlement
+    thereof, you are to be sworn to this trust & to make return of the same as soon as may be
+    first notifying those who are concerned to be present at said Partition if they see cause.
+    Given under my Hand this 7th day of May 1773. F. Hutchinson J Probate.
+    Pursuant to the Warrant hereto annexed, we the Subscribers have set off unto the Widow of
+    John Foster late of Roxbury Cordwainer deceased the Real Estate hereafter mentioned which we
+    apprehend to be her Dower or thirds of said John's Real Estate viz the Southwest Lower Room
+    & Bedroom in the Mansion House with Garden from the Southwest Corner of the Bedroom to Mr
+    Boilstone's fence excepting the large Red Heart Cherry tree, the west half of the East
+    Cellar with a Right in the Well with Liberty of Passing to and from it, also two acres of
+    Land on the North side of the Home Lott next Mr Goldthwait's Land from the lane to the west
+    end of the Lott to be of an Equal Width throughout. The Remainder of the Real Estate being
+    the other part of the Mansion House, shop, Barn and about four acres of Land adjoining
+    together with a Small Tenement & half an acre of Land on the plain we have appraised at the
+    Sum of One Hundred & Sixty pounds & are of opinion that it is not capable of Division
+    without prejudice to the whole. Wm Heath. Jeremiah Parker. Samuel Heath.
+    Roxbury 23d July 1773.
+    Suffolk ss: I Allow and approve of this Return. F Hutchinson J Probate.
+    [fol. 15, marginal] Foster John, Real Estate settled upon his Son, 12403.
+    Suffolk ss: By the Honble Foster Hutchinson Esqr Judge of the Probate of Wills and
+    granting Administrations for the County of Suffolk in the Province of Massachusetts Bay, duly
+    appointed and Commissioned. To all unto whom these Presents shall Come, Greeting. Whereas it
+    hath been made to appear to me
+    [fol. 16] that the Real Estate whereof John Foster late of Roxbury in the County aforesaid
+    Cordwainer deceased Intestate, died seized or possessed, and which remains to be distributed
+    or divided to and among his Heirs or legal Representatives, in proportion to their
+    Respective shares and Interest therein, without great Prejudice to said Estate, and is
+    convenient for one settlement only, and appraisement having been made thereof and the return
+    of said appraisement having been accepted by me and ordered to be Recorded in the Registry of
+    Probate for the aforesaid County; and Samuel Foster Eldest Son of said Intestate Desiring
+    said Estate may be settled on him and having given Bond to pay to the other Heirs or legal
+    Representatives of said Intestate for their Rateable Parts or Proportion of said Estate
+    exclusive of the Widow's Dower which has already been set off to her viz: To William, John,
+    Mary, James & Martha the other Children of the Intestate Twenty two Pounds seventeen
+    shillings & 1 3/4 [?] each which with his own Double share being 45.14.1.72 [sic] makes
+    the Sum of 160 being the whole appraised Value of the Estate. Pursuant therefore to the
+    Power and Authority Given to me in my Capacity aforesaid by the Laws of this Province, I do
+    by these Presents order and assign all the Right Title & Interest of the said Intestate in
+    the two thirds of the Real Estate aforesaid to the said Samuel Foster. To have & to hold the
+    same to him the said Samuel Foster his Heirs & Assigns forever. In Testimony whereof I have
+    hereunto set my Hand & caused the Seal of Office to be affixed this 30th Day of July 1773 &
+    the thirteenth Year of the King's Reign. F. Hutchinson J Probate.
+  Notes:     John Foster of Roxbury, cordwainer, intestate, left a widow and six children:
+             Samuel (the eldest son), William, John, Mary, James and Martha. Mary is named here
+             without a surname; the 1787 paper below shows she was Thomas Thompson's wife.
+             The "six children or their legal Representatives" wording suggests one may already
+             have been dead or represented.
+
+------------------------------------------------------------------------------------------
+
+probate-1787-roxbury-foster.jpg                  [item 3]   ** SETTLES IT **
+  Collection: Probate and Family Court Department FILE PAPERS: Suffolk, Massachusetts,
+             Probate Records 1636-1894 (the loose papers of an estate)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2L-R91V-P
+             image 1505 of 2,059 [DGS number not read from the viewer]
+  Held by:   Suffolk County Probate Court, Boston
+  What:      the commissioners' report on claims against the insolvent estate of Capt. Samuel
+             Foster of Roxbury, the eldest son, who had taken the real estate in 1773 and given
+             bond to pay his brothers and sisters their shares. Found through FamilySearch
+             full-text search.
+  Transcription:
+    To the Honorable Oliver Wendell Esquire Judge of Probate for the County of Suffolk.
+    The Subscribers being appointed by Warrant from your Honor, to receive and examine the
+    claims of the several Creditors to the Estate of Capt. Samuel Foster late of Roxbury
+    deceas'd represented Insolvent, and having given public notice that we would attend said
+    business on the last monday of December last, and the last monday in the five following
+    months, at the House of Deacon Samuel Sumner Innholder in Roxbury Street from 3 to 7 [?]
+    o'Clock P.M. each day, attended accordingly and find the several sums underwritten due to
+    the persons to whose names they are anex'd, viz
+      Ebenezer Smith Acct. ................................................ 1..17..6
+      Joshua Gore ditto ................................................... 2..0..0
+      Doct. Thos Williams ditto ........................................... 5..14..5
+      Capt. Saml Heath, Note & Interest ................................... 25..7..2
+      [struck through: William Foster Acct. for Funeral allowed in the Adm. [?] 3..6..8]
+      William Foster for his proportion of his Fathers Estate agreeable to the Warrant of
+        Division dated July 30. 1773 and Interest on the same ............. 42..1..0
+      John Foster for ditto ............................................... 42..1..0
+      Thomas Thompson (for Mary Foster his Wife) .......................... 22..19..9
+      Thomas Cheney (for Jane Foster) ditto ............................... 38..8..7
+      Doct. Jona Davis .................................................... 22..7..2
+                                                                            202..3..3
+      [struck through: Doct. Jona Davis for Medicine & attendance in Capt. Foster's last
+      sickness] deduct 3..16..0 [?]                              3..6..8 / 198..16..7
+    NB The Interest on the Childrens proportion of their Fathers Estate, and the Note due to
+    Capt. Saml Heath is calculated to the 31st [?] of July 1787 and submitted to your Honor by
+                                                       Samuel Mellish
+    Roxbury August 2[?] 1787                           John Williams junr   } Commissioners
+  Notes:     Thomas Thompson claims "for Mary Foster his Wife" her proportion of "his [the]
+             Fathers Estate agreeable to the Warrant of Division dated July 30. 1773", the
+             settlement of John Foster's estate above. This names Mary Thompson as John Foster's
+             daughter. Differences to weigh: Jane Foster (by Thomas Cheney) is claimed for, and
+             Martha and James are not; Jane may be Martha's representative or the settlement's
+             "Martha" may be a slip. Mary's sum is smaller than her brothers' (perhaps part paid
+             already).
+
 ==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
 
