@@ -4,7 +4,22 @@ Folder: inbox/priority-records-2026-11-13/
 All images are FamilySearch's full-size originals (dist.jpg).
 
 KEY POINTS
-- [Filled in at the end of the batch.]
+- Mary (Foster) Thompson was a daughter of John Foster of Roxbury, cordwainer: in 1787 Thomas
+  Thompson claimed "for Mary Foster his Wife" her share of "his Fathers Estate agreeable to the
+  Warrant of Division dated July 30. 1773" (probate-1787-roxbury-foster.jpg), and the 1773
+  settlement names the six children Samuel, William, John, Mary, James and Martha
+  (probate-1773-roxbury-foster/).
+- Mary, wife of John Kneeland, was "One of the Daughters of James Hawkins formerly of Boston":
+  her children's quitclaim of 21 Mar 1710/11 (deed-1711-boston-kneeland-hawkins.jpg).
+- Ruth Cheesman died at Northfield, Minnesota, 24 June 1891, a widow, born in Ohio; the register
+  gives her parents as "Not Known" and her age as 84 (death-record-1891-northfield-cheesman/).
+- The three "Timothy Marvin" will-book entries are witnessings only; they name no Ruth, Pickett
+  Marvin or Rice. A George W. Rice bought 40 acres in sec. 23, T7, R18 from James Rice in 1853;
+  the 77 acres in sec. 24 were not found in the grantee index to book O.
+- Capt. John Holbrook's 1748/9 administration has nothing recorded after the letter; Deacon
+  Elisha's own estate (1779) names his minor children Daniel, Sarah, Joseph and Ezekiel and son
+  Jeremiah, and his widow was Priscilla.
+- The Westbury Quaker minutes and the S:t Ibb moving-out register are locked on FamilySearch.
 
 ==========================================================================================
 
@@ -423,8 +438,6 @@ deed-1711-boston-kneeland-hawkins.jpg            [item 3, James Hawkins]
              writes the Tyler-Ginn marriage on the same page without saying whose daughter
              Sally was. This puts her with the Ginns of Bucksport, but it does not name her
              father. Her husband's name is spelled "Rolad" here and indexed "Roland".
-5. Still to find: the marriage intention in Bucksport's own town records, and any town record
-   naming Capt. James Ginn's children. Not reached in this session.
 
 ==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
@@ -496,3 +509,17 @@ NOT FOUND OR NOT VIEWABLE (no file)
    name. Read in full-text view only; not fetched.] Not yet tried: FamilySearch "New York,
    Probate Records" for New York County will libers of 1700-1735 browsed by name, and the
    Westchester deeds of 1708-1730 for a deed from Nathaniel to a son Benjamin.
+5. Still to find: the marriage intention in Bucksport's own town records, and any town record
+   naming Capt. James Ginn's children. Not reached in this session.
+6. S:t Ibb moving-out register (In- och utflyttningslängd B:4, 1862-1895), 1891 no. 15: not
+   viewable. FamilySearch DGS 4531303 ("Kyrkoböcker", 244 images) shows a padlock on every image.
+   Ancestry has the index entry only (no image), "Sweden, Emigrants Registered in Church Books,
+   1783-1991" (EmiWeb), https://www.ancestry.com/search/collections/61085/records/590945:
+     Name: Anna Elvira Pålsson | Gender: Kvinna (Female) | Birth: 27 dec. 1871, Malmöhus
+     (Skåne), Sankt Ibb | Departure: 3 nov. 1891, Malmöhus (Skåne), Sankt Ibb | Arrival:
+     Amerika (USA) | Occupation or relation: Piga [maid] | Marital status: Unmarried | Notes:
+     Travels alone | Original page: 169
+   [The "original page 169" is the household roll AI:13 p. 169 already in the archive, not the
+   moving-out register, so this adds "piga" and "travels alone" but no destination beyond
+   America.]
+7-15. Not reached in this session.
