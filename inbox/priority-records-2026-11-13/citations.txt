@@ -229,3 +229,40 @@ NOT FOUND OR NOT VIEWABLE (no file)
    (books C and J), Jeremiah Rice (book D), William B. Rice (books G, L, M), Frederick Rice
    (books G-H), Davidson Rice (book K). Not yet searched: the rest of book O onward (images
    196 on), the second index film DGS 7900599, and the Gallia County tracts.
+2a. Capt. John Holbrook of Eastham, administration 1748/9: no inventory, account or division
+   was ever recorded. The Barnstable County "Consolidated general index to probate records and
+   cases A-L 1686-1950" (DGS 7705398, image 416 of 531,
+   https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YB-VN4R) has one entry for him:
+   "1748 | Holbrook | John | Letters Administration | Eastham | Records 7 | 95". That is the
+   letter already known (DGS 7705402, image 355, book pp. 94-96). The letter runs to p. 96 and is
+   dated 2 Feb 1748/9; it orders an inventory "on or before the second day of May next", but none
+   was entered. Also checked: the indexes at the front of Probate Records v. 8 (1745-1753, DGS
+   7705403, image 8) and v. 9 (1749-, DGS 7705404, image 7). No Holbrook in either.
+   Seen on the way, same index, image 415
+   (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YB-VN44):
+     "1779 | Holbrook | Elisha | Wellfleet | Records: Letters Administration 16:149; Inventory
+     20:384; Widow's Allowance 20:385; Dower 20:494-495; Insolvent Commissioners' Warrant and
+     Report 10:639-641; License to sell Real Estate 21:38; Account 21:39; Account 10:65;
+     Settlement 21:40; Children's Guardian (Daniel, Sarah, Joseph and Ezekiel) 18:46 to 49;
+     Son Jeremiah's Guardian 18:64".
+     [Deacon Elisha's own estate. It was insolvent, so there is no division. The guardianship
+     names only the minor children; Gideon, about 14 in 1779, is not among them. Not fetched.]
+     Read in FamilySearch's full-text view, not fetched: the final account of the
+     administration, Barnstable Probate Records 21:39-40, DGS image 60 of 835
+     (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9Y1-3SYP-R). The machine transcription,
+     checked against nothing yet: "The accompt of Pricilla Holbrook of Wellfleet ... as she is
+     Administratrix to the Estate of Elisha Holbrook late of Wellfleet ... Intestate deceased";
+     the real estate ("The House cleared land woodland and Pew") was sold at public auction at
+     Wellfleet on 8 May 1780; charges include "Doctor Davis's account for last Sickness" and the
+     funeral; allowed 12 Oct 1780; the balance of two pounds was settled on "Priscilla Holbrook
+     Widow & relict of the said Elisha Holbrook". [Worth knowing: his widow in 1779-80 is
+     Priscilla, not Sarah. Either Deacon Elisha married again, or this is another Elisha.]
+2b. Wellfleet church records, 1730-1786: not on FamilySearch. The catalog for Wellfleet has
+   church records only for 1831-1859 (koha:522160). Wellfleet's town book "Births, marriages,
+   deaths, Vol. 1, 1763-1844" is on DGS 7010732 (400 images, no index, no padlock). Read pages
+   2-11 (images 7-11): the Holbrook entry there is the children of Thomas and Hannah Holbrook
+   (Lucy 1762, Hannah 1764, Jesse 1766, Thomas 1769, Joseph, Anthony, Solomon, Huldah, Eunice,
+   Sally, Allen, to 1783), p. 9, image 10
+   (https://www.familysearch.org/ark:/61903/3:1:3QS7-897M-Y12W). No Gideon and no family of
+   Elisha in pages 2-11; the rest of the book was not read. A full-text search for "Gideon
+   Holbrook" with Wellfleet found nothing in it either.
