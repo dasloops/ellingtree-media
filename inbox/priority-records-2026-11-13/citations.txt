@@ -191,6 +191,32 @@ deed-1853-jackson-rice.jpg                       [item 1b]
              Marvin. No other George Rice appears as grantee in the R grantee pages of books A
              to O (see NOT FOUND below).
 
+------------------------------------------------------------------------------------------
+
+death-record-1891-northfield-cheesman/1.jpg, 2.jpg      [item 1c]
+  Collection: Rice County (Minnesota). Clerk of District Court, Death records, 1870-1909;
+             death index, 1870-1910 (FamilySearch Catalog koha:746451)
+  Image:     1.jpg https://www.familysearch.org/ark:/61903/3:1:3QS7-L9DL-4FFQ (left page)
+             2.jpg https://www.familysearch.org/ark:/61903/3:1:3QS7-89DL-4F4T (right page)
+             images 577 and 578 of 1,112, DGS 7552568 (Death records, v. A, page 133)
+  Index:     "Index to Death Record of Rice County, Minnesota", same film, image 134
+             (https://www.familysearch.org/ark:/61903/3:1:3QS7-99DL-4NP2), right-hand page,
+             C section, entry 22: "Cheesman Ruth | June | 24 | 1891 | A | 133 | 28".
+  Held by:   Rice County Courthouse, Faribault, Minnesota
+  Header:    "Register of Deaths", 1891, page 133; section headed "City of Northfield".
+  Where:     line 28 of the page; the 4th entry for June in the Northfield section.
+  Transcription (the columns, named):
+    No. 4 | June 24 [1891] | Ruth Chesman | Female | [White: "Do"] | Widow | age 84 years
+    0 months 24 days | born Ohio | cause: Heart Disease | place of death: [Northfield City:
+    "Do Do"] | occupation: House wife | parents' names: Not Known | parents' birthplace:
+    Not Known | registered June 24 [1891]
+  Notes:     The name is spelled "Chesman" in the register and "Cheesman" in the index.
+             The register does not name her parents ("Not Known"), so it neither proves nor
+             disproves Pickett Marvin. Her age is given as 84 years 0 months 24 days, which works
+             back to 31 May 1807, five years later than the 1 June 1802 the archive has. The day
+             and month are a day apart, so the informant knew her birthday but perhaps not the
+             year. Worth weighing against the censuses.
+
 ==========================================================================================
 NOT FOUND OR NOT VIEWABLE (no file)
 
@@ -203,7 +229,3 @@ NOT FOUND OR NOT VIEWABLE (no file)
    (books C and J), Jeremiah Rice (book D), William B. Rice (books G, L, M), Frederick Rice
    (books G-H), Davidson Rice (book K). Not yet searched: the rest of book O onward (images
    196 on), the second index film DGS 7900599, and the Gallia County tracts.
-1c. Ruth Cheeseman's death, Rice County, Minnesota, 1891: in progress, not reached. The
-   county's "Death records, 1870-1909; death index, 1870-1910" (FamilySearch Catalog
-   koha:746451) is on DGS 7552568 (1,112 images: births, death index, deaths v. A, deaths
-   v. B) and DGS 4881612 (another filming of deaths v. A). The film opens without a padlock.
