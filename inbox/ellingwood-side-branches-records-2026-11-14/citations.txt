@@ -1,10 +1,27 @@
 CITATIONS - Ellingwood side branches records, batch 1 (FamilySearch, searched 14 Nov 2026)
 
 Folder: inbox/ellingwood-side-branches-records-2026-11-14/
-[COUNT] files. All images are FamilySearch's full-size originals (dist.jpg).
+10 image files in 7 entries (two of them are folders of 2 pages). All images are FamilySearch's full-size originals (dist.jpg).
 
 KEY POINTS
-[KEYPOINTS]
+- [item 1] Jason Adams of Wilton's will (dated 9 Sept 1862, proved 14 Feb 1863) names "my three
+  sons Leonard Adams, Lewis M. Adams and Charles Adams" and his wife "Mary or Polly". This proves
+  Lewis M. Adams's father.
+- [item 2] 1860, Wilton: Charles F. Elliot, 31, farmer, born Connecticut, with Susan M., 22, two
+  doors from Jason Adams. A Michael Elliot, 60, and Sobelia, 59, both born in New York, live with
+  them. They are possibly his parents (a lead only). 1870, Chicago ward 5: Chas. F. Elliott, R.R.
+  conductor, with Susan M., Jennie S., Geo. L. and Laura E. The 1896 death index gives his birth
+  as 13 Mar 1829 at "E. Camann, Conn."; the death image is restricted.
+- [item 3] William Woodberry Sen. of Beverly, mariner (will 6 Nov 1725, proved 29 Nov 1725),
+  names "Sarah the Wife of Ralph Ellenwood Junr", his wife Joanna, and sons William, Thomas,
+  Hugh, Elisha and Miall, with Israel already dead. This proves Sarah's father.
+- [item 5] The 1711 division of Seth Hinckley's estate gives one share to "the two children of
+  Thomas Hinckley another of the brothers deceased". Its list of Thomas's brothers and sisters
+  includes a sister, Mercy Crosby. The guardianship itself was not found.
+- [item 6] Joseph Cole Junr of Eastham's will (26 Jan 1794) names "my daughter Sarah Shaw" and
+  "my granddaughter Rachel Shaw". The will says Shaw, not Holdershaw.
+- [item 9] Jane Pattullo's 1879 death register entry: the informant is Andrew Pattullo,
+  publisher, Woodstock. The cause of death has faded past reading on this film.
 
 ==========================================================================================
 
@@ -487,3 +504,105 @@ will-1794-eastham-cole/  (1.jpg, 2.jpg)              [item 6]
              Hawes of Dennis under a warrant of 9 Aug 1796). Wife: Anna. Sons: Reuben, Abiel,
              Jesse, Henry. Daughters: Mary Snow, Sarah Shaw. Grandchildren: Joseph, Edward,
              Elizabeth, Phebe, Eunice, Huldah, Henry and Abiel Cole, and Rachel Shaw.
+
+==========================================================================================
+
+INDEX ENTRY, NO IMAGE: Thomas Robsen, christened Eckford 1811              [item 10]
+  Collection: Scotland, Births and Baptisms, 1564-1950
+  Record:    https://www.familysearch.org/ark:/61903/1:1:X11F-ZP5
+  Image:     none ("Image Unavailable"); DGS 007909282, FHL film 1067934, indexing batch
+             C11787-2, originating system ODM
+  Transcription (every field):
+    Name: Thomas Robsen | Sex: Male | Father's name: Thomas Robsen (male) | Mother's name:
+    Jane Clark (female) | Event type: Christening | Event date: 9 Sep 1811 | Event place:
+    Eckford, Roxburghshire, Scotland, United Kingdom | Event place (original): Eckford,
+    Roxburgh, Scotland
+  Notes:     Not Jane's own baptism, which I could not find (see below). This is the only
+             FamilySearch index entry for a child of Thomas Robson/Robsen and Jane (Jean) Clark
+             at Eckford. It places the couple at Eckford two years after Jane's stated birth.
+
+INDEX ENTRY, NO IMAGE: Charles F. Elliott, death, Chicago, 1896              [item 2]
+  Collection: Illinois, Cook County Deaths, 1871-1998 (the task calls it 1878-1922)
+  Record:    https://www.familysearch.org/ark:/61903/1:1:N7N4-M3Y
+  Image:     restricted: "To view these images ... access the site at a FamilySearch center
+             [or] affiliate library." DGS 004004311, FHL film 1033024, image number 1049,
+             indexing batch B06113-8. Not opened.
+  Transcription (every field):
+    Name: Charles F. Elliott | Sex: Male | Age: 67 years 1 months 14 days | Birth date:
+    13 Mar 1829 | Birthplace: E. Camann, Conn. | Residence place: Chicago, Cook, Illinois |
+    Marital status: Married | Occupation: R.R. Conductor | Race: White | Event type: Death |
+    Event date: 27 April 1896 | Event place: Chicago, Cook, Illinois, United States | Event
+    place (original): Chicago, Cook, Illinois, United States | Record number: 50 |
+    Reference: cn 4713
+  Notes:     "E. Camann, Conn." is the indexer's reading; East Canaan, Litchfield County, is the
+             likeliest place meant [my reading, not the record's], to be checked on the image.
+             No parents' names or burial are in the index. FamilySearch's tree person K4L2-544
+             ("Charles Franklin Elliot") has several 1914-1937 Cook County deaths attached to
+             him that cannot be his; it was used only as a lead.
+
+INDEX ENTRY, NO IMAGE: Job Sylvester, Revolutionary War pension S. 37,480              [item 8]
+  Collection: United States, Revolutionary War Pension and Bounty Land Warrant Applications,
+             1800-1900
+  Record:    https://www.familysearch.org/ark:/61903/1:1:NS6T-H4C (with companion index
+             entries 1:1:NS6T-H68, 1:1:NS6T-4Y8, 1:1:NS6T-H49 for the same file, not opened)
+  Image:     FamilySearch: "This image is only available on fold3.com." DGS 004169764, FHL film
+             972185 (M804 roll 2185). Fold3 answered with a bot-verification page (HTTP 403)
+             in the browser pane; I did not try to get round it.
+  Transcription (every field):
+    Name: Job Sylvester | Residence place: Massachusetts | Event type: Pension | Event place:
+    Spring Street Cemetery, Essex, Essex, Massachusetts, United States [FamilySearch's
+    standardised place; the original reads only "Massachusetts"] | Event place (original):
+    Massachusetts | File name: 2185 [the roll number] | Pension number: S. 37,480 | Source
+    publication title: Revolutionary War Pensions | Affiliate publication number: M804 |
+    Affiliate publication title: Revolutionary War Pension and Bounty-Land Warrant
+    Application Files | Affiliate name: National Archives and Records Administration (NARA) |
+    Other people on this record: Job Silvester, Veteran
+  Notes:     "S." marks a survivor's (not a widow's) file, consistent with a man pensioned under
+             the act of 1818. Nothing in the index ties it to Durham, Maine; the declaration
+             itself is needed to confirm identity and to get the 1820 schedule and last payment.
+             Several other "Job P. Sylvester" files exist (with Plummer, Gross, Herrick and
+             Robinson names); they are a different man or men.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Index to Wills, vol. 1 (DGS 005115924, drawer 055 folder 60) not consulted, because
+   Full-Text reached the will book directly. The original papers in the Surrogate's files were
+   not looked for.
+2. 1880 census of Charles F. Elliott, 2839 Dearborn St., Chicago: not found. Tried Elliott and
+   Elliot* with Charles and Chas; spouse Susan; children Jennie and Laura; Connecticut-born
+   1825-1833 in Cook County; and all Elliott households in Chicago with a wife Susan. The
+   household may be under another surname spelling, or he may have been away on the road. His
+   parents' names and burial: not found. The death certificate image (DGS 004004311, image
+   1049) is restricted to FamilySearch centers and affiliate libraries.
+4. Will of John Wheeler of Concord, 1713: not found this session. Middlesex probate papers
+   (first series) are on FamilySearch by case number (FHL catalog koha:263304). The Wheeler cases
+   fall around DGS 007553821 (cases 24182-24284; a Wheeler file of 1827 is at mid-film) and
+   007553823 (cases 24074-24181). The case number was not established. The recorded copies are
+   Probate records (copies) v. 12-13, 1705-1713 (DGS 007554523) and v. 14, 1713-1716 (DGS
+   007554524); the originals for v. 14, 1713-1717, are DGS 007554517. None of these is in
+   Full-Text.
+5. Guardianship of Joshua and Thomas Hinckley, and Thomas Hinckley's estate (administration
+   11 Oct 1710): not found. Searched Full-Text for Hinckley, Hinkley, Harwich and guardian, both
+   across all collections and within DGS 007705950 (the Barnstable book of 1686-1747). The
+   Seth Hinckley division above is the only related entry found.
+7. Plymouth probate of Abijah Stetson (1786), William Phillips Jr. of Pembroke and Amos
+   Sylvester Jr. of Hanover: not found in Full-Text. Abijah Stetson appears only in 1738-1770
+   probate pages, and the 1784-1798 "Job Sylvester" hits are other men's estates (a note, an
+   account, claims). The Plymouth County probate index needs browsing.
+8. Job Sylvester's pension file: index only (above). The images are on Fold3, which showed a
+   bot-verification page.
+10. Jane Robson's baptism (Eckford, 9 May 1809), her parents' marriage (Eckford, 3 Aug 1793) and
+   Jean Clark's baptism (26 Jun 1770, parents James Clark and Margaret Balmer): none of them in
+   FamilySearch's Scotland indexes under Robson, Robsen, Robs* or Clark. The only Eckford child of
+   Thomas Robsen and Jane Clark indexed is Thomas, 1811 (above). ScotlandsPeople (paid) was not
+   searched.
+11. Eastham, the return of the marriage of John Holdershaw and Sarah Cole, 4 Dec 1760: image
+   3:1:3QS7-L979-96FB (p. 174) shows the 1760 intentions, including John Holdenshaw and Sarah Cole
+   (April 1760), which the archive already has. I saw no December return on that page at screen
+   size. Full-Text found nothing for Holdershaw or Holdenshaw. The image was not brought in.
+14. Thomas Woodbury of Beverly (docket 30516): the docket index (DGS 007704236, image 782) gives
+   "1719 Apr. 20 Will, Prob. & Bond [vol.] 312 [pp.] 522-5; 1723 Nov. 9 Receipts 313:77-8; 1724
+   Mch. 13 Warr. comtee 315:165; Return & div. certain r. e. 315:165-6". Vol. 312 is on DGS
+   007704837. Located but not brought in.
+12, 13, 15-30: not started (time).
