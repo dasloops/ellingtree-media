@@ -194,3 +194,169 @@ will-1863-wilton-adams/  (1.jpg, 2.jpg)              [item 1]
              grandson. The task's Index to Wills route (DGS 005115924, drawer 055 folder 60) was
              not needed: Full-Text search reached the will book directly. The original papers in
              the Surrogate's files (drawer 055, folder 60) were not looked for.
+
+==========================================================================================
+
+probate-1725-beverly-woodbury/  (1.jpg, 2.jpg)              [item 3]
+  Collection: Essex County, Massachusetts, probate records and indexes 1638-1916 (FHL catalog
+             koha:412735; browse images, not indexed and not in Full-Text)
+  Found by:  the Essex probate docket index, vols. 13-16, Ro-Yo, DGS 007704236, image 783 of 817
+             (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9Y5-1Z5C), under "Woodberry or
+             Woodbery &c.": docket 30527, "William, Beverly, mariner, test[ate]. 1725 Nov. 29 Will
+             & Prob. [vol.] 315 [pp.] 309-11; Dec. 27 Inv. (not on file) Acc. &c. Oct. 21. 1731
+             (on file) [vol. 315 p.] 314; 1758 Nov. 13 Warr. comtee & return; Div. pt. r. e.
+             according to will [vol.] 335 [pp.] 505-6, 507."
+  Image:     1.jpg  https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YY-X3KT-T
+                    image 176 of 647 (record book pages 308-309)
+             2.jpg  https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YY-X32W-8
+                    image 177 of 647 (pages 310-311)
+             DGS 007704839 (FHL film 875129), Old Series: Probate records, vols. 315-316,
+             Book 15-16, 1722-1736
+  Held by:   Essex County Registry of Probate, Salem, Massachusetts (microfilm of the record books)
+  Header:    p. 309: "William Woodberrys Will Prov[e]d Approv[e]d & allow[e]d"
+  Transcription (pp. 309-311, the William Woodberry entry; my own reading; spelling as written,
+  long s and ye/yt kept as y):
+    [p. 309] In the Name of God Amen. I William Woodberry Sen. of Beverly in the County of Essex
+    in the Province of the Massachusetts Bay in New England Mariner being through Mercy of
+    Disposeing Mind & Memory although very Infirme of Body thro Weakness that hath long attended
+    Me therefore Mindfull of My Near Approching Change I Doe Make this My Last Will & Testament
+    in Manner following & first I bequeath & Commend My Soul to God who gave [it] hopeing that
+    whenever he Shall Call Me hence by Death I Shall have through the Meritts of Jesus Christ an
+    Enterence into Eternall Life and when My Body Do returne to Dust from whence itt was taken,
+    Shall be raised up in Glory att the Last Day, and I Desire that itt May when I Dye have a
+    Deacent Interment att the Discretion of My Executors hereafter Named. And as to the
+    Temporall Estate, that God hath bestowed upon Me My Will is.
+    Imprimis That all My Just Debts and Funerall Charges be first Paid and Discharged.
+    Item I Will and bequeath to My Loving Wife Joanna, My Now Dwelling House and all My Household
+    Stuff as beds and beding Bedsteds and all other mooveables in the House and all the Corn and
+    Meat and other Provision that is in the House, or Shall be Brought in for y Winter Store and
+    all Wooll & Cloth that is in the House and Flaxe that is in the Barn and all her Wareing
+    Apparell and the Creatures hereafter Named (viz) Two Cows, and Six good Sheep all which Shee
+    Shall have Libberty to Chuse out of My Stock, And also My Horse & halfe the Corn and halfe the
+    Apples and halfe the Cyder, that Shall be raised on My Living, with halfe the Pastureing and
+    Carbidge [?] of the Same and halfe the Barn Standing to the Eastward of my house, All Corn &
+    Cyder Apples And the halfe of Everything that is Raised on My Land before given to My Wife
+    Joannah, My five Sons Shall bring into the House for her & halfe the Hay Stalks and Straw and
+    Winter Meet [meat] for the Creatures, halfe of all Sorts, they My five Sons Shall put itt into
+    the Barn yearly for her, Also My Garden before the Door of My House and the Use of the Shop,
+    And One Swine Now att the Door and also My five Sons Shall Cutt and bring to My Wife five
+    Cord of Wood yearly of[f] My Land All before bequeathed to My Loveing Wife Joannah to be for
+    her own Use Dureing the time of her Widowhood So long as Shee Shall remain My Widow & No
+    longer. And If My Wife Shall See Cause to Change her Condition and Marry Again, then I give
+    and bequeath to My Loveing Wife Joannah forever to be att her own Disposall the Bed she Lyes
+    on Standing in the West End of My House, with all the furniture thereunto belonging, And One
+    Iron Pott, and One Brass Kittle, fire Shovell and Tongs One Trammell, One Pine Chest, & One
+    Square Table Standing in the East Room and three Puter Platters, Six Chairs & Six Spoons &
+    also Two Cows to be att her own Dispose forever.
+    [p. 310] Item My Will is and I hereby give and bequeath to My two Daughters (viz.) Sarah the
+    Wife of Ralph Ellenwood Jun[r] And Loes Woodberry to Each of them and their Heires the Sum of
+    Ten Pounds apeace to Each of My Said Loveing Daughters in Province Bills of Creditt, or Mony
+    Equovalent thereunto, to be paid in Eighteen Months Next After My Decease. Item I give to My
+    beloved Daughter Mary Woodberry, Relict & Widow of My Son Israell Woodberry Dec[ease]d the
+    West Lower Room in house Shee now Lives in and Room in the Seller under the Same for her own
+    Use, and also the Garden Shee Now Improves before Said Room to be for her own Use and her
+    Children to Live in as Long as Shee Shall remain my Sons Widow. Item I give unto My Grand
+    Children the Children of My Son Israell Woodberry Dec[ease]d Namely Hannah Woodberry, Abigall
+    Woodberry Mary Woodberry and Joannah Woodberry to Each of them five Pounds Apeice to Each of
+    them My Loveing Grandchildren to be paid when they Come to be Eighteen years of Age in
+    Passable mony of New England when they Shall Come to that Age of Eighteen years.
+    Item My Will is and I hereby give unto My Two Loveing Daughters Namely Sarah Ellenwood and
+    Loes Woodberry After My Wife has Done with itt all the Remaining Part, of My Said Household
+    Stuff, Beds & beding and all Moveables in the House Excepting what I have heretofore given My
+    Wife to be att her own Disposing forever, to be Equally Divided between my two Daughters
+    Namely Sarah And Loes After My Wife has Dune with them att the time of her Decease or
+    Marriage &c.
+    Item My Will is and I hereby give and bequeath unto My Loveing Son William Woodberry the Land
+    his House now Stands on, and Twelve foott from the House on the Southwest End of itt and one
+    Rod to the North, on y back side of y House and as farr to the East of Said House, as y
+    Eastermost and So Square of from the two Northmost Corners unto the Country Road itt is to
+    be understood, Twelve feet to the South West of y House and as farr to North East as y
+    Garden is now fenc[e]d. the Eastmost part of itt and So to Runn Square, from the Rode or
+    County High way, one Rod to y North or back side of his House to be to him and his Heires
+    forever.
+    Item My Will is and I hereby give And bequeath unto My five Sons Namely William Woodberry
+    Thomas Woodberry Hugh Woodberry, Elisha Woodberry and Miall Woodberry, all the Rest and
+    remainder of My Estate not heretofore Mentioned be itt Reall and Personall, Housing Lands
+    Tenements, Goods Chattles, all Rights and Creditts whatsoever and wheresoever I have with all
+    Vessells, Tackling and all things belonging thereunto, I hereby give and bequeath unto My
+    before Named five Sons in Equall Shares and Proportions to be Equally Divided between them to
+    be to them and their Heires forever. And Also My Will is that After My Wife Shall Marry or
+    Decease, then the House barn & Garden, before given her to be Equally Divided between My
+    before Named five Sons. And also what I have given My Daughter in Law Mary Woodberry Dureing
+    the time of her remaining My Sons Widow My Will is that, that be also Equally Divided between
+    My five fore named Sons Namely William Woodberry Thomas Woodberry Hugh Woodberry Elisha
+    Woodberry & Miall Woodberry
+    [p. 311] to be to them and their Heires forever in Equall Shares and Proportions they
+    Likewise paying all My Just Debts and funerall Charges in Equall Proportion between them, And
+    Severall Legacies Due herein before Expressed And Respectively allotted to them to Pay.
+    Item My Will is that there Shall be No Division of Any of My Creatures this Winter untill
+    they are Wintered out by reason that there is fodder Lay[d] in to keep them till the Spring
+    and that Elisha and Miall two of My Sons tend them this Winter And also have Catel to hall
+    wood for My Wife this Winter of My Land And I Do hereby Make My afores[ai]d Loveing Sons
+    William Woodberry And Thomas Woodberry Sole Executors of this My Last Will and Testament
+    Declaring itt so to be And hereby Nulle all former Wills by Me Made I Witness whereunto And
+    In Confirmation of all and Singular the Premises I have hereunto Sett my hand and Seale this
+    Sixth Day of Novbr Anno Seventeen Hundred twenty five And in the Twelfth year of the Reign of
+    our Sovereign Lord George King of England.   William Woodberry & a Seal
+    Signed Sealed &c. to be his Last Will and Testament in Presence of us Witness[es]: John Ober
+    Jonathan Woodberry Israell Ober Nath[anie]ll Black
+    Essex ss. Ipswich Novbr 29th 1725 Before the Hon[ora]ble John Appleton Esq. Judge of the
+    Probate of Wills &c. in Said County of Essex John Ober Jonath[an] Woodberry & Israell Ober
+    all Personally app[eare]d and Made Oath that they ware Present and Saw William Woodberry Late
+    of Beverly Dec[ease]d Signe Seale and hear him Publish and Declare y within written Instrument
+    to be his Last Will and Testament And when he So Did he was of good understanding and of
+    Disposeing Mind to the best of there Discerning and they all att the Same time together with
+    Nath[anie]ll Black Sett to there hands in his Presence as Witnesses.
+    Sworn attest Dan[ie]ll Appleton Reg[iste]r
+    Upon Which this Will is Prov[e]d Approv[e]d and allow[e]d itt being Presented by the
+    Executors therein Named who accepted that trust and to give in and Inventory in one Month
+    from y Date hereof.   attest Dan[ie]ll Appleton Reg[iste]r
+  Notes:     Proves Sarah (Woodbury) Ellingwood's father: William Woodberry Sen. of Beverly,
+             mariner, names "my two Daughters (viz.) Sarah the Wife of Ralph Ellenwood Junr And
+             Loes Woodberry." His wife is Joanna (Joannah). The sons named are William, Thomas,
+             Hugh, Elisha and "Miall" (the task's Mihill). Israel is named as a son already dead,
+             with his widow Mary and their children Hannah, Abigail, Mary and Joanna. The will is
+             dated 6 Nov 1725 and was proved at Ipswich 29 Nov 1725, matching the task. The
+             inventory (vol. 315 p. 314) and the 1758 division (vol. 335 pp. 505-507) were not
+             brought in. Ralph is "Junr" here; that he is the mariner lost in 1728/9 is the
+             archive's identification, not stated in this record.
+
+==========================================================================================
+
+death-record-1879-woodstock-pattullo.jpg              [item 9]
+  Collection: Canada, Ontario, Deaths, 1869-1937 and Overseas Deaths, 1939-1947
+  Record:    https://www.familysearch.org/ark:/61903/1:1:JKWC-ZWL (Jane Pattullo)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q93-C9YJ-7796-M
+             image 525, DGS 004173028 (FHL film 1853227)
+  Held by:   Archives of Ontario (RG 80-8, death registrations)
+  Header:    [page] 498. Schedule C. Deaths. Registration district of Oxford. Division of
+             Woodstock. [Footer:] certified true and correct for the half-year ending 30th June
+             1879, given under my hand this fifteenth [?] day of July 1879, Wm. Grey [?],
+             Division Registrar of Woodstock.
+  Where:     lower half, middle column, entry No. 23 (stamped 011246)
+  Transcription (FamilySearch's index first, then what I can read on the film):
+    Index: Jane Pattullo, female, 70 years, born about 1809 at Eckford, Scotland, widowed,
+           occupation widow, died 4 April 1879, Ontario, certificate #11246.
+    No. 23
+    Name and surname of deceased:  Jane Pattullo [faint, readable only in part]
+    When died:                     [4th] April 1879 [faint]
+    Sex:                           F [faint]
+    Age:                           70 [?] years 2 days [faint]
+    Rank or profession:            Widow [faint]
+    Where born:                    Eckford Scotland [faint]
+    Certified cause of death, and duration of illness:
+                                   [illegible on this film; the last word looks like
+                                   "months", preceded by a figure, perhaps 6 [?]]
+    Name of physician:             Dr. McKay [?] [faint]
+    Informant:                     Andrew Pattullo, Publisher, Woodstock [clear]
+    When registered:               [?] April 1879 [faint]
+    Religious denomination:        Canada Presbyterian [?] [faint]
+    Signature of registrar:        Wm. Grey [?]
+  Notes:     The ink of the lower half of this page has faded badly on the film, and only the
+             informant's line and the certificate number are clear. The cause of death is
+             therefore NOT established from this image: what is visible ends in a duration in
+             months, which would read as an illness, but I cannot read the cause itself and am
+             not guessing. A clearer copy (Archives of Ontario RG 80-8, or the image on Ancestry)
+             should be checked before anything is said about the 1903 statement. Age 70 years
+             2 days agrees with a birth on 2 Apr 1809. The informant Andrew Pattullo, publisher,
+             Woodstock, is presumably a son [my inference].
