@@ -1,0 +1,196 @@
+CITATIONS - Ellingwood side branches records, batch 1 (FamilySearch, searched 14 Nov 2026)
+
+Folder: inbox/ellingwood-side-branches-records-2026-11-14/
+[COUNT] files. All images are FamilySearch's full-size originals (dist.jpg).
+
+KEY POINTS
+[KEYPOINTS]
+
+==========================================================================================
+
+census-1860-wilton-elliott.jpg              [item 2]
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MC4J-HHB (Charles F Elliot)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33S7-9BSC-9WCY
+             image 459 of 722, DGS 005170448 (New York, 1860 federal census : population
+             schedules: New York. Census 1860)
+  Held by:   The U.S. National Archives and Records Administration (NARA), publication M653
+  Header:    Page No. 17 [stamped 447]. Schedule 1, Free Inhabitants in Wilton, in the County of
+             Saratoga, State of New York, enumerated by me on the 14th day of July 1860.
+             Geo. Washburn, Ass't Marshal. Post Office Bacon Hill [?].
+  Where:     lines 21-25 (Elliot) and 31-38 (Adams), lower half of the page
+  Transcription (dwelling | family | name | age | sex | [col. 6] | occupation | real estate |
+                 personal estate | birthplace):
+    21  130 | 131 | Charles F. Elliot | 31 | M | [tick] | Farmer | [ink blot] | 500 | Connecticut
+    22            | Susan M. [ditto] | 22 | F |  | [ditto] |  |  | New York
+    23            | Sobelia C. [?] [ditto] | 2 | F |  | [ditto] |  |  | [ditto]
+    24            | Michael Elliot | 60 | M |  | [ditto] |  |  | [ditto]
+    25            | Sobelia [ditto] | 59 | F |  | [ditto] |  |  | [ditto]
+    26  131 | 132 | Amanda M. Hudson | 32 | F |  | Farmer | 3500 | 500 | [ditto]
+        [lines 27-30: Matilda A., 21, Milliner; Ann E., 19; Juliett [?], 10; Alice A. [?], 3]
+    31  132 | 133 | Jason Addams | 80 | M | x | Farmer | 2800 | 1400 | New Hampshire
+    32            | Mary [ditto] | 80 | F | x | [ditto] |  |  | Massachusetts
+    33            | Amzi [?] Hudson | 68 | M |  | Farm labor |  |  | New York
+    34   [blank] | 134 | Lewis M. Addams | 48 | M |  | Farmer |  | 200 | [ditto]
+    35            | Jane M. [ditto] | 50 [?] | F |  | [ditto] |  |  | [ditto]
+    36            | Leonard [ditto] | 19 | M |  | [ditto] |  |  | [ditto]
+    37            | Laura M. [ditto] | 16 | F |  | [ditto] |  |  | [ditto]
+    38            | Harriet J. [ditto] | 7 | F |  | [ditto] |  |  | [ditto]
+    39  133 | 135 | Hi[?] Deyoe | 45 | M |  | Farmer | 300 | 300 | [not read]
+  Notes:     Charles is a farmer at Wilton in 1860, not yet on the railroad. Wife Susan M., 22,
+             matches Susan (Adams); the household two doors on is Jason Adams, 80, and his wife
+             Mary (the "Polly" of the task), with Lewis M. Adams, 48, next. A Michael Elliot, 60,
+             and Sobelia, 59, both given as born in New York (by ditto), live with Charles and
+             Susan. Their relationship to Charles is not stated (1860 gives none). They are the
+             right age to be his parents and the daughter's name Sobelia repeats the older
+             woman's, but Charles was born in Connecticut and they in New York, so this is a lead,
+             not proof. The "x" in column 6 beside Jason and Mary sits where the colour column is;
+             it may be a misplaced mark for column 13 (over 20 and cannot read or write) [?].
+             The index reads the child as "Sobelia J"; the initial looks like C or G to me [?].
+
+==========================================================================================
+
+census-1870-chicago-elliott.jpg              [item 2]
+  Collection: United States, Census, 1870
+  Record:    https://www.familysearch.org/ark:/61903/1:1:M642-LY9 (Chas F Elliott)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-XCMC-SZP
+             image 430, DGS 004263662 (FHL film 545699)
+  Held by:   The U.S. National Archives and Records Administration (NARA), publication M593
+  Header:    Page No. [not legible] [stamped 213]. Schedule 1, Inhabitants in 5th Ward [?],
+             Chicago, in the County of Cook, State of Illinois, enumerated by me on the 23rd [?] day
+             of July [?], 1870. Post Office: Chicago. S. T. Chapin [?], Ass't Marshal.
+             [FamilySearch's index gives the place as Chicago, ward 05.]
+  Where:     lines 10-14, upper third of the page
+  Transcription (dwelling | family | name | age | sex | colour | occupation | real estate |
+                 personal estate | birthplace | ... | attended school | ... | male citizen 21+):
+    10  773 | 902 | Elliott, Chas. F. | 40 | M | W | R.R. Conductor | 2000 | [none] | Conn. | ... | 1
+    11            | Susan M. | 33 | F | W | Keeps house |  |  | N.Y.
+    12            | Jennie S. | 13 | F | W | At school |  |  | do | attended school 1
+    13            | Geo. L. | 9 | M | W | do |  |  | do | attended school 1
+    14            | Laura E. | 4 | F | W |  |  |  | Ills.
+  Notes:     Not asked for by name; brought in because it ties the 1860 Wilton family to Chicago
+             and the railroad. Charles is now a railroad conductor. Wife Susan M. and the daughter
+             born about 1857 in New York match the 1860 household (there "Sobelia C. [?]", 2): the
+             child appears to be the same girl, here called Jennie S., which suggests her names
+             were Sobelia Jane or similar [my inference, not stated]. Columns 11-12 (father and
+             mother of foreign birth) are blank for the Elliotts.
+
+==========================================================================================
+
+will-1863-wilton-adams/  (1.jpg, 2.jpg)              [item 1]
+  Collection: New York, Probate Records, 1629-1971 (browse images); found through Full-Text
+             search ("Jason Adams" Wilton), not through the Index to Wills
+  Record:    none (unindexed images)
+  Image:     1.jpg  https://www.familysearch.org/ark:/61903/3:1:33S7-9YC7-FKS
+                    image 53 of 331 (record book pages 62-63)
+             2.jpg  https://www.familysearch.org/ark:/61903/3:1:33SQ-GYC7-X75
+                    image 54 of 331 (record book page 64; the next will begins on page 65)
+             DGS 005115907, "Saratoga. Wills 1862-1865" (FHL catalog: Wills v. 20, 1862-1865,
+             Saratoga County Surrogate's Court; film 555726)
+  Held by:   Saratoga County Surrogate's Court, Ballston Spa, New York (microfilm of the original
+             records in the Surrogate's Office)
+  Header:    "The last Will and Testament of Jason Adams, late of the town of Wilton deceased,
+             relating to real and personal estate, together with the proof thereof, recorded on
+             the 14th day of February 1863"
+  Transcription (pages 62-64, the Jason Adams entry only; the body follows FamilySearch's
+  AI transcript, corrected against the image; the passages naming the family I read myself):
+    [p. 62] At a Surrogates Court held at the Village of Saratoga Springs in and for the County of
+    Saratoga on the 14th day of February 1863. Present: Cornelius A. Waldron Surrogate.
+    Be it remembered that at a Surrogates Court held on the 14th day of February 1863, Charles
+    Adams, James M. Gailor and Lewis M. Adams, the persons named as executors in a certain
+    instrument dated the 9th day of September 1862, purporting to be the last Will and Testament
+    of Jason Adams deceased, appeared and presented said Will for probate; and at the same time
+    made satisfactory proof that said Jason Adams died on or about the 9th day of January 1863,
+    being at the time of his death an inhabitant of the County of Saratoga, and that he left him
+    surviving the following named persons, to wit: Laura Gilbert, Leonard Adams, Harriet Wooley
+    wife of Nelson Wooley, Orinda Wooley wife of Harry [?] Wooley and said petitioners, Charles
+    Adams and Lewis M. Adams, all of full age and who are all and the only heirs at law and next
+    of kin of said deceased. And all of said heirs and next of kin having appeared and waived by
+    an instrument in writing the issuing & service upon them of a citation to attend the proof
+    and probate of said last Will and Testament, and consenting to the immediate examination of
+    the witnesses thereto, and said Will being produced and shown to the attesting witnesses
+    thereto, the proof thereof was taken as follows to wit:
+    County of Saratoga, Surrogates Court. In the matter of proving the last Will and Testament
+    of Jason Adams deceased. Saratoga County SS: Edward Bevins and Edmund R. Woolley of the town
+    of Wilton in the County of Saratoga being first duly sworn in open court, on their oaths do
+    depose and say, that they are subscribing witnesses to the last Will and Testament of Jason
+    Adams late of the town of Wilton in the County of Saratoga, aforesaid, deceased. And these
+    deponents further say, that the said deceased did, in the presence of these deponents,
+    subscribe his name at the end of the instrument which is now shown to these deponents, and
+    which purports to be the last Will and Testament of the said deceased, and which bears date
+    on the 9th day of September in the year one thousand eight hundred and sixty two; that the
+    said deceased did at the time of subscribing his name to said instrument as aforesaid declare
+    the same to be his last Will and Testament; that these deponents did thereupon subscribe
+    their own names at the end of said instrument as attesting witnesses to the execution
+    thereof, at the request of the said deceased, and in his presence and in the presence of each
+    other. [p. 63] That the said deceased at the time of subscribing his name to said instrument
+    as aforesaid, was upwards of twenty one years of age; that he appeared to be of sound mind and
+    memory, and was not under restraint to the knowledge or belief of these deponents.
+    Edward Bevins, E. R. Woolley. Subscribed and sworn this 14th day of February 1863 before me
+    C. A. Waldron Surrogate.
+    And it appearing from the proof so taken that said instrument was duly executed, and that
+    said testator was at the time of executing the same in all respects competent to devise Real
+    Estate and not under restraint. And the said Surrogate having inquired into the facts and
+    circumstances, and being satisfied of the genuineness and validity of said Will, it is
+    ordered, adjudged and decreed that said instrument be admitted to probate as and to prevail
+    as and for the last Will and Testament of said Jason Adams deceased. And it is further
+    ordered that said Will be recorded with the proof thereof, which said proof is herein before
+    recorded, and said Will is in the words and figures
+    "In the name of God, Amen. I Jason Adams being of sound mind and well advanced in years and
+    considering the uncertainty of this mortal life, blessed be God for the same do make and
+    publish this my last Will and Testament in manner and form following that is to say: First.
+    I give to my beloved wife Mary or Polly as she is commonally coled the use of all my property
+    both Real and personal during her natural life, and at her death all my real estate shall be
+    equally divided between my three sons Leonard Adams, Lewis M. Adams and Charles Adams with
+    this proviso. All my debts shall be paid out of my Real Estate by Leonard, Lewis and Charles
+    and if my Real Estate shall be appraised worth two thousand dollars over and above paying my
+    debts then my three sons Leonard, Lewis and Charles shall pay to my three daughters Laura
+    Gilbert, Harriet Woolly and Orrinda Woolley one hundred dollars to each of them say Laura
+    Harriet and Orrinda to be paid to them within one year after there shall be a division or
+    sale of said real estate, and if the Real Estate shall not be worth two thousand dollars
+    after all my debts are paid, then my sons shall pay to my daughters in proportion to the one
+    hundred, calling one hundred each out of Two thousand. And I further give and bequeath to my
+    three daughters Laura Gilbert, Harriet Woolley and Orrinda Woolley All my household furniture
+    comprising Beds and bedding Tables, Crockery Chairs Looking Glasses Stands and in fine all
+    that shall be left at the death of my self and my beloved wife which is considered household
+    furnity. And I further order that Lewis M shall be paid out of my Real Estate what the barn
+    is worth standing near the meeting house deducting what the timber worth standing in the
+    woods as it all come of of [p. 64] the land to be divided and owned by me in my life time.
+    And I do further order that my personal property that shall be out doors such as cows,
+    horses, swine, wagons harness or farming utentials or anything that shall be left out doors
+    shall be sold or applide to paying funeral expenses for myself and wife and for head stones
+    for me and my wife and if there should not be enough then the remainder shall be taken out of
+    the real estate and in case there should be more than to bury us decesent and supply the head
+    stones then the surplus shall be put out on interest and given to J. R. Adams son of Charles
+    Adams. And I do further order that there shall be twenty five dollars deducted out of any
+    just claim that Lewis M. Adams may present against me or the estate for rent due me which he
+    had ought to have paid Vischer for rent that was due while he lived and ocupide the land north
+    of the road coled the forty two acre lot. In speaking of my out door personal property, it is
+    understood to mean all grain I may have on hand, potatoes, hay or fodder of all descriptions.
+    There is due from John Han [?] yearly rents of three dollars thirty seven cents, Also from
+    Nelson Woolley four dollars and forty four cents which my executors will see that is fixed in
+    appraising the land which will reduce the rent of twenty five dollars going to Visscher to
+    seventeen dollars and nineteen cents, these rents comes due the first of April in each and
+    every year it is my wish the land to be appraised with the seventeen dollars and nineteen
+    cents rent as the rents to be collected reduces it to that amount, Sept 9. 1862. Witness my
+    hand and seal Jason Adams (L. S.) I do hereby appoint Charles Adams, Lewis M. Adams and
+    James M. Gailor [?] as my executors of my estate. Jason Adams.
+    The foregoing last will and Testament of Jason Adams containing one sheet of paper ocupide by
+    the said testator or will was this day, signed, sealed, published and declared by the said
+    testator to be his last Will and Testament in our presents, and in the presents of each other
+    who at his request and in his presents did in the presents of each other have subscribed our
+    names thereto as witnesses this 9. Sept. 1862, Edward Bevins of Wilton, Saratoga County,
+    Edmund R. Woolley of Wilton, Saratoga County, N. Y."
+    I, Cornelius A. Waldron, Surrogate of the County of Saratoga do hereby certify the foregoing
+    to be a true record of the last Will and Testament of Jason Adams deceased, relating to Real
+    and personal estate, and of the proof thereof taken before me on the 14th day of February
+    1863. C. A. Waldron Surrogate.
+  Notes:     Proves Lewis M. Adams's father: Jason names "my three sons Leonard Adams, Lewis M.
+             Adams and Charles Adams" and daughters Laura Gilbert, Harriet Woolley (wife of Nelson)
+             and Orrinda Woolley (wife of Harry [?]), and his wife "Mary or Polly as she is
+             commonally coled." Jason died on or about 9 Jan 1863; the will is dated 9 Sept 1862
+             and was proved 14 Feb 1863. Lewis had lived on and farmed the "forty two acre lot"
+             north of the road, rented from Visscher. "J. R. Adams son of Charles Adams" is a
+             grandson. The task's Index to Wills route (DGS 005115924, drawer 055 folder 60) was
+             not needed: Full-Text search reached the will book directly. The original papers in
+             the Surrogate's files (drawer 055, folder 60) were not looked for.
