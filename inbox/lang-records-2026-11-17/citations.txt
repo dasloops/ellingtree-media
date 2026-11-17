@@ -1,0 +1,192 @@
+CITATIONS - Lang records (parents of Theresia Lang Haberkorn), batch 1 (FamilySearch, searched 17 Nov 2026)
+
+Folder: inbox/lang-records-2026-11-17/
+0 files. No images in this batch: the step that copies an original (dist.jpg) from the browser
+tab into the agent's environment was refused by the agent's permission check this session, so
+every entry below is a transcription made by reading the image in FamilySearch's viewer, or an
+index entry. Image arks are given so the originals can be added later.
+
+KEY POINTS
+- No record found in this batch names Theresia's mother. The question is still open.
+- The 1852 marriage: only the civil index was found (George Habercorn and Teresa Lang, Dubuque
+  County, book 1, p. 69, cert. 206). The search-results line dates it 27 Oct 1852, not 4 Oct.
+  The register image is padlocked. No filmed registers of SS. Peter and Paul, Sherrill, were
+  found in the FamilySearch Catalog, so the church entry (the one likely to name parents) was not
+  reached.
+- 1850: the household is Allois Long 46, Catherine Long 57, Sarah Long 15, Allois Long 12, all
+  born Germany (read from the image; the index gives Catherine as 51 and the head as female).
+- 1860: Aloysus Lang 54, farmer, b. Bavaria, still has Catharina Lang 61 (b. Bavaria) in his
+  household at Sherrill's Mount P.O., Jefferson Twp. So Catherine was alive in 1860, and was
+  born in Bavaria by this census (not Switzerland, as the online tree says).
+- The younger "Allois" of 1850 is a son, not a daughter: in 1860 he is Aloysus Lang, 21, male,
+  farm laborer, with Elizabeth, 26. He is very likely the Alois Lang who married Elizabeth
+  Stuckel/Steckel in 1859 and died in Dubuque on 20 Dec 1911 aged 74 (born 24 Dec 1837).
+  His death certificate names his father Alois Lang, born Germany, and gives the mother's
+  maiden name as "Don't know".
+- 1870: Aloys Lang, 63, b. Bavaria, lives in the household of Peter Fries, Jefferson Twp, with
+  no wife listed. So Alois senior outlived Catherine or was living apart from her by 1870.
+- If Theresia (b. c. 1836) was Alois and Catherine's daughter, Catherine (b. c. 1793-1799)
+  was about 37-43 at her birth: late, but possible. The stepmother question is not settled
+  either way by these records.
+- The Family Tree's "Catherine Hahn, b. c. 1818" (L8WJ-VTM) has no sources attached at all.
+
+==========================================================================================
+
+(no file) marriage, civil index, 1852               [item 1]
+  Collection: Iowa, County Marriages, 1838-1934
+  Record:    https://www.familysearch.org/ark:/61903/1:1:XJK5-K84 (George Habercorn)
+  Image:     not viewable. The record page says "Image Unavailable". The register itself is
+             Dubuque County Marriage register v. A, 1-2, 1835-1865, DGS 004311184 (film 1035386),
+             702 images; every thumbnail shows a padlock for this account.
+  Held by:   Dubuque County Courthouse, Dubuque, Iowa; Iowa District Court / County Court
+             (Dubuque County) as creators (FamilySearch Catalog 95219)
+  Transcription (the index fields):
+    Groom: George Habercorn | Sex: Male | Event: Marriage | Date: 1852
+    Bride: Teresa Lang | Sex: Female
+    Place: Dubuque, Dubuque, Iowa, United States
+    Source details: bk1, pg69, cn206
+  Notes:     The search-results list shows the date as "27 October 1852"; the record page
+             shows only "1852". The brief has 4 Oct 1852 (probably the church date; the civil
+             return may have been filed later, or one of the two dates is wrong). The record is
+             attached in the Tree to Georg Haberkorn 1827-1906 (9V3S-SL6).
+
+census-1850-dubuque-long                            [item 2]  (no file; see note at top)
+  Collection: United States, Census, 1850
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MZ4D-KHZ (Allois Long, 46)
+             https://www.familysearch.org/ark:/61903/1:1:MZ4D-KH6 (Allois Long, 12)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HY-XCW3-JHG
+             image 153 of 263 (item 4), DGS 004181031 (Iowa, 1850 federal census: population
+             schedules, Dubuque County)
+  Held by:   The U.S. National Archives and Records Administration (NARA), M432
+  Header:    Schedule I. Free Inhabitants in Dist. No. 7 [?] in the County of Dubuque, State of
+             Iowa, enumerated by me on the 1[?] day of Nov[?] 1850. [Ass't Marshal's name not
+             read with certainty.]
+  Where:     lines 28-31, lower part of the page. [The index gives line 31 for the 46-year-old.]
+  Transcription (dwelling | family | name | age | sex | occupation | real estate | birthplace):
+    28  1107 | 1151 | Allois Long   | 46 | [F as indexed; mark unclear] | Farmer | 400 | Germany
+    29       |      | Catherine Long | 57 | F |  |  | [ditto]
+    30       |      | Sarah Long    | 15 | F |  |  | [ditto]
+    31       |      | Allois Long   | 12 | [unclear] |  |  | [ditto]
+  Notes:     The index has Catherine as 51; the figure on the image reads 57. Neighbours: Mathias
+             Bingent (dw. 1106) above; Elizabeth Harman (dw. 1108) below. On the same film as
+             Adam "Havercorn" (DGS 004181031, image 155). The 12-year-old "Allois" is very likely
+             the son Alois (see 1860 below), not a daughter Aloysia. No Theresia in the
+             household; "Sarah" 15 (b. c. 1835) could be Theresia misheard, or a sister.
+
+census-1860-jefferson-lang                          [item 3, substitute]  (no file)
+  Collection: United States, Census, 1860
+  Record:    https://www.familysearch.org/ark:/61903/1:1:M825-R8T (Aloysus Lang, 54)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:33SQ-GB9J-7R3
+             image 188 of 804, Iowa, 1860 federal census: population schedules, Dubuque
+  Held by:   NARA, M653
+  Header:    [Jefferson] Township, County of Dubuque, State of Iowa, enumerated [day ?] June
+             1860; Post Office: Sherrill's Mount. Page 46 (index).
+  Where:     lines 1-4, top of the page
+  Transcription (name | age | sex | occupation | real estate | personal estate | birthplace):
+    1  Aloysus Lang | 54 | M | Farmer      | 2000 [?] | 340 [?] | Bavaria
+    2  Catharina    | 61 | F |             |          |         | [ditto]
+    3  Aloysus      | 21 | M | Farm Laborer|          |         | [ditto]
+    4  Elizabeth    | 26 | F |             |          |         | [ditto]
+  Notes:     Same family as 1850: the head's age moves 46 -> 54, Catherine 57 -> 61, the
+             younger Alois 12 -> 21 and here clearly male. Elizabeth is presumably his wife
+             Elizabeth Stuckel/Steckel (married 15 Feb 1859, Dubuque County index:
+             https://www.familysearch.org/ark:/61903/1:1:XJKN-VQN). Sarah is no longer here.
+             Next household (line 5): George Hiller [?], farmer, Prussia.
+             George Haberkorn's household is in the same township in 1860 (index: George b.
+             1829 Bavaria, Theressa b. 1837 Bavaria, Mary 1855, Adolph 1857, Juliann 1859).
+
+census-1870-jefferson-lang                          [item 5, lead]  (no file)
+  Collection: United States, Census, 1870
+  Record:    https://www.familysearch.org/ark:/61903/1:1:MDVM-522 (Aloys Lang, in the entry
+             for Peter Fries)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:S3HT-6QC7-J71 (not read)
+  Held by:   NARA, M593
+  Transcription (index): Aloys Lang | M | 63 | b. Bavaria | Jefferson, Dubuque, Iowa |
+             page 3, line 18, household 18. Household head Peter Fries 55, Prussia; also
+             Catharine Fries 47, Edward 27, Marie 21, Caroline 19, Peter 15, Franz Klein 27,
+             Francis McCormick 53, Catharine Manges 20.
+  Notes:     No wife with him. Catherine Lang probably died between 1860 and 1870 (not
+             confirmed). Alois senior was alive in 1870, so his death is after that date.
+
+death-certificate-lang-1911                         [identity: probable brother]  (no file)
+  Collection: Iowa, Death Records, 1904-1951
+  Record:    https://www.familysearch.org/ark:/61903/1:1:QPL2-P9QK (Alois Lang)
+  Image:     https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS68-C3XP-F
+             image 3951 of 4,571, DGS 102869833 (Death Records: Iowa, 1904-1912; volume
+             Dubuque County, DC-31-1)
+  Held by:   Iowa Department of Public Health (State of Iowa death certificate)
+  Transcription:
+    1. County of Dubuque  2. Township of Julien  3. City Dubuque, No. 853 High Bluff, 5th Ward
+    4. Full name: Alois Lang   5. Sex: Male   6. Color: White
+    7. Date of birth: Dec. 24, 1837 [year as read; 74 years agrees]   8. Age: 74 years
+    9. Widower   10. Birthplace: Germany
+    11. Name of father: Alois Lang   12. Birthplace of father: Germany
+    13. Maiden name of mother: Don't know   14. Birthplace of mother: Germany
+    15. Occupation: Retired
+    16. Informant: George Lang, 853 Hi Bluff St.
+    17. Date of death: Dec. 20, 1911. Attended from Dec 17, 1911 to Dec 20, 1911; last saw
+        alive Dec 19, 1911; death at 4:15 A.M. 18. Cause: chronic cystitis; contributory:
+        prostatitis. 19. Signed F. N. Wieland [?], M.D.
+    22. Burial: Mt. Calvary   23. Date of burial: Dec 22, 1911   24. Undertaker: E. P. Spahn,
+        Dubuque. Certificate no. 310623 (index).
+  Notes:     Identity with the 1850/1860 son rests on the name, the father's name, the age
+             (12 in 1850, 21 in 1860, b. Dec 1837) and Dubuque County; not proved. If he is
+             Theresia's brother, his informant (presumably a son) did not know the mother's
+             maiden name.
+
+(no file) children's records naming Theresia        [supporting]
+  Iowa, County Marriages, 1838-1934:
+    https://www.familysearch.org/ark:/61903/1:1:XJ6N-FFJ  Rosina Haberkorn, bride, married
+    1 May 1888, Sherrill's Mound, Dubuque, Iowa; b. 1860 Iowa; parents George Haberkorn,
+    Theresa Lang; groom John A. Wand.
+    https://www.familysearch.org/ark:/61903/1:1:XJKW-XWR  marriage of Alois Haberkorn
+    (index line: father of groom George Haberkorn, mother Theresa Lang). Not opened.
+  Notes:     These confirm that George's wife was a Lang, nothing more about her parents.
+             Two of the children's later death certificates (Iowa, Death Records) also name
+             the mother as Theresa Lang/Lange; they are left out of this public file (see the
+             agent's reply).
+
+(no file) Find a Grave index, Theresia                [item 5]
+  Collection: Find a Grave Index
+  Record:    https://www.familysearch.org/ark:/61903/1:1:QV21-KZ94
+  Transcription (index): Theresia Lang Haberkorn | birth 11 June 1836 | death 29 March 1901 |
+             burial Sherrill, Dubuque, Iowa | Saints Peter and Paul Cemetery | photograph
+             included: Y | contains biography: Y
+  Notes:     The memorial itself was not opened (the link from FamilySearch did not open in the
+             browser), so the inscription and biography are not transcribed. The memorial's
+             birth date is the same as the online tree's and may be its source.
+
+(no file) Family Tree leads                         [item 7]
+  Theresia Lang 1836-1901, 9V3S-SLF: parents shown as Alois Lang (L8WJ-V55, b. 1818) and
+  Catherine Hahn (L8WJ-VTM, b. 1818). Catherine Hahn has 0 sources. Theresia's 15 sources are
+  US records only (censuses 1860-1900, 1895 Iowa census, the 1852 marriage index, children's
+  marriages and deaths, Find a Grave). None gives Hahn, Switzerland, Baden, a German birthplace
+  or a ship. Several attached sources (Washington death 1955, California death index 1946,
+  Social Security NUMIDENT, an Iowa marriage of 1922) are about a different, later Theresa
+  Lang/Long and look wrongly attached. Read only; nothing changed in the Tree.
+
+==========================================================================================
+NOT FOUND OR NOT VIEWABLE (no file)
+
+1. Church marriage, SS. Peter and Paul, Sherrill, Oct 1852: no filmed registers found.
+   FamilySearch Catalog searched by place "United States, Iowa, Dubuque, Sherrill" (no entries;
+   the place is referred to Dubuque County), place "Iowa, Dubuque" (100 titles; no church-record
+   subject for Sherrill), keywords "Sherrill Catholic" and "Catholic Church Dubuque". The only
+   filmed Catholic parish registers found for the county were St. Boniface, New Vienna,
+   1844-1989 (film 1637056, DGS 4255383); not browsed. The registers are presumably still at the
+   parish or with the Archdiocese of Dubuque archives.
+   Civil register image: Dubuque County marriage register v. A, 1-2 (DGS 004311184) is locked.
+   Full-Text search: "Haberkorn Lang", "Haberkorn" "Lang", "Haberkorn Lang Sherrill": nothing
+   relevant before 1876 (hits were an 1876 Dubuque County atlas directory and 20th-century
+   records).
+3. 1856 Iowa state census: no index entries found on FamilySearch for Haberkorn or Lang in
+   Dubuque County for 1854-1860 (searched surname Haberkorn with residence Iowa 1854-1860;
+   Alois/Aloys Lang with residence Dubuque 1852-1870). The 1860 federal census was used instead.
+   1854 Iowa census: not looked for.
+4. Baptisms of Theresia's children at Sherrill: registers not filmed (see 1).
+5. Catherine Lang's death and burial: not found. Alois Lang senior's death (after 1870): not
+   found. Theresia's 1901 death: before Iowa state death registration (1904); only the Find a
+   Grave index entry above.
+6. Sarah and Aloysia Lang: "Aloysia" turned out to be a son (see 1860). Sarah's marriage in
+   Dubuque County 1850-1865: not searched.
+   German home parish: none named in anything found, so no German search was made.
